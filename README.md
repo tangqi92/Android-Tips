@@ -10,6 +10,10 @@
 4. [Android中的跨进程通信的实现（一）——远程调用过程和aidl](http://foocoder.com/blog/androidzhong-de-kua-jin-cheng-tong-xin-de-shi-xian-(%5B%3F%5D-)-yuan-cheng-diao-yong-guo-cheng-he-aidl.html/)
 5. [Android Studio下如何配置AIDL文件](http://chenqichao.me/2014/05/13/003-Android-Studio-AIDL/)
 
+### AsyncTask
+
+1. [Android开发者：你真的会用AsyncTask吗？](http://code.oneapm.com/android/2015/06/02/android1/)
+
 ## B
 
 ## C
@@ -31,6 +35,10 @@
 ## D
 
 ## E
+
+### EventBus
+
+1. [EventBus使用详解(一)——初步使用EventBus](http://blog.csdn.net/harvic880925/article/details/40660137)
 
 ## F
 
@@ -58,6 +66,7 @@
 
 1. [Using Immersive Full-Screen Mode](https://developer.android.com/training/system-ui/immersive.html)
 2. [全屏沉浸式应用](http://hukai.me/android-training-course-in-chinese/ui/system-ui/immersive.html)
+3. [Android 开发笔记——通过 Intent 传递类对象](http://www.cnblogs.com/shaocm/archive/2013/01/08/2851248.html)
 
 ### Intent and Intent Filters
 
@@ -98,6 +107,14 @@
 
 ## S
 
+### Serializable - 序列化
+
+### Service - 服务
+
+1. []()
+
+1. []()
+
 ## T
 
 ### Thread - 多线程
@@ -106,14 +123,17 @@
 2. [ThreadPoolExecutor使用和思考(上)-线程池大小设置与BlockingQueue的三种实现区别](http://dongxuan.iteye.com/blog/901689)
 3. [Java并发编程：Callable、Future和FutureTask](http://www.cnblogs.com/dolphin0520/p/3949310.html)
 4. [Java 7之多线程线程池 - Callable和Future](http://blog.csdn.net/mazhimazh/article/details/19291965)
-5. [Android线程间交互（Java synchronized & Android Handler）](http://www.juwends.com/tech/android/android-inter-thread-comm.html)
-6. [Android--多线程之Handler](http://www.cnblogs.com/plokmju/p/android_handler.html)
-7. [Java(Android)中线程池的使用](http://landerlyoung.github.io/blog/2014/09/23/javazhong-xian-cheng-chi-de-shi-yong/)
-
+5. [Java 7之多线程线程池 - 线程池原理（1)](http://blog.csdn.net/mazhimazh/article/details/19243889)
+6. [Android线程间交互（Java synchronized & Android Handler）](http://www.juwends.com/tech/android/android-inter-thread-comm.html)
+7. [Android--多线程之Handler](http://www.cnblogs.com/plokmju/p/android_handler.html)
+8. [Java(Android)中线程池的使用](http://landerlyoung.github.io/blog/2014/09/23/javazhong-xian-cheng-chi-de-shi-yong/)
 
 ## U
 
 ## V
+
+### ViewPager
+
 
 ## W
 
