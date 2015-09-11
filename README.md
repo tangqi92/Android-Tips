@@ -2,7 +2,7 @@
 
 ## A
 
-### AIDL（Android Interface Definition Language）- 进程间通信
+### AIDL - 进程间通信
 
 1. [android进程间通信：使用AIDL](http://blog.csdn.net/saintswordsman/article/details/5130947)
 2. [Android AIDL使用详解](http://blog.csdn.net/stonecao/article/details/6425019)
@@ -33,6 +33,10 @@
 2. [一个经典例子让你彻彻底底理解java回调机制](http://blog.csdn.net/xiaanming/article/details/8703708)
 
 ## D
+
+### Download - 下载
+
+1. [Download a file with Android, and showing the progress in a ProgressDialog](http://stackoverflow.com/questions/3028306/download-a-file-with-android-and-showing-the-progress-in-a-progressdialog)
 
 ## E
 
@@ -110,10 +114,6 @@
 ### Serializable - 序列化
 
 ### Service - 服务
-
-1. []()
-
-1. []()
 
 ## T
 
