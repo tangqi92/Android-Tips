@@ -35,6 +35,8 @@
 ### Adapter
 
 1. [Android简便通用的SimpleBaseAdapter](http://www.stormzhang.com/androidtips/2014/08/31/android-common-simplebaseadapter/)
+2. [Android数据适配器(Adapter)优化：使用高效的ViewHolder](http://stackvoid.com/using-adapter-in-efficiency-way/)
+3. [Android 快速开发系列 打造万能的ListView GridView 适配器](http://blog.csdn.net/lmj623565791/article/details/38902805/)
 
 ## B
 
@@ -82,6 +84,10 @@
 
 1. [Handling Scrolls with CoordinatorLayout](https://guides.codepath.com/android/Handling-Scrolls-with-CoordinatorLayout)
 
+### Context
+
+1. [android学习—— context 和 getApplicationContext()](http://blog.csdn.net/janronehoo/article/details/7348566)
+
 ## D
 
 ### Download - 下载
@@ -109,6 +115,8 @@
 4. [处女男学Android（九）---Fragment进阶篇之Fragment生命周期和回退栈](http://blog.csdn.net/wlwlwlwl015/article/details/40584567)
 5. [Fragment笔记整理](http://www.lightskystreet.com/2015/02/02/fragment-note/)
 5. [Android实战技巧：Fragment的那些坑](http://toughcoder.net/blog/2015/04/30/android-fragment-the-bad-parts/)
+6. [android Fragments详解四:管理fragment](http://www.cnblogs.com/mybkn/articles/2455138.html)
+7. [Android Fragment 嵌套使用(Nested Fragments)](http://blog.csdn.net/top_code/article/details/37343075)
 
 ### 反编译
 
@@ -301,11 +309,6 @@
 
 1. [Google为何这样设计OnSharedPreferenceChangeListener](http://droidyue.com/blog/2014/11/29/why-onsharedpreferencechangelistener-was-not-called/)
 
-### 事件分发
-
-1. [两分钟彻底让你明白Android中onInterceptTouchEvent与onTouchEvent(图文)!](http://blog.csdn.net/android_tutor/article/details/7193090)
-2. [MotionEvent事件在onInterceptTouchEvent()、onTouchEvent()中的传递顺序](http://www.cnblogs.com/rocky_yi/archive/2011/01/21/1941522.html#)
-
 
 ## T
 
@@ -392,3 +395,9 @@
 3. [浅析android应用增量升级](http://blog.csdn.net/hmg25/article/details/8100896)
 4. [Android四大基本组件介绍与生命周期](http://www.cnblogs.com/bravestarrhu/archive/2012/05/02/2479461.html)
 5. [Android代码优化——使用Android lint工具](http://blog.csdn.net/xyz_lmn/article/details/14222939)
+6. [Android 插件化 动态升级](http://www.trinea.cn/android/android-plugin/)
+7. [两分钟彻底让你明白Android中onInterceptTouchEvent与onTouchEvent(图文)!](http://blog.csdn.net/android_tutor/article/details/7193090)
+8. [MotionEvent事件在onInterceptTouchEvent()、onTouchEvent()中的传递顺序](http://www.cnblogs.com/rocky_yi/archive/2011/01/21/1941522.html#)
+9. [Java String StringBuilder StringBuffer](http://www.stormzhang.com/java/2014/08/08/java-string-stringbuilder-stringbuffer/)
+10. [tools:context=".MainActivity的作用](http://blog.csdn.net/caiwenfeng_for_23/article/details/8373569)
+11. [MVC，MVP 和 MVVM 的图示](http://www.ruanyifeng.com/blog/2015/02/mvcmvp_mvvm.html)
