@@ -32,6 +32,10 @@
 
 1. [快速Android开发系列网络篇之Android-Async-Http](http://www.cnblogs.com/angeldevil/p/3729808.html)
 
+### Adapter
+
+1. [Android简便通用的SimpleBaseAdapter](http://www.stormzhang.com/androidtips/2014/08/31/android-common-simplebaseadapter/)
+
 ## B
 
 ### Bitmap
@@ -74,6 +78,10 @@
 2.[Android 命名规范 （提高代码可以读性）](http://blog.csdn.net/vipzjyno1/article/details/23542617)
 3.[Code Style Guidelines for Contributors](http://source.android.com/source/code-style.html)
 
+### CoordinatorLayout
+
+1. [Handling Scrolls with CoordinatorLayout](https://guides.codepath.com/android/Handling-Scrolls-with-CoordinatorLayout)
+
 ## D
 
 ### Download - 下载
@@ -100,6 +108,7 @@
 3. [Android系列之Fragment（二）----Fragment的生命周期和返回栈](http://www.cnblogs.com/smyhvae/p/3983234.html)
 4. [处女男学Android（九）---Fragment进阶篇之Fragment生命周期和回退栈](http://blog.csdn.net/wlwlwlwl015/article/details/40584567)
 5. [Fragment笔记整理](http://www.lightskystreet.com/2015/02/02/fragment-note/)
+5. [Android实战技巧：Fragment的那些坑](http://toughcoder.net/blog/2015/04/30/android-fragment-the-bad-parts/)
 
 ### 反编译
 
@@ -127,6 +136,7 @@
 ### GridView
 
 1. [Android入门第八篇之GridView(九宫图)](http://blog.csdn.net/hellogv/article/details/4567095)
+2. [用Volley让GridView加载网络图片](http://www.cnblogs.com/tianzhijiexian/p/4277873.html)
 
 ### Glide
 
@@ -144,11 +154,12 @@
 2. [全屏沉浸式应用](http://hukai.me/android-training-course-in-chinese/ui/system-ui/immersive.html)
 3. [Android 开发笔记——通过 Intent 传递类对象](http://www.cnblogs.com/shaocm/archive/2013/01/08/2851248.html)
 
-### Intent and Intent Filters
+### Intent
 
 1. [Android系列教程之十：Intents and Intent Filters(一)](http://flysnow.iteye.com/blog/961576)
 2. [ Android高手进阶教程(十七)之---Android中Intent传递对象的两种方法(Serializable,Parcelable)!](http://blog.csdn.net/android_tutor/article/details/5740845)
 3. [Intent filter 关于Action、Category属性详解---附带实例源码](http://blog.csdn.net/andie_guo/article/details/9271973)
+4. [startActivityForResult用法详解](http://www.cnblogs.com/linjiqin/archive/2011/06/03/2071956.html)
 
 ### ImageView
 
@@ -172,6 +183,10 @@
 1. [Android App组件之ListFragment -- 说明和示例](http://www.cnblogs.com/skywang12345/p/3160260.html)
 2. [Android 使用ListFragment显示列表](http://li2.me/android/Displaying-Lists-with-ListFragment/)
 
+### ListView
+
+1. [在Activity中响应ListView内部按钮的点击事件](http://www.cnblogs.com/ivan-xu/p/4124967.html)
+
 ## M
 
 ### MessageDigest
@@ -184,6 +199,7 @@
 1. [Google Material Design: Everything You Need to Know](http://designshack.net/articles/webstandards/google-material-design-everything-you-need-to-know/)
 2. [An exploration in Material Design](https://medium.com/feedly-behind-the-curtain/an-exploration-in-material-design-by-feedly-8c1a1cbdfdcd)
 3. [谢谷歌大神传我动画设计30年功力](http://www.zcool.com.cn/article/ZMTU5MzAw.html#jtss-tsina)
+4. [Codelab for Android Design Support Library used in I/O Rewind Bangkok session](http://inthecheesefactory.com/blog/android-design-support-library-codelab/en)
 
 ## N
 
@@ -218,6 +234,7 @@
 ### Preference
 
 1. [PreferenceActivity（首选项设置页）](http://blog.csdn.net/plussoft/article/details/9993759)
+2. [Android的设置界面及Preference使用](http://blog.csdn.net/ichliebephone/article/details/5916320)
 
 ## Q 
 
@@ -232,6 +249,8 @@
 1. [RecyclerView使用详解（一）](http://frank-zhu.github.io/android/2015/01/16/android-recyclerview-part-1/)
 2. [Android RecyclerView 使用完全解析 体验艺术般的控件](http://blog.csdn.net/lmj623565791/article/details/45059587)
 3. [A Guide to Android RecyclerView and CardView](http://www.binpress.com/tutorial/android-l-recyclerview-and-cardview-tutorial/156)
+4. [Android-RecyclerView-Item点击事件设置](http://blog.csdn.net/guxiao1201/article/details/40423361)
+5. [Why doesn't RecyclerView have onItemClickListener()? And how RecyclerView is different from Listview?](http://stackoverflow.com/questions/24885223/why-doesnt-recyclerview-have-onitemclicklistener-and-how-recyclerview-is-dif)
 
 ### RandomAccessFile
 
@@ -302,6 +321,10 @@
 8. [Java(Android)中线程池的使用](http://landerlyoung.github.io/blog/2014/09/23/javazhong-xian-cheng-chi-de-shi-yong/)
 9. [Java(Android)线程池](http://www.trinea.cn/android/java-android-thread-pool/)
 
+### Textview
+
+1. [Remove underline from links in TextView](http://stackoverflow.com/questions/4096851/remove-underline-from-links-in-textview-android)
+
 ## U
 
 ## V
@@ -361,3 +384,11 @@
 6. [Android SDK: Creating Custom Views](http://code.tutsplus.com/tutorials/android-sdk-creating-custom-views--mobile-14548)
 7. [Creating custom and compound Views in Android - Tutorial](http://www.vogella.com/tutorials/AndroidCustomViews/article.html)
 8. [Tutorial: Enhancing Android UI with Custom Views](https://newcircle.com/s/post/1663/tutorial_enhancing_android_ui_with_custom_views_dave_smith_video)
+
+### 其他
+
+1. [THE DEX 64K LIMIT IS NOT A PROBLEM ANYMORE, ALMOST](http://www.mutualmobile.com/posts/dex-64k-limit-not-problem-anymore-almost)
+2. [Android 4.4从图库选择图片,获取图片路径并裁剪](http://blog.csdn.net/tempersitu/article/details/20557383)
+3. [浅析android应用增量升级](http://blog.csdn.net/hmg25/article/details/8100896)
+4. [Android四大基本组件介绍与生命周期](http://www.cnblogs.com/bravestarrhu/archive/2012/05/02/2479461.html)
+5. [Android代码优化——使用Android lint工具](http://blog.csdn.net/xyz_lmn/article/details/14222939)
