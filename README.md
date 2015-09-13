@@ -46,6 +46,7 @@
 2. [Android中自定义布局中加载图片BitmapFactory.options详解](http://blog.csdn.net/appandroid/article/details/11213973)
 3. [Android学习笔记进阶16之BitmapShader](http://blog.csdn.net/sjf0115/article/details/7267532)
 4. [Android 优化Bitmap避免OutOfMemoryError](http://chjmars.iteye.com/blog/1157137)
+5. [Android 异步加载图片，使用LruCache和SD卡或手机缓存，效果非常的流畅](http://blog.csdn.net/xiaanming/article/details/9825113)
 
 ### Broadcast
 
@@ -87,6 +88,7 @@
 ### Context
 
 1. [android学习—— context 和 getApplicationContext()](http://blog.csdn.net/janronehoo/article/details/7348566)
+2. [Android中Context详解 ---- 你所不知道的Context](http://blog.csdn.net/qinjuning/article/details/7310620)
 
 ## D
 
@@ -104,6 +106,7 @@
 ### EventBus
 
 1. [EventBus使用详解(一)——初步使用EventBus](http://blog.csdn.net/harvic880925/article/details/40660137)
+2. [快速Android开发系列通信篇之EventBus](http://www.cnblogs.com/angeldevil/p/3715934.html)
 
 ## F
 
@@ -251,6 +254,7 @@
 ### Reference
 
 1. [Java的引用StrongReference、 SoftReference、 WeakReference 、PhantomReference](http://blog.csdn.net/mxbhxx/article/details/9111711)
+2. [Java 7之基础 - 强引用、弱引用、软引用、虚引用](http://blog.csdn.net/mazhimazh/article/details/19752475)
 
 ### RecyclerView
 
@@ -387,6 +391,7 @@
 6. [Android SDK: Creating Custom Views](http://code.tutsplus.com/tutorials/android-sdk-creating-custom-views--mobile-14548)
 7. [Creating custom and compound Views in Android - Tutorial](http://www.vogella.com/tutorials/AndroidCustomViews/article.html)
 8. [Tutorial: Enhancing Android UI with Custom Views](https://newcircle.com/s/post/1663/tutorial_enhancing_android_ui_with_custom_views_dave_smith_video)
+9. [Android 自定义View (一)](http://blog.csdn.net/lmj623565791/article/details/24252901)
 
 ### 其他
 
@@ -401,3 +406,6 @@
 9. [Java String StringBuilder StringBuffer](http://www.stormzhang.com/java/2014/08/08/java-string-stringbuilder-stringbuffer/)
 10. [tools:context=".MainActivity的作用](http://blog.csdn.net/caiwenfeng_for_23/article/details/8373569)
 11. [MVC，MVP 和 MVVM 的图示](http://www.ruanyifeng.com/blog/2015/02/mvcmvp_mvvm.html)
+12. [关于APK瘦身值得分享的一些经验](http://www.jianshu.com/p/bd90dee57ad0)
+13. [Java开发中的23种设计模式详解](http://zz563143188.iteye.com/blog/1847029)
+14. [性能优化之数据库优化](http://www.trinea.cn/android/database-performance/)
