@@ -41,6 +41,12 @@
 1. [How to Define Callbacks in Android?](http://stackoverflow.com/questions/3398363/how-to-define-callbacks-in-android)
 2. [一个经典例子让你彻彻底底理解java回调机制](http://blog.csdn.net/xiaanming/article/details/8703708)
 
+### CardView
+
+1. [Android CardView Example](http://www.truiton.com/2015/03/android-cardview-example/)
+2. [Android CardView Widget – Add Cards to a List using RecyclerView](http://techlovejump.com/android-cardview-widget-example-add-to-list-using-recyclerview/)
+
+
 ### Code Style
 
 1.[Java编程规范](http://www.stormzhang.com/java/2013/07/20/java-coding-standards/)
@@ -97,6 +103,12 @@
 6. [Gradle Android Could not find method testPackage()](http://stackoverflow.com/questions/16971740/gradle-android-could-not-find-method-testpackage)
 7. [Android Studio 1.0 Gradle Error with getConfiguration()](http://stackoverflow.com/questions/27410183/android-studio-1-0-gradle-error-with-getconfiguration)
 
+### GridView
+
+1. [Android入门第八篇之GridView(九宫图)](http://blog.csdn.net/hellogv/article/details/4567095)
+2. []()
+3. []()
+
 ## H
 
 ## I
@@ -137,6 +149,12 @@
 1. [Java利用MessageDigest获取字符串或文件MD5详解](http://blog.csdn.net/xiao__gui/article/details/8148203)
 2. [类 MessageDigest](http://www.cjsdn.net/Doc/JDK50/java/security/MessageDigest.html)
 
+### Material Design
+
+1. [Google Material Design: Everything You Need to Know](http://designshack.net/articles/webstandards/google-material-design-everything-you-need-to-know/)
+2. [An exploration in Material Design](https://medium.com/feedly-behind-the-curtain/an-exploration-in-material-design-by-feedly-8c1a1cbdfdcd)
+3. [谢谷歌大神传我动画设计30年功力](http://www.zcool.com.cn/article/ZMTU5MzAw.html#jtss-tsina)
+
 ## N
 
 1. [Android——Notifications笔记](http://segmentfault.com/a/1190000000402154)
@@ -161,7 +179,11 @@
 2. [【Android】获取手机中已安装apk文件信息(PackageInfo、ResolveInfo)(应用图片、应用名、包名等)](http://blog.csdn.net/feng88724/article/details/6198446)
 3. [Android获取已安装应用信息(图标，名称，版本号，包)](http://www.cnblogs.com/mainroadlee/archive/2011/05/23/android_get_installed_app.html)
 4. [关于android 如何安装 assets文件下的apk](http://blog.csdn.net/shen332401890/article/details/8826827)
-5. []()
+
+### Palette
+
+1. [Extracting Colors to a Palette with Android Lollipop](https://www.bignerdranch.com/blog/extracting-colors-to-a-palette-with-android-lollipop/)
+2. [Android Lollipop 新特性 - Palette](http://baoyz.com/android/2014/10/21/android-palette-use/)
 
 ## Q 
 
@@ -170,6 +192,12 @@
 ### Reference
 
 1. [Java的引用StrongReference、 SoftReference、 WeakReference 、PhantomReference](http://blog.csdn.net/mxbhxx/article/details/9111711)
+
+### RecyclerView
+
+1. [RecyclerView使用详解（一）](http://frank-zhu.github.io/android/2015/01/16/android-recyclerview-part-1/)
+2. [Android RecyclerView 使用完全解析 体验艺术般的控件](http://blog.csdn.net/lmj623565791/article/details/45059587)
+3. [A Guide to Android RecyclerView and CardView](http://www.binpress.com/tutorial/android-l-recyclerview-and-cardview-tutorial/156)
 
 ## S
 
@@ -201,6 +229,12 @@
 ](http://blog.csdn.net/wdaming1986/article/details/8299996)
 2. [apk的包名修改](http://www.cnblogs.com/tianxiaozz/archive/2012/12/26/change_apk_package_name.html)
 3. [为Sublime Text安装smali代码语法高亮插件](http://liuzhichao.com/p/1476.html)
+
+### SwipeRefreshLayout
+
+1. [Android SwipeRefreshLayout](http://www.stormzhang.com/android/2014/03/29/android-swiperefreshlayout/)
+
+
 
 ## T
 
