@@ -23,7 +23,19 @@
 
 1. [Android开发者：你真的会用AsyncTask吗？](http://code.oneapm.com/android/2015/06/02/android1/)
 
+### AQuery
+
+1. [AQuery Image Loading](http://programmerguru.com/android-tutorial/aquery-image-loading/)
+
 ## B
+
+### Bitmap
+
+1. [图片处理](http://beartung.github.io/rockwithandroid/image.html)
+2. [Android中自定义布局中加载图片BitmapFactory.options详解](http://blog.csdn.net/appandroid/article/details/11213973)
+3. [Android学习笔记进阶16之BitmapShader](http://blog.csdn.net/sjf0115/article/details/7267532)
+4. [Android 优化Bitmap避免OutOfMemoryError](http://chjmars.iteye.com/blog/1157137)
+
 
 ## C
 
@@ -40,6 +52,7 @@
 
 1. [How to Define Callbacks in Android?](http://stackoverflow.com/questions/3398363/how-to-define-callbacks-in-android)
 2. [一个经典例子让你彻彻底底理解java回调机制](http://blog.csdn.net/xiaanming/article/details/8703708)
+3. [Java设计模式-回调函数和观察者模式](http://blog.csdn.net/cauchyweierstrass/article/details/44593807)
 
 ### CardView
 
@@ -125,12 +138,17 @@
 2. [ Android高手进阶教程(十七)之---Android中Intent传递对象的两种方法(Serializable,Parcelable)!](http://blog.csdn.net/android_tutor/article/details/5740845)
 3. [Intent filter 关于Action、Category属性详解---附带实例源码](http://blog.csdn.net/andie_guo/article/details/9271973)
 
+### ImageView
+
+1. [[Android] ImageView.ScaleType设置图解](http://blog.csdn.net/larryl2003/article/details/6919513)
+
 ## J
 
 ### Json
 
 1. [Android系列---JSON数据解析](http://www.cnblogs.com/xiaoluo501395377/p/3446605.html)
 2. [android json解析及简单例子](http://blog.csdn.net/lilu_leo/article/details/7000077)
+3. [Android开源库--Gson谷歌官方json解析库](http://www.cnblogs.com/leestar54/p/4212318.html)
 
 
 ## k
@@ -234,6 +252,20 @@
 
 1. [Android SwipeRefreshLayout](http://www.stormzhang.com/android/2014/03/29/android-swiperefreshlayout/)
 
+### SparseArray
+
+1. [Android应用性能优化之使用SparseArray替代HashMap](http://liuzhichao.com/p/832.html)
+2. [Android SparseArray](http://lmbj.net/blog/android-sparsearray/)
+3. [Android性能优化之使用SparseArray代替HashMap](http://stormzhang.com/android/2013/08/01/android-use-sparsearray-for-performance-optimization/)
+
+### SharedPreference
+
+1. [Google为何这样设计OnSharedPreferenceChangeListener](http://droidyue.com/blog/2014/11/29/why-onsharedpreferencechangelistener-was-not-called/)
+
+### 事件分发
+
+1. [两分钟彻底让你明白Android中onInterceptTouchEvent与onTouchEvent(图文)!](http://blog.csdn.net/android_tutor/article/details/7193090)
+2. [MotionEvent事件在onInterceptTouchEvent()、onTouchEvent()中的传递顺序](http://www.cnblogs.com/rocky_yi/archive/2011/01/21/1941522.html#)
 
 
 ## T
@@ -262,6 +294,15 @@
 
 1. [Android Volley完全解析(一)，初识Volley的基本用法](http://blog.csdn.net/guolin_blog/article/details/17482095)
 2. [Android库Volley的使用介绍](https://bxbxbai.github.io/2014/09/14/android-working-with-volley/)
+
+### View
+
+1. []()
+2. []()
+3. []()
+4. []()
+5. []()
+6. []()
 
 
 ## W
