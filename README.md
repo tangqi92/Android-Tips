@@ -26,6 +26,11 @@
 ### AQuery
 
 1. [AQuery Image Loading](http://programmerguru.com/android-tutorial/aquery-image-loading/)
+2. [Android之使用Android-query框架进行开发（一）](http://www.cnblogs.com/lee0oo0/archive/2012/10/25/2738299.html)
+
+### Android-Async-Http
+
+1. [快速Android开发系列网络篇之Android-Async-Http](http://www.cnblogs.com/angeldevil/p/3729808.html)
 
 ## B
 
@@ -36,6 +41,9 @@
 3. [Android学习笔记进阶16之BitmapShader](http://blog.csdn.net/sjf0115/article/details/7267532)
 4. [Android 优化Bitmap避免OutOfMemoryError](http://chjmars.iteye.com/blog/1157137)
 
+### Broadcast
+
+1. [【Android】动态注册广播接收器](http://blog.csdn.net/etzmico/article/details/7317528)
 
 ## C
 
@@ -120,6 +128,11 @@
 
 1. [Android入门第八篇之GridView(九宫图)](http://blog.csdn.net/hellogv/article/details/4567095)
 
+### Glide
+
+1. [Glide 一个专注于平滑滚动的图片加载和缓存库](http://www.jianshu.com/p/4a3177b57949?utm_campaign=maleskine&utm_content=note&utm_medium=writer_share&utm_source=weibo)
+2. [Google推荐的图片加载库Glide介绍](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0327/2650.html)
+
 
 ## H
 
@@ -202,6 +215,10 @@
 1. [Extracting Colors to a Palette with Android Lollipop](https://www.bignerdranch.com/blog/extracting-colors-to-a-palette-with-android-lollipop/)
 2. [Android Lollipop 新特性 - Palette](http://baoyz.com/android/2014/10/21/android-palette-use/)
 
+### Preference
+
+1. [PreferenceActivity（首选项设置页）](http://blog.csdn.net/plussoft/article/details/9993759)
+
 ## Q 
 
 ## R
@@ -215,6 +232,10 @@
 1. [RecyclerView使用详解（一）](http://frank-zhu.github.io/android/2015/01/16/android-recyclerview-part-1/)
 2. [Android RecyclerView 使用完全解析 体验艺术般的控件](http://blog.csdn.net/lmj623565791/article/details/45059587)
 3. [A Guide to Android RecyclerView and CardView](http://www.binpress.com/tutorial/android-l-recyclerview-and-cardview-tutorial/156)
+
+### RandomAccessFile
+
+1. [Java RandomAccessFile用法](http://blog.csdn.net/akon_vm/article/details/7429245)
 
 ## S
 
@@ -300,6 +321,15 @@
 2. [Android中View绘制流程以及invalidate()等相关方法分析](http://blog.csdn.net/qinjuning/article/details/7110211)
 3. [Android中measure过程、WRAP_CONTENT详解以及xml布局文件解析流程浅析(上)](http://blog.csdn.net/qinjuning/article/details/8051811)
 4. [Android开发：LayoutParams的用法](http://www.cnblogs.com/shaweng/archive/2012/07/10/2585134.html)
+
+### VideoView
+
+1. [Android--使用VideoView播放视频](http://www.cnblogs.com/plokmju/p/android_videoview.html)
+
+
+### ViewFlipper
+
+1. [Android ViewFlipper的使用分析](http://www.cnblogs.com/PengLee/p/4156302.html)
 
 ## W
 
