@@ -300,17 +300,28 @@
 
 ## S
 
-### Serializable - 序列化
+### Serializable
 
 1. [Android系统中Parcelable和Serializable的区别](http://greenrobot.me/devpost/android-parcelable-serializable/)
 2. [Android: Difference between Parcelable and Serializable?](http://stackoverflow.com/questions/3323074/android-difference-between-parcelable-and-serializable)
 
-
-### Service - 服务
+### Service
 
 1. [Android Service完全解析，关于服务你所需知道的一切(上)](http://blog.csdn.net/guolin_blog/article/details/11952435)
 2. [ExecutorService 的理解与使用](http://blog.csdn.net/bairrfhoinn/article/details/16848785)
 3. [Android基本功：IntentService的使用](http://blog.csdn.net/p106786860/article/details/17885115)
+
+
+### SharedPreference
+
+1. [Android SharedPreferences使用以及原理详解](http://blog.csdn.net/wxyyxc1992/article/details/17222841)
+2. [Google为何这样设计OnSharedPreferenceChangeListener](http://droidyue.com/blog/2014/11/29/why-onsharedpreferencechangelistener-was-not-called/)
+
+### SparseArray
+
+1. [Android应用性能优化之使用SparseArray替代HashMap](http://liuzhichao.com/p/832.html)
+2. [Android SparseArray](http://lmbj.net/blog/android-sparsearray/)
+3. [Android性能优化之使用SparseArray代替HashMap](http://stormzhang.com/android/2013/08/01/android-use-sparsearray-for-performance-optimization/)
 
 ### SQLite
 
@@ -322,31 +333,20 @@
 
 1. [Android Support兼容包详解](https://getpocket.com/a/read/881902653)
 
-### Smali
-
-1. [Smali--Dalvik虚拟机指令语言-->【android_smali语法学习一】
-](http://blog.csdn.net/wdaming1986/article/details/8299996)
-2. [apk的包名修改](http://www.cnblogs.com/tianxiaozz/archive/2012/12/26/change_apk_package_name.html)
-3. [为Sublime Text安装smali代码语法高亮插件](http://liuzhichao.com/p/1476.html)
 
 ### SwipeRefreshLayout
 
 1. [Android SwipeRefreshLayout](http://www.stormzhang.com/android/2014/03/29/android-swiperefreshlayout/)
 
-### SparseArray
-
-1. [Android应用性能优化之使用SparseArray替代HashMap](http://liuzhichao.com/p/832.html)
-2. [Android SparseArray](http://lmbj.net/blog/android-sparsearray/)
-3. [Android性能优化之使用SparseArray代替HashMap](http://stormzhang.com/android/2013/08/01/android-use-sparsearray-for-performance-optimization/)
-
-### SharedPreference
-
-1. [Google为何这样设计OnSharedPreferenceChangeListener](http://droidyue.com/blog/2014/11/29/why-onsharedpreferencechangelistener-was-not-called/)
 
 
 ## T
 
-### Thread - 多线程
+### Textview
+
+1. [Remove underline from links in TextView](http://stackoverflow.com/questions/4096851/remove-underline-from-links-in-textview-android)
+
+### Thread
 
 1. [ThreadPoolExecutor运转机制详解](http://blog.csdn.net/cutesource/article/details/6061229)
 2. [ThreadPoolExecutor使用和思考(上)-线程池大小设置与BlockingQueue的三种实现区别](http://dongxuan.iteye.com/blog/901689)
@@ -358,21 +358,13 @@
 8. [Java(Android)中线程池的使用](http://landerlyoung.github.io/blog/2014/09/23/javazhong-xian-cheng-chi-de-shi-yong/)
 9. [Java(Android)线程池](http://www.trinea.cn/android/java-android-thread-pool/)
 
-### Textview
-
-1. [Remove underline from links in TextView](http://stackoverflow.com/questions/4096851/remove-underline-from-links-in-textview-android)
-
 
 ## V
 
 ### ViewPager
 
 1. [ViewPager + Fragment实现滑动标签页](http://blog.csdn.net/lizhenmingdirk/article/details/13631813)
-
-### Volley
-
-1. [Android Volley完全解析(一)，初识Volley的基本用法](http://blog.csdn.net/guolin_blog/article/details/17482095)
-2. [Android库Volley的使用介绍](https://bxbxbai.github.io/2014/09/14/android-working-with-volley/)
+2. [【移动开发】Android中Fragment+ViewPager的配合使用](http://smallwoniu.blog.51cto.com/3911954/1322746)
 
 ### View
 
@@ -381,14 +373,20 @@
 3. [Android中measure过程、WRAP_CONTENT详解以及xml布局文件解析流程浅析(上)](http://blog.csdn.net/qinjuning/article/details/8051811)
 4. [Android开发：LayoutParams的用法](http://www.cnblogs.com/shaweng/archive/2012/07/10/2585134.html)
 
-### VideoView
-
-1. [Android--使用VideoView播放视频](http://www.cnblogs.com/plokmju/p/android_videoview.html)
-
-
 ### ViewFlipper
 
 1. [Android ViewFlipper的使用分析](http://www.cnblogs.com/PengLee/p/4156302.html)
+2. [Android 滑动效果入门篇（一）—— ViewFlipper](http://blog.csdn.net/ithomer/article/details/7420567)
+
+### VideoView
+
+1. [Android--使用VideoView播放视频](http://www.cnblogs.com/plokmju/p/android_videoview.html)
+2. [Playing a video in VideoView in Android](http://stackoverflow.com/questions/3263736/playing-a-video-in-videoview-in-android)
+
+### Volley
+
+1. [Android Volley完全解析(一)，初识Volley的基本用法](http://blog.csdn.net/guolin_blog/article/details/17482095)
+2. [Android库Volley的使用介绍](https://bxbxbai.github.io/2014/09/14/android-working-with-volley/)
 
 ## W
 
@@ -405,7 +403,15 @@
 9. [Android WebView的Js对象注入漏洞解决方案](http://blog.csdn.net/leehong2005/article/details/11808557)
 
 
-## Z
+## 其他
+
+### Code Style
+
+1. [Java编程规范](http://www.stormzhang.com/java/2013/07/20/java-coding-standards/)
+2. [Android 命名规范 （提高代码可以读性）](http://blog.csdn.net/vipzjyno1/article/details/23542617)
+3. [Code Style Guidelines for Contributors](http://source.android.com/source/code-style.html)
+
+---
 
 ### 自定义控件
 
@@ -419,13 +425,14 @@
 8. [Tutorial: Enhancing Android UI with Custom Views](https://newcircle.com/s/post/1663/tutorial_enhancing_android_ui_with_custom_views_dave_smith_video)
 9. [Android 自定义View (一)](http://blog.csdn.net/lmj623565791/article/details/24252901)
 
-## 其他
+---
 
-### Code Style
+### Smali
 
-1.[Java编程规范](http://www.stormzhang.com/java/2013/07/20/java-coding-standards/)
-2.[Android 命名规范 （提高代码可以读性）](http://blog.csdn.net/vipzjyno1/article/details/23542617)
-3.[Code Style Guidelines for Contributors](http://source.android.com/source/code-style.html)
+1. [Smali--Dalvik虚拟机指令语言-->【android_smali语法学习一】
+](http://blog.csdn.net/wdaming1986/article/details/8299996)
+2. [apk的包名修改](http://www.cnblogs.com/tianxiaozz/archive/2012/12/26/change_apk_package_name.html)
+3. [为Sublime Text安装smali代码语法高亮插件](http://liuzhichao.com/p/1476.html)
 
 ---
 
