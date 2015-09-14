@@ -39,21 +39,10 @@
 1. [快速Android开发系列网络篇之Android-Async-Http](http://www.cnblogs.com/angeldevil/p/3729808.html)
 2. [android-async-http框架库使用基础](http://yanbober.github.io/2014/11/11/csdn-opensource-analysis-5/)
 
-
-### Android Studio
-
-1. [Android Studio导入项目](http://ask.android-studio.org/?/article/21)
-2. [Android Studio 简单设置](http://blog.gaoqixhb.com/p/54b9c293bf1ac9364284af78)
-3. [Android Studio 简介及导入 jar 包和第三方开源库方法](http://drakeet.me/android-studio)
-4. [Android Studio使用技巧系列教程（一）](http://blog.csdn.net/growth58/article/details/46729803)
-5. [Android Studio中如何使用Git和Github来管理项目](http://blog.csdn.net/wei18359100306/article/details/45645145)
-
-
 ### AQuery
 
 1. [AQuery Image Loading](http://programmerguru.com/android-tutorial/aquery-image-loading/)
 2. [Android之使用Android-query框架进行开发（一）](http://www.cnblogs.com/lee0oo0/archive/2012/10/25/2738299.html)
-
 
 ### AsyncTask
 
@@ -85,7 +74,6 @@
 2. [一个经典例子让你彻彻底底理解java回调机制](http://blog.csdn.net/xiaanming/article/details/8703708)
 3. [Java设计模式-回调函数和观察者模式](http://blog.csdn.net/cauchyweierstrass/article/details/44593807)
 
-
 ### CardView
 
 1. [Android5.0新控件CardView的介绍和使用](http://www.cnblogs.com/tianzhijiexian/p/4067308.html)
@@ -96,7 +84,6 @@
 
 1. [How to check visibility of software keyboard in Android?](http://stackoverflow.com/questions/2150078/how-to-check-visibility-of-software-keyboard-in-android)
 
-
 ### Configuration Change
 
 1. [Android Configuration change引发的问题及解决方法](http://blog.csdn.net/aliaooooo/article/details/23606179?utm_source=tuicool)
@@ -106,7 +93,6 @@
 
 1. [android学习—— context 和 getApplicationContext()](http://blog.csdn.net/janronehoo/article/details/7348566)
 2. [Android中Context详解 ---- 你所不知道的Context](http://blog.csdn.net/qinjuning/article/details/7310620)
-
 
 ### CoordinatorLayout
 
@@ -144,8 +130,12 @@
 6. [android Fragments详解四:管理fragment](http://www.cnblogs.com/mybkn/articles/2455138.html)
 7. [Android Fragment 嵌套使用(Nested Fragments)](http://blog.csdn.net/top_code/article/details/37343075)
 
-
 ## G
+
+### Glide
+
+1. [Glide 一个专注于平滑滚动的图片加载和缓存库](http://www.jianshu.com/p/4a3177b57949?utm_campaign=maleskine&utm_content=note&utm_medium=writer_share&utm_source=weibo)
+2. [Google推荐的图片加载库Glide介绍](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0327/2650.html)
 
 ### Gradle
 
@@ -168,36 +158,16 @@
 1. [Android入门第八篇之GridView(九宫图)](http://blog.csdn.net/hellogv/article/details/4567095)
 2. [用Volley让GridView加载网络图片](http://www.cnblogs.com/tianzhijiexian/p/4277873.html)
 
-### Glide
-
-1. [Glide 一个专注于平滑滚动的图片加载和缓存库](http://www.jianshu.com/p/4a3177b57949?utm_campaign=maleskine&utm_content=note&utm_medium=writer_share&utm_source=weibo)
-2. [Google推荐的图片加载库Glide介绍](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0327/2650.html)
-
-### Git
-
-1. [Pro Git](http://git-scm.com/book/zh/v1)
-2. [GitHub秘籍](http://snowdream86.gitbooks.io/github-cheat-sheet/content/zh/index.html)
-3. [git - 简易指南](http://www.bootcss.com/p/git-guide/)
-4. [基于Github参与开源项目指南](http://yeungeek.com/2015/07/01/%E5%9F%BA%E4%BA%8EGithub%E5%8F%82%E4%B8%8E%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%E6%8C%87%E5%8D%97/)
-
-
-## H
-
-### Hexo
-
-1. [如何搭建一个独立博客——简明Github Pages与Hexo教程](http://www.jianshu.com/p/05289a4bc8b2)
-2. [Mac下程序员博客之 Hexo + GitHub Pages + GitCafe Pages + DNSPod](http://godera.org/2015/03/16/Mac%E4%B8%8B%E7%A8%8B%E5%BA%8F%E5%91%98%E5%8D%9A%E5%AE%A2%E4%B9%8BHexo-GitHub-Pages-GitCafe-Pages-DNSPod/)
-3. [动动手指，NexT主题与Hexo更搭哦（基础篇）](http://www.arao.me/2015/hexo-next-theme-optimize-base/)
-4. [hexo博客搭建时遇到的一些问题](http://chitanda.me/2015/06/11/tips-for-setup-hexo/)
-
 ## I
 
-### Immersive Full-Screen Mode - 全屏沉浸式
+### ImageView
+
+1. [[Android] ImageView.ScaleType设置图解](http://blog.csdn.net/larryl2003/article/details/6919513)
+
+### Immersive Full-Screen Mode
 
 1. [Using Immersive Full-Screen Mode](https://developer.android.com/training/system-ui/immersive.html)
 2. [全屏沉浸式应用](http://hukai.me/android-training-course-in-chinese/ui/system-ui/immersive.html)
-3. [利用swiftype为hexo添加站内搜索v2.0](http://www.jerryfu.net/post/search-engine-for-hexo-with-swiftype-v2.html)
-4. [Android 开发笔记——通过 Intent 传递类对象](http://www.cnblogs.com/shaocm/archive/2013/01/08/2851248.html)
 
 ### Intent
 
@@ -205,10 +175,7 @@
 2. [ Android高手进阶教程(十七)之---Android中Intent传递对象的两种方法(Serializable,Parcelable)!](http://blog.csdn.net/android_tutor/article/details/5740845)
 3. [Intent filter 关于Action、Category属性详解---附带实例源码](http://blog.csdn.net/andie_guo/article/details/9271973)
 4. [startActivityForResult用法详解](http://www.cnblogs.com/linjiqin/archive/2011/06/03/2071956.html)
-
-### ImageView
-
-1. [[Android] ImageView.ScaleType设置图解](http://blog.csdn.net/larryl2003/article/details/6919513)
+5. [Android 开发笔记——通过 Intent 传递类对象](http://www.cnblogs.com/shaocm/archive/2013/01/08/2851248.html)
 
 ## J
 
@@ -278,7 +245,6 @@
 1. [PreferenceActivity（首选项设置页）](http://blog.csdn.net/plussoft/article/details/9993759)
 2. [Android的设置界面及Preference使用](http://blog.csdn.net/ichliebephone/article/details/5916320)
 
-
 ## R
 
 ### Reference
@@ -311,7 +277,6 @@
 2. [ExecutorService 的理解与使用](http://blog.csdn.net/bairrfhoinn/article/details/16848785)
 3. [Android基本功：IntentService的使用](http://blog.csdn.net/p106786860/article/details/17885115)
 
-
 ### SharedPreference
 
 1. [Android SharedPreferences使用以及原理详解](http://blog.csdn.net/wxyyxc1992/article/details/17222841)
@@ -333,12 +298,9 @@
 
 1. [Android Support兼容包详解](https://getpocket.com/a/read/881902653)
 
-
 ### SwipeRefreshLayout
 
 1. [Android SwipeRefreshLayout](http://www.stormzhang.com/android/2014/03/29/android-swiperefreshlayout/)
-
-
 
 ## T
 
@@ -357,7 +319,6 @@
 7. [Android--多线程之Handler](http://www.cnblogs.com/plokmju/p/android_handler.html)
 8. [Java(Android)中线程池的使用](http://landerlyoung.github.io/blog/2014/09/23/javazhong-xian-cheng-chi-de-shi-yong/)
 9. [Java(Android)线程池](http://www.trinea.cn/android/java-android-thread-pool/)
-
 
 ## V
 
@@ -402,16 +363,7 @@
 8. [在WebView中如何让JS与Java安全地互相调用](http://www.pedant.cn/2014/07/04/webview-js-java-interface-research/)
 9. [Android WebView的Js对象注入漏洞解决方案](http://blog.csdn.net/leehong2005/article/details/11808557)
 
-
 ## 其他
-
-### Code Style
-
-1. [Java编程规范](http://www.stormzhang.com/java/2013/07/20/java-coding-standards/)
-2. [Android 命名规范 （提高代码可以读性）](http://blog.csdn.net/vipzjyno1/article/details/23542617)
-3. [Code Style Guidelines for Contributors](http://source.android.com/source/code-style.html)
-
----
 
 ### 自定义控件
 
@@ -424,6 +376,42 @@
 7. [Creating custom and compound Views in Android - Tutorial](http://www.vogella.com/tutorials/AndroidCustomViews/article.html)
 8. [Tutorial: Enhancing Android UI with Custom Views](https://newcircle.com/s/post/1663/tutorial_enhancing_android_ui_with_custom_views_dave_smith_video)
 9. [Android 自定义View (一)](http://blog.csdn.net/lmj623565791/article/details/24252901)
+
+---
+
+### Android Studio
+
+1. [Android Studio导入项目](http://ask.android-studio.org/?/article/21)
+2. [Android Studio 简单设置](http://blog.gaoqixhb.com/p/54b9c293bf1ac9364284af78)
+3. [Android Studio 简介及导入 jar 包和第三方开源库方法](http://drakeet.me/android-studio)
+4. [Android Studio使用技巧系列教程（一）](http://blog.csdn.net/growth58/article/details/46729803)
+5. [Android Studio中如何使用Git和Github来管理项目](http://blog.csdn.net/wei18359100306/article/details/45645145)
+
+---
+
+### Code Style
+
+1. [Java编程规范](http://www.stormzhang.com/java/2013/07/20/java-coding-standards/)
+2. [Android 命名规范 （提高代码可以读性）](http://blog.csdn.net/vipzjyno1/article/details/23542617)
+3. [Code Style Guidelines for Contributors](http://source.android.com/source/code-style.html)
+
+---
+
+### Git
+
+1. [Pro Git](http://git-scm.com/book/zh/v1)
+2. [GitHub秘籍](http://snowdream86.gitbooks.io/github-cheat-sheet/content/zh/index.html)
+3. [git - 简易指南](http://www.bootcss.com/p/git-guide/)
+4. [基于Github参与开源项目指南](http://yeungeek.com/2015/07/01/%E5%9F%BA%E4%BA%8EGithub%E5%8F%82%E4%B8%8E%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%E6%8C%87%E5%8D%97/)
+
+---
+
+### Hexo
+
+1. [如何搭建一个独立博客——简明Github Pages与Hexo教程](http://www.jianshu.com/p/05289a4bc8b2)
+2. [Mac下程序员博客之 Hexo + GitHub Pages + GitCafe Pages + DNSPod](http://godera.org/2015/03/16/Mac%E4%B8%8B%E7%A8%8B%E5%BA%8F%E5%91%98%E5%8D%9A%E5%AE%A2%E4%B9%8BHexo-GitHub-Pages-GitCafe-Pages-DNSPod/)
+3. [动动手指，NexT主题与Hexo更搭哦（基础篇）](http://www.arao.me/2015/hexo-next-theme-optimize-base/)
+4. [hexo博客搭建时遇到的一些问题](http://chitanda.me/2015/06/11/tips-for-setup-hexo/)
 
 ---
 
