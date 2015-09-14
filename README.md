@@ -1,17 +1,32 @@
 # Android-Tips
 
+学习 Android 至今，大大小小的坑没少踩，庆幸的是，在强大的搜索引擎与无私奉献的人们的帮助下，我遇到的坑都顺利地被填平了。
+
+为了便于日后遇到同样的问题时，能免于再次搜索带来的麻烦，我养成了收藏书签的习惯，随着书签（Tips）的日积月累，我想，是时候该有这个项目了。
+
+**如果你是个 Android 新人，那么我希望这份列表，可以成为你踩到坑时的首选。**
+
+这份列表一定会有遗漏，如果不幸，这里没有你踩到的坑，或者对于某个问题你有更好的 Tips，欢迎分享，让我们一起来维护这个项目！你可以通过 [Commit](https://github.com/tangqi92/Android-Tips/issues) 的形式，当然也欢迎 `Star` 与 `Fork` :)
+
+>由于本项目面向的群体为初学者，所以列表的知识点以初级为主，资源大多数为中文，如遇到少数无法访问的情况，请自备梯子。
+
 ## A
 
 ### ADB
 
 1. [Android ADB常用命令](http://segmentfault.com/a/1190000000426049)
-2. [Android开发中adb命令的常用方法](http://blog.csdn.net/zhangjg_blog/article/details/10431649)
+2. [Android开发调试工具ADB的使用](http://www.cnblogs.com/meil/archive/2012/05/24/2516055.html)
 3. [Installing ADB on Windows 7](https://www.youtube.com/watch?v=5U_BfrXV90I)
 4. [Adb connection Error:远程主机强迫关闭了一个现有的连接](http://www.oschina.net/question/54100_33209)
 5. [Android通过Wifi来调试你的应用](http://www.stormzhang.com/android/2014/08/27/adb-over-wifi/)
 
+### Adapter
 
-### AIDL - 进程间通信
+1. [Android简便通用的SimpleBaseAdapter](http://www.stormzhang.com/androidtips/2014/08/31/android-common-simplebaseadapter/)
+2. [Android数据适配器(Adapter)优化：使用高效的ViewHolder](http://stackvoid.com/using-adapter-in-efficiency-way/)
+3. [Android 快速开发系列 打造万能的ListView GridView 适配器](http://blog.csdn.net/lmj623565791/article/details/38902805/)
+
+### AIDL
 
 1. [android进程间通信：使用AIDL](http://blog.csdn.net/saintswordsman/article/details/5130947)
 2. [Android AIDL使用详解](http://blog.csdn.net/stonecao/article/details/6425019)
@@ -19,24 +34,10 @@
 4. [Android中的跨进程通信的实现（一）——远程调用过程和aidl](http://foocoder.com/blog/androidzhong-de-kua-jin-cheng-tong-xin-de-shi-xian-(%5B%3F%5D-)-yuan-cheng-diao-yong-guo-cheng-he-aidl.html/)
 5. [Android Studio下如何配置AIDL文件](http://chenqichao.me/2014/05/13/003-Android-Studio-AIDL/)
 
-### AsyncTask
-
-1. [Android开发者：你真的会用AsyncTask吗？](http://code.oneapm.com/android/2015/06/02/android1/)
-
-### AQuery
-
-1. [AQuery Image Loading](http://programmerguru.com/android-tutorial/aquery-image-loading/)
-2. [Android之使用Android-query框架进行开发（一）](http://www.cnblogs.com/lee0oo0/archive/2012/10/25/2738299.html)
-
 ### Android-Async-Http
 
 1. [快速Android开发系列网络篇之Android-Async-Http](http://www.cnblogs.com/angeldevil/p/3729808.html)
-
-### Adapter
-
-1. [Android简便通用的SimpleBaseAdapter](http://www.stormzhang.com/androidtips/2014/08/31/android-common-simplebaseadapter/)
-2. [Android数据适配器(Adapter)优化：使用高效的ViewHolder](http://stackvoid.com/using-adapter-in-efficiency-way/)
-3. [Android 快速开发系列 打造万能的ListView GridView 适配器](http://blog.csdn.net/lmj623565791/article/details/38902805/)
+2. [android-async-http框架库使用基础](http://yanbober.github.io/2014/11/11/csdn-opensource-analysis-5/)
 
 ### Android Studio
 
@@ -46,6 +47,16 @@
 4. [Android Studio使用技巧系列教程（一）](http://blog.csdn.net/growth58/article/details/46729803)
 5. [Android Studio中如何使用Git和Github来管理项目](http://blog.csdn.net/wei18359100306/article/details/45645145)
 
+
+### AQuery
+
+1. [AQuery Image Loading](http://programmerguru.com/android-tutorial/aquery-image-loading/)
+2. [Android之使用Android-query框架进行开发（一）](http://www.cnblogs.com/lee0oo0/archive/2012/10/25/2738299.html)
+
+
+### AsyncTask
+
+1. [Android开发者：你真的会用AsyncTask吗？](http://code.oneapm.com/android/2015/06/02/android1/)
 
 ## B
 
