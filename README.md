@@ -4,9 +4,9 @@
 
 为了便于日后遇到同样的问题时，能免于再次搜索带来的麻烦，我养成了收藏书签的习惯，随着书签（Tips）的日积月累，我想，是时候该有这个项目了。
 
-**如果你是个 Android 新人，那么我希望这份列表，可以成为你踩到坑时的首选。**
+**如果你是个 Android 新人，那么我希望这份列表，可以成为你踩到坑时的不完全手册。**
 
-这份列表一定会有遗漏，如果不幸，这里没有你踩到的坑，或者对于某个问题你有更好的 Tips，欢迎分享，让我们一起来维护这个项目！你可以通过 [Commit](https://github.com/tangqi92/Android-Tips/issues) 的形式，当然也欢迎 `Star` 与 `Fork` :)
+当然，这份列表一定会有遗漏，如果不幸，这里没有你所踩到的坑，或者对于某个问题你有更好的 Tips，欢迎分享，让我们一起来维护这个项目！你可以通过 [Commit](https://github.com/tangqi92/Android-Tips/issues) 的形式，当然也欢迎 `Star` 与 `Fork` :)
 
 >由于本项目面向的群体为初学者，所以列表的知识点以初级为主，资源大多数为中文，如遇到少数无法访问的情况，请自备梯子。
 
@@ -39,6 +39,7 @@
 1. [快速Android开发系列网络篇之Android-Async-Http](http://www.cnblogs.com/angeldevil/p/3729808.html)
 2. [android-async-http框架库使用基础](http://yanbober.github.io/2014/11/11/csdn-opensource-analysis-5/)
 
+
 ### Android Studio
 
 1. [Android Studio导入项目](http://ask.android-studio.org/?/article/21)
@@ -56,7 +57,9 @@
 
 ### AsyncTask
 
-1. [Android开发者：你真的会用AsyncTask吗？](http://code.oneapm.com/android/2015/06/02/android1/)
+1. [Android AsyncTask完全解析，带你从源码的角度彻底理解](http://blog.csdn.net/guolin_blog/article/details/11711405)
+2. [Android中AsyncTask的简单用法](http://blog.csdn.net/cjjky/article/details/6684959)
+3. [Android开发者：你真的会用AsyncTask吗？](http://code.oneapm.com/android/2015/06/02/android1/)
 
 ## B
 
@@ -70,49 +73,49 @@
 
 ### Broadcast
 
-1. [【Android】动态注册广播接收器](http://blog.csdn.net/etzmico/article/details/7317528)
+1. [【Android】BroadCast广播机制应用与实例](http://blog.csdn.net/jueblog/article/details/12667463)
+2. [玩转Android---组件篇---Broadcast Receiver（广播接收器）](http://hualang.iteye.com/blog/1003374)
+3. [【Android】动态注册广播接收器](http://blog.csdn.net/etzmico/article/details/7317528)
 
 ## C
 
-### Configuration Change - 横竖屏切换
-
-1. [Android Configuration change引发的问题及解决方法](http://blog.csdn.net/aliaooooo/article/details/23606179?utm_source=tuicool)
-2. [Handling Runtime Changes](http://developer.android.com/guide/topics/resources/runtime-changes.html)
-
-### Check - 判断
-
-1. [How to check visibility of software keyboard in Android?](http://stackoverflow.com/questions/2150078/how-to-check-visibility-of-software-keyboard-in-android)
-
-### Callback - 回调
+### Callback
 
 1. [How to Define Callbacks in Android?](http://stackoverflow.com/questions/3398363/how-to-define-callbacks-in-android)
 2. [一个经典例子让你彻彻底底理解java回调机制](http://blog.csdn.net/xiaanming/article/details/8703708)
 3. [Java设计模式-回调函数和观察者模式](http://blog.csdn.net/cauchyweierstrass/article/details/44593807)
 
+
 ### CardView
 
-1. [Android CardView Example](http://www.truiton.com/2015/03/android-cardview-example/)
-2. [Android CardView Widget – Add Cards to a List using RecyclerView](http://techlovejump.com/android-cardview-widget-example-add-to-list-using-recyclerview/)
+1. [Android5.0新控件CardView的介绍和使用](http://www.cnblogs.com/tianzhijiexian/p/4067308.html)
+2. [Android CardView Example](http://www.truiton.com/2015/03/android-cardview-example/)
+3. [Android CardView Widget – Add Cards to a List using RecyclerView](http://techlovejump.com/android-cardview-widget-example-add-to-list-using-recyclerview/)
+
+### Check
+
+1. [How to check visibility of software keyboard in Android?](http://stackoverflow.com/questions/2150078/how-to-check-visibility-of-software-keyboard-in-android)
 
 
-### Code Style
+### Configuration Change
 
-1.[Java编程规范](http://www.stormzhang.com/java/2013/07/20/java-coding-standards/)
-2.[Android 命名规范 （提高代码可以读性）](http://blog.csdn.net/vipzjyno1/article/details/23542617)
-3.[Code Style Guidelines for Contributors](http://source.android.com/source/code-style.html)
-
-### CoordinatorLayout
-
-1. [Handling Scrolls with CoordinatorLayout](https://guides.codepath.com/android/Handling-Scrolls-with-CoordinatorLayout)
+1. [Android Configuration change引发的问题及解决方法](http://blog.csdn.net/aliaooooo/article/details/23606179?utm_source=tuicool)
+2. [Handling Runtime Changes](http://developer.android.com/guide/topics/resources/runtime-changes.html)
 
 ### Context
 
 1. [android学习—— context 和 getApplicationContext()](http://blog.csdn.net/janronehoo/article/details/7348566)
 2. [Android中Context详解 ---- 你所不知道的Context](http://blog.csdn.net/qinjuning/article/details/7310620)
 
+
+### CoordinatorLayout
+
+1. [CoordinatorLayout与滚动的处理](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0717/3196.html)
+2. [Handling Scrolls with CoordinatorLayout](https://guides.codepath.com/android/Handling-Scrolls-with-CoordinatorLayout)
+
 ## D
 
-### Download - 下载
+### Download
 
 1. [Download a file with Android, and showing the progress in a ProgressDialog](http://stackoverflow.com/questions/3028306/download-a-file-with-android-and-showing-the-progress-in-a-progressdialog)
 2. [Java 服务器端支持断点续传的源代码【支持快车、迅雷】](http://blog.csdn.net/defonds/article/details/7074352)
@@ -141,18 +144,8 @@
 6. [android Fragments详解四:管理fragment](http://www.cnblogs.com/mybkn/articles/2455138.html)
 7. [Android Fragment 嵌套使用(Nested Fragments)](http://blog.csdn.net/top_code/article/details/37343075)
 
-### 反编译
-
-1. [Android APK反编译详解（附图）](http://blog.csdn.net/ithomer/article/details/6727581)
-2. [Android APK反编译查看源码及资源文件](http://www.trinea.cn/android/android-apk-decompile-to-view-source-code-and-resource-files/)
 
 ## G
-
-### greenDao
-
-1. [ORM 框架之 greenDAO 使用心得](http://itangqi.me/2015/07/26/orm-greendao-summary/)
-2. [SQLite数据库框架ORMLite与GreenDao的简单比较](http://blog.csdn.net/xushuaic/article/details/24434881)
-3. [在AndoridStudio中引入GreenDAO](http://blog.csdn.net/h3c4lenovo/article/details/43566169)
 
 ### Gradle
 
@@ -163,6 +156,12 @@
 5. [灵活强大的构建系统Gradle](http://tech.meituan.com/gradle-practice.html)
 6. [Gradle Android Could not find method testPackage()](http://stackoverflow.com/questions/16971740/gradle-android-could-not-find-method-testpackage)
 7. [Android Studio 1.0 Gradle Error with getConfiguration()](http://stackoverflow.com/questions/27410183/android-studio-1-0-gradle-error-with-getconfiguration)
+
+### greenDao
+
+1. [ORM 框架之 greenDAO 使用心得](http://itangqi.me/2015/07/26/orm-greendao-summary/)
+2. [SQLite数据库框架ORMLite与GreenDao的简单比较](http://blog.csdn.net/xushuaic/article/details/24434881)
+3. [在AndoridStudio中引入GreenDAO](http://blog.csdn.net/h3c4lenovo/article/details/43566169)
 
 ### GridView
 
@@ -218,9 +217,6 @@
 1. [Android系列---JSON数据解析](http://www.cnblogs.com/xiaoluo501395377/p/3446605.html)
 2. [android json解析及简单例子](http://blog.csdn.net/lilu_leo/article/details/7000077)
 3. [Android开源库--Gson谷歌官方json解析库](http://www.cnblogs.com/leestar54/p/4212318.html)
-
-
-## k
 
 ## L
 
@@ -282,7 +278,6 @@
 1. [PreferenceActivity（首选项设置页）](http://blog.csdn.net/plussoft/article/details/9993759)
 2. [Android的设置界面及Preference使用](http://blog.csdn.net/ichliebephone/article/details/5916320)
 
-## Q 
 
 ## R
 
@@ -367,7 +362,6 @@
 
 1. [Remove underline from links in TextView](http://stackoverflow.com/questions/4096851/remove-underline-from-links-in-textview-android)
 
-## U
 
 ## V
 
@@ -410,9 +404,6 @@
 8. [在WebView中如何让JS与Java安全地互相调用](http://www.pedant.cn/2014/07/04/webview-js-java-interface-research/)
 9. [Android WebView的Js对象注入漏洞解决方案](http://blog.csdn.net/leehong2005/article/details/11808557)
 
-## X
-
-## Y
 
 ## Z
 
@@ -428,7 +419,15 @@
 8. [Tutorial: Enhancing Android UI with Custom Views](https://newcircle.com/s/post/1663/tutorial_enhancing_android_ui_with_custom_views_dave_smith_video)
 9. [Android 自定义View (一)](http://blog.csdn.net/lmj623565791/article/details/24252901)
 
-### 其他
+## 其他
+
+### Code Style
+
+1.[Java编程规范](http://www.stormzhang.com/java/2013/07/20/java-coding-standards/)
+2.[Android 命名规范 （提高代码可以读性）](http://blog.csdn.net/vipzjyno1/article/details/23542617)
+3.[Code Style Guidelines for Contributors](http://source.android.com/source/code-style.html)
+
+---
 
 1. [THE DEX 64K LIMIT IS NOT A PROBLEM ANYMORE, ALMOST](http://www.mutualmobile.com/posts/dex-64k-limit-not-problem-anymore-almost)
 2. [Android 4.4从图库选择图片,获取图片路径并裁剪](http://blog.csdn.net/tempersitu/article/details/20557383)
