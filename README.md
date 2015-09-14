@@ -245,6 +245,11 @@
 1. [PreferenceActivity（首选项设置页）](http://blog.csdn.net/plussoft/article/details/9993759)
 2. [Android的设置界面及Preference使用](http://blog.csdn.net/ichliebephone/article/details/5916320)
 
+### Picasso
+
+1. [Picasso官方网站及javadoc](http://square.github.io/picasso/) 
+2. [Android图片下载缓存库picasso解析](http://blog.csdn.net/xu_fu/article/details/17043231)
+
 ## R
 
 ### Reference
