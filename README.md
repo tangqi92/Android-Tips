@@ -6,7 +6,7 @@
 
 **如果你是个 Android 新人，那么我希望这份列表，可以成为你踩到坑时的不完全手册。**
 
-当然，这份列表一定会有遗漏，如果不幸，这里没有你所踩到的坑，或者对于某个问题你有更好的 Tips，欢迎分享，让我们一起来维护这个项目！你可以通过 [Commit](https://github.com/tangqi92/Android-Tips/issues) 的形式，当然也欢迎 `Star` 与 `Fork` :)
+当然，这份列表一定会有遗漏，如果不幸，这里没有你所踩到的坑，或者对于某个问题你有更好的 Tips，欢迎分享，让我们一起来维护这个项目！你可以通过 [Commit](https://github.com/tangqi92/Android-Tips/issues) 或者 [Pull requests](https://github.com/tangqi92/Android-Tips/pulls) 的形式，当然也欢迎 `Star` 与 `Fork` :)
 
 >由于本项目面向的群体为初学者，所以列表的知识点以初级为主，资源大多数为中文，如遇到少数无法访问的情况，请自备梯子。
 
