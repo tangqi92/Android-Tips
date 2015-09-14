@@ -38,6 +38,15 @@
 2. [Android数据适配器(Adapter)优化：使用高效的ViewHolder](http://stackvoid.com/using-adapter-in-efficiency-way/)
 3. [Android 快速开发系列 打造万能的ListView GridView 适配器](http://blog.csdn.net/lmj623565791/article/details/38902805/)
 
+### Android Studio
+
+1. [Android Studio导入项目](http://ask.android-studio.org/?/article/21)
+2. [Android Studio 简单设置](http://blog.gaoqixhb.com/p/54b9c293bf1ac9364284af78)
+3. [Android Studio 简介及导入 jar 包和第三方开源库方法](http://drakeet.me/android-studio)
+4. [Android Studio使用技巧系列教程（一）](http://blog.csdn.net/growth58/article/details/46729803)
+5. [Android Studio中如何使用Git和Github来管理项目](http://blog.csdn.net/wei18359100306/article/details/45645145)
+
+
 ## B
 
 ### Bitmap
@@ -154,8 +163,22 @@
 1. [Glide 一个专注于平滑滚动的图片加载和缓存库](http://www.jianshu.com/p/4a3177b57949?utm_campaign=maleskine&utm_content=note&utm_medium=writer_share&utm_source=weibo)
 2. [Google推荐的图片加载库Glide介绍](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0327/2650.html)
 
+### Git
+
+1. [Pro Git](http://git-scm.com/book/zh/v1)
+2. [GitHub秘籍](http://snowdream86.gitbooks.io/github-cheat-sheet/content/zh/index.html)
+3. [git - 简易指南](http://www.bootcss.com/p/git-guide/)
+4. [基于Github参与开源项目指南](http://yeungeek.com/2015/07/01/%E5%9F%BA%E4%BA%8EGithub%E5%8F%82%E4%B8%8E%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%E6%8C%87%E5%8D%97/)
+
 
 ## H
+
+### Hexo
+
+1. [如何搭建一个独立博客——简明Github Pages与Hexo教程](http://www.jianshu.com/p/05289a4bc8b2)
+2. [Mac下程序员博客之 Hexo + GitHub Pages + GitCafe Pages + DNSPod](http://godera.org/2015/03/16/Mac%E4%B8%8B%E7%A8%8B%E5%BA%8F%E5%91%98%E5%8D%9A%E5%AE%A2%E4%B9%8BHexo-GitHub-Pages-GitCafe-Pages-DNSPod/)
+3. [动动手指，NexT主题与Hexo更搭哦（基础篇）](http://www.arao.me/2015/hexo-next-theme-optimize-base/)
+4. [hexo博客搭建时遇到的一些问题](http://chitanda.me/2015/06/11/tips-for-setup-hexo/)
 
 ## I
 
@@ -163,7 +186,8 @@
 
 1. [Using Immersive Full-Screen Mode](https://developer.android.com/training/system-ui/immersive.html)
 2. [全屏沉浸式应用](http://hukai.me/android-training-course-in-chinese/ui/system-ui/immersive.html)
-3. [Android 开发笔记——通过 Intent 传递类对象](http://www.cnblogs.com/shaocm/archive/2013/01/08/2851248.html)
+3. [利用swiftype为hexo添加站内搜索v2.0](http://www.jerryfu.net/post/search-engine-for-hexo-with-swiftype-v2.html)
+4. [Android 开发笔记——通过 Intent 传递类对象](http://www.cnblogs.com/shaocm/archive/2013/01/08/2851248.html)
 
 ### Intent
 
