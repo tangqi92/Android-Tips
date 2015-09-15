@@ -264,6 +264,7 @@
 3. [A Guide to Android RecyclerView and CardView](http://www.binpress.com/tutorial/android-l-recyclerview-and-cardview-tutorial/156)
 4. [Android-RecyclerView-Item点击事件设置](http://blog.csdn.net/guxiao1201/article/details/40423361)
 5. [Why doesn't RecyclerView have onItemClickListener()? And how RecyclerView is different from Listview?](http://stackoverflow.com/questions/24885223/why-doesnt-recyclerview-have-onitemclicklistener-and-how-recyclerview-is-dif)
+6. [Create RecyclerView with multiple view type](http://doublewong.com/2014/create-recyclerview-with-multiple-view-type/)
 
 ### RandomAccessFile
 
