@@ -408,6 +408,7 @@
 2. [GitHub秘籍](http://snowdream86.gitbooks.io/github-cheat-sheet/content/zh/index.html)
 3. [git - 简易指南](http://www.bootcss.com/p/git-guide/)
 4. [基于Github参与开源项目指南](http://yeungeek.com/2015/07/01/%E5%9F%BA%E4%BA%8EGithub%E5%8F%82%E4%B8%8E%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%E6%8C%87%E5%8D%97/)
+5. [使用git和github进行协同开发流程](http://livoras.com/post/28)
 
 ---
 
