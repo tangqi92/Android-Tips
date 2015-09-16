@@ -103,7 +103,7 @@
 
 ### Download
 
-1. [Download a file with Android, and showing the progress in a ProgressDialog](http://stackoverflow.com/questions/3028306/download-a-file-with-android-and-showing-the-progress-in-a-progressdialog)
+1. [Download a file with Android, and showing the progress in a ProgressDialog](http://stackoverflow.com/questions/3028306/download-a-file-with-android-and-showing-the-progress-in-a-progressdialog) [**译文**](https://github.com/troyliu0105/stackoverflow-java-top-qa/blob/master/contents/Download_a_file_with_Android_and_showing_the_progress_in_a_ProgressDialog.md)
 2. [Java 服务器端支持断点续传的源代码【支持快车、迅雷】](http://blog.csdn.net/defonds/article/details/7074352)
 3. [Java 多线程断点下载文件](http://www.cnblogs.com/hoojo/archive/2011/09/30/2196767.html)
 4. [Android 后台Service下载 （一）](http://blog.csdn.net/qingye_love/article/details/14163511)
