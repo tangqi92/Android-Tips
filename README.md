@@ -247,7 +247,7 @@
 
 ### Picasso
 
-1. [Picasso官方网站及javadoc](http://square.github.io/picasso/) 
+1. [Picasso官方网站及javadoc](http://square.github.io/picasso/)
 2. [Android图片下载缓存库picasso解析](http://blog.csdn.net/xu_fu/article/details/17043231)
 
 ## R
@@ -325,6 +325,13 @@
 7. [Android--多线程之Handler](http://www.cnblogs.com/plokmju/p/android_handler.html)
 8. [Java(Android)中线程池的使用](http://landerlyoung.github.io/blog/2014/09/23/javazhong-xian-cheng-chi-de-shi-yong/)
 9. [Java(Android)线程池](http://www.trinea.cn/android/java-android-thread-pool/)
+
+## U
+
+### Unit Test
+
+1. [Android单元测试](http://www.cnblogs.com/tianzhijiexian/p/4296055.html)
+2. [Don’t Test Blindly: The Right Methods for Unit Testing Your Java Apps](http://zeroturnaround.com/rebellabs/dont-test-blindly-the-right-methods-for-unit-testing-your-java-apps/)
 
 ## V
 
