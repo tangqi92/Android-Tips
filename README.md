@@ -52,6 +52,8 @@
 2. [Android中AsyncTask的简单用法](http://blog.csdn.net/cjjky/article/details/6684959)
 3. [Android开发者：你真的会用AsyncTask吗？](http://code.oneapm.com/android/2015/06/02/android1/)
 
+---
+
 ## B
 
 ### Bitmap
@@ -67,6 +69,8 @@
 1. [【Android】BroadCast广播机制应用与实例](http://blog.csdn.net/jueblog/article/details/12667463)
 2. [玩转Android---组件篇---Broadcast Receiver（广播接收器）](http://hualang.iteye.com/blog/1003374)
 3. [【Android】动态注册广播接收器](http://blog.csdn.net/etzmico/article/details/7317528)
+
+---
 
 ## C
 
@@ -97,6 +101,8 @@
 1. [CoordinatorLayout与滚动的处理](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0717/3196.html)
 2. [Handling Scrolls with CoordinatorLayout](https://guides.codepath.com/android/Handling-Scrolls-with-CoordinatorLayout)
 
+---
+
 ## D
 
 ### Download
@@ -108,12 +114,16 @@
 5. [Android网络编程 --断点续传下载文件](http://blog.csdn.net/wwj_748/article/details/20146869)
 6. [android 多线程断点续传下载 一](http://blog.csdn.net/shimiso/article/details/6763664)
 
+---
+
 ## E
 
 ### EventBus
 
 1. [EventBus使用详解(一)——初步使用EventBus](http://blog.csdn.net/harvic880925/article/details/40660137)
 2. [快速Android开发系列通信篇之EventBus](http://www.cnblogs.com/angeldevil/p/3715934.html)
+
+---
 
 ## F
 
@@ -127,6 +137,8 @@
 5. [Android实战技巧：Fragment的那些坑](http://toughcoder.net/blog/2015/04/30/android-fragment-the-bad-parts/)
 6. [android Fragments详解四:管理fragment](http://www.cnblogs.com/mybkn/articles/2455138.html)
 7. [Android Fragment 嵌套使用(Nested Fragments)](http://blog.csdn.net/top_code/article/details/37343075)
+
+---
 
 ## G
 
@@ -156,6 +168,8 @@
 1. [Android入门第八篇之GridView(九宫图)](http://blog.csdn.net/hellogv/article/details/4567095)
 2. [用Volley让GridView加载网络图片](http://www.cnblogs.com/tianzhijiexian/p/4277873.html)
 
+---
+
 ## I
 
 ### ImageView
@@ -175,6 +189,8 @@
 4. [startActivityForResult用法详解](http://www.cnblogs.com/linjiqin/archive/2011/06/03/2071956.html)
 5. [Android 开发笔记——通过 Intent 传递类对象](http://www.cnblogs.com/shaocm/archive/2013/01/08/2851248.html)
 
+---
+
 ## J
 
 ### Json
@@ -183,6 +199,8 @@
 2. [android json解析及简单例子](http://blog.csdn.net/lilu_leo/article/details/7000077)
 3. [Android开源库--Gson谷歌官方json解析库](http://www.cnblogs.com/leestar54/p/4212318.html)
 4. [DataContract4A-简化Json解析与生成](https://github.com/jywanghold/DataContract4A)
+
+---
 
 ## L
 
@@ -194,6 +212,8 @@
 ### ListView
 
 1. [在Activity中响应ListView内部按钮的点击事件](http://www.cnblogs.com/ivan-xu/p/4124967.html)
+
+---
 
 ## M
 
@@ -209,6 +229,8 @@
 3. [谢谷歌大神传我动画设计30年功力](http://www.zcool.com.cn/article/ZMTU5MzAw.html#jtss-tsina)
 4. [Codelab for Android Design Support Library used in I/O Rewind Bangkok session](http://inthecheesefactory.com/blog/android-design-support-library-codelab/en)
 
+---
+
 ## N
 
 ### NavigationView
@@ -220,6 +242,7 @@
 1. [Android——Notifications笔记](http://segmentfault.com/a/1190000000402154)
 2. [Android学习之Notification的简单使用](http://blog.csdn.net/cjllife/article/details/8565370)
 
+---
 
 ## O
 
@@ -227,6 +250,8 @@
 
 1. [Android 快速开发系列 ORMLite 框架最佳实践](http://blog.csdn.net/lmj623565791/article/details/39122981)
 2. [Android ORM框架之 ORMLite](https://www.zybuluo.com/flyouting/note/6996)
+
+---
 
 ## P
 
@@ -256,6 +281,8 @@
 1. [Picasso官方网站及javadoc](http://square.github.io/picasso/)
 2. [Android图片下载缓存库picasso解析](http://blog.csdn.net/xu_fu/article/details/17043231)
 
+---
+
 ## R
 
 ### Reference
@@ -276,6 +303,8 @@
 ### RandomAccessFile
 
 1. [Java RandomAccessFile用法](http://blog.csdn.net/akon_vm/article/details/7429245)
+
+---
 
 ## S
 
@@ -315,6 +344,8 @@
 
 1. [Android SwipeRefreshLayout](http://www.stormzhang.com/android/2014/03/29/android-swiperefreshlayout/)
 
+---
+
 ## T
 
 ### Textview
@@ -338,12 +369,16 @@
 8. [Java(Android)中线程池的使用](http://landerlyoung.github.io/blog/2014/09/23/javazhong-xian-cheng-chi-de-shi-yong/)
 9. [Java(Android)线程池](http://www.trinea.cn/android/java-android-thread-pool/)
 
+---
+
 ## U
 
 ### Unit Test
 
 1. [Android单元测试](http://www.cnblogs.com/tianzhijiexian/p/4296055.html)
 2. [Don’t Test Blindly: The Right Methods for Unit Testing Your Java Apps](http://zeroturnaround.com/rebellabs/dont-test-blindly-the-right-methods-for-unit-testing-your-java-apps/)
+
+---
 
 ## V
 
@@ -374,6 +409,8 @@
 1. [Android Volley完全解析(一)，初识Volley的基本用法](http://blog.csdn.net/guolin_blog/article/details/17482095)
 2. [Android库Volley的使用介绍](https://bxbxbai.github.io/2014/09/14/android-working-with-volley/)
 
+---
+
 ## W
 
 ### WebView
@@ -387,6 +424,8 @@
 7. [理解WebKit和Chromium: Android 4.4 上的Chromium WebView](http://blog.csdn.net/milado_nju/article/details/17098399)
 8. [在WebView中如何让JS与Java安全地互相调用](http://www.pedant.cn/2014/07/04/webview-js-java-interface-research/)
 9. [Android WebView的Js对象注入漏洞解决方案](http://blog.csdn.net/leehong2005/article/details/11808557)
+
+---
 
 ## 其他
 
@@ -454,6 +493,8 @@
 
 1. [Java开发中的23种设计模式详解](http://zz563143188.iteye.com/blog/1847029)
 2. [MVC，MVP 和 MVVM 的图示](http://www.ruanyifeng.com/blog/2015/02/mvcmvp_mvvm.html)
+
+---
 
 ### Others
 
