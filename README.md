@@ -2,11 +2,13 @@
 
 学习 Android 至今，大大小小的坑没少踩，庆幸的是，在强大的搜索引擎与无私奉献的人们的帮助下，我遇到的坑都顺利地被填平了。
 
-为了便于日后遇到同样的问题时，能免于再次搜索带来的麻烦，我养成了收藏书签的习惯，随着书签（Tips）的日积月累，我想，是时候该有这个项目了。
+为了便于日后在遇到同样的问题时，能免于因再次搜索所带来的麻烦，我养成了收藏书签的习惯，随着书签（Tips）的日积月累，我想，是时候该有这个项目了。
 
-**如果你是个 Android 新人，那么我希望这份列表，可以成为你踩到坑时的不完全手册。**
+**如果你是个 Android 新人，又不善于搜索或不知道从何开始，那么我希望这份列表，可以成为你踩到坑时的不完全手册。**
 
-当然，这份列表一定会有遗漏，如果不幸，这里没有你所踩到的坑，或者对于某个问题你有更好的 Tips，欢迎分享，让我们一起来维护这个项目！你可以通过 [Commit](https://github.com/tangqi92/Android-Tips/issues) 或者 [Pull requests](https://github.com/tangqi92/Android-Tips/pulls) 的形式，当然也欢迎 `Star` 与 `Fork` :)
+当然，这份列表一定会有遗漏，如果不幸，这里没有你所踩到的坑，或者对于某个问题你有更好的 Tips，欢迎与大家分享，让我们一起来维护这个项目！
+
+你可以通过 [Pull requests](https://github.com/tangqi92/Android-Tips/pulls) 的形式进行提交，当然也欢迎 `Star` 与 `Fork` ：）
 
 >由于本项目面向的群体为初学者，所以列表的知识点以初级为主，资源大多数为中文，如遇到少数无法访问的情况，请自备梯子。
 
@@ -79,10 +81,6 @@
 1. [Android5.0新控件CardView的介绍和使用](http://www.cnblogs.com/tianzhijiexian/p/4067308.html)
 2. [Android CardView Example](http://www.truiton.com/2015/03/android-cardview-example/)
 3. [Android CardView Widget – Add Cards to a List using RecyclerView](http://techlovejump.com/android-cardview-widget-example-add-to-list-using-recyclerview/)
-
-### Check
-
-1. [How to check visibility of software keyboard in Android?](http://stackoverflow.com/questions/2150078/how-to-check-visibility-of-software-keyboard-in-android)
 
 ### Configuration Change
 
@@ -213,8 +211,15 @@
 
 ## N
 
+### NavigationView
+
+1. [Easy Navigation Drawer with Design Support Library](http://blog.grafixartist.com/easy-navigation-drawer-with-design-support-library/)
+
+### Notification
+
 1. [Android——Notifications笔记](http://segmentfault.com/a/1190000000402154)
 2. [Android学习之Notification的简单使用](http://blog.csdn.net/cjllife/article/details/8565370)
+
 
 ## O
 
@@ -266,6 +271,7 @@
 4. [Android-RecyclerView-Item点击事件设置](http://blog.csdn.net/guxiao1201/article/details/40423361)
 5. [Why doesn't RecyclerView have onItemClickListener()? And how RecyclerView is different from Listview?](http://stackoverflow.com/questions/24885223/why-doesnt-recyclerview-have-onitemclicklistener-and-how-recyclerview-is-dif)
 6. [Create RecyclerView with multiple view type](http://doublewong.com/2014/create-recyclerview-with-multiple-view-type/)
+7. [Simple RecyclerView Divider](https://gist.github.com/polbins/e37206fbc444207c0e92)
 
 ### RandomAccessFile
 
@@ -314,6 +320,11 @@
 ### Textview
 
 1. [Remove underline from links in TextView](http://stackoverflow.com/questions/4096851/remove-underline-from-links-in-textview-android)
+
+### TouchEvent
+
+1. [两分钟彻底让你明白Android中onInterceptTouchEvent与onTouchEvent(图文)!](http://blog.csdn.net/android_tutor/article/details/7193090)
+2. [MotionEvent事件在onInterceptTouchEvent()、onTouchEvent()中的传递顺序](http://www.cnblogs.com/rocky_yi/archive/2011/01/21/1941522.html#)
 
 ### Thread
 
@@ -439,17 +450,21 @@
 
 ---
 
+### 设计模式
+
+1. [Java开发中的23种设计模式详解](http://zz563143188.iteye.com/blog/1847029)
+2. [MVC，MVP 和 MVVM 的图示](http://www.ruanyifeng.com/blog/2015/02/mvcmvp_mvvm.html)
+
+### Others
+
 1. [THE DEX 64K LIMIT IS NOT A PROBLEM ANYMORE, ALMOST](http://www.mutualmobile.com/posts/dex-64k-limit-not-problem-anymore-almost)
 2. [Android 4.4从图库选择图片,获取图片路径并裁剪](http://blog.csdn.net/tempersitu/article/details/20557383)
 3. [浅析android应用增量升级](http://blog.csdn.net/hmg25/article/details/8100896)
 4. [Android四大基本组件介绍与生命周期](http://www.cnblogs.com/bravestarrhu/archive/2012/05/02/2479461.html)
 5. [Android代码优化——使用Android lint工具](http://blog.csdn.net/xyz_lmn/article/details/14222939)
 6. [Android 插件化 动态升级](http://www.trinea.cn/android/android-plugin/)
-7. [两分钟彻底让你明白Android中onInterceptTouchEvent与onTouchEvent(图文)!](http://blog.csdn.net/android_tutor/article/details/7193090)
-8. [MotionEvent事件在onInterceptTouchEvent()、onTouchEvent()中的传递顺序](http://www.cnblogs.com/rocky_yi/archive/2011/01/21/1941522.html#)
-9. [Java String StringBuilder StringBuffer](http://www.stormzhang.com/java/2014/08/08/java-string-stringbuilder-stringbuffer/)
-10. [tools:context=".MainActivity的作用](http://blog.csdn.net/caiwenfeng_for_23/article/details/8373569)
-11. [MVC，MVP 和 MVVM 的图示](http://www.ruanyifeng.com/blog/2015/02/mvcmvp_mvvm.html)
-12. [关于APK瘦身值得分享的一些经验](http://www.jianshu.com/p/bd90dee57ad0)
-13. [Java开发中的23种设计模式详解](http://zz563143188.iteye.com/blog/1847029)
-14. [性能优化之数据库优化](http://www.trinea.cn/android/database-performance/)
+7. [Java String StringBuilder StringBuffer](http://www.stormzhang.com/java/2014/08/08/java-string-stringbuilder-stringbuffer/)
+8. [tools:context=".MainActivity的作用](http://blog.csdn.net/caiwenfeng_for_23/article/details/8373569)
+9. [关于APK瘦身值得分享的一些经验](http://www.jianshu.com/p/bd90dee57ad0)
+10. [性能优化之数据库优化](http://www.trinea.cn/android/database-performance/)
+11. [How to check visibility of software keyboard in Android?](http://stackoverflow.com/questions/2150078/how-to-check-visibility-of-software-keyboard-in-android)
