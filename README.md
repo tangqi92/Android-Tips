@@ -310,6 +310,10 @@
 
 ## S
 
+### SearchView
+
+1. [详细解读Android中的搜索框（三）—— SearchView](http://www.cnblogs.com/tianzhijiexian/p/4226675.html)
+
 ### Serializable
 
 1. [Android系统中Parcelable和Serializable的区别](http://greenrobot.me/devpost/android-parcelable-serializable/)
