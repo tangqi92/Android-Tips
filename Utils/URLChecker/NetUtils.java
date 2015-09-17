@@ -8,21 +8,26 @@ import java.net.URL;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
+import java.util.concurrent.ExecutorService;
+import java.util.concurrent.Executors;
+
+interface ICallback {
+	void finish(int code);
+
+	void timeout();
+}
 
 /**
  * Created by Troy Liu on 2015,九月,17, 22:16.
  */
 public class NetUtils {
 
-	public static final int TIME_OUT = 1000;
-
 	public static String getBundle(String urlMain) {
-		StringBuilder stringBuilder = null;
+		StringBuilder stringBuilder = new StringBuilder();
 		try {
 			URL url = new URL(urlMain);
 			HttpURLConnection connection = (HttpURLConnection) url.openConnection();
 			InputStream inputStream;
-			stringBuilder = new StringBuilder();
 			BufferedReader bufferedReader = null;
 			if (connection.getResponseCode() == HttpURLConnection.HTTP_OK) {
 				inputStream = connection.getInputStream();
@@ -32,7 +37,9 @@ public class NetUtils {
 					stringBuilder.append(line);
 				}
 			}
-			bufferedReader.close();
+			if (bufferedReader != null) {
+				bufferedReader.close();
+			}
 			connection.disconnect();
 		} catch (MalformedURLException e) {
 			e.printStackTrace();
@@ -43,38 +50,64 @@ public class NetUtils {
 	}
 
 	public static Map<String, String> getNotAvailableUrl(String urlMain) {
-		Map<String, String> matterUrls = new HashMap<String, String>();
+		ExecutorService threadPool = Executors.newCachedThreadPool();
+		final Map<String, String> matterUrls = new HashMap<String, String>();
 		String response = getBundle(urlMain);
 		List<String> urlList = UrlMatcher.getUrlStr(response);
-		for (String url : urlList) {
-			checkUrl(url, matterUrls);
+		for (final String url : urlList) {
+			threadPool.execute(new ItemThread(url, new ICallback() {
+				@Override
+				public void finish(int code) {
+					matterUrls.put(url, "BAD");
+				}
+
+				@Override
+				public void timeout() {
+					matterUrls.put(url, "TIMEOUT");
+				}
+			}));
 		}
-		return matterUrls;
+		threadPool.shutdown();
+		while (true) {
+			if (threadPool.isTerminated()) {
+				return matterUrls;
+			}
+		}
 	}
 
-	private static void checkUrl(String url, Map<String, String> map) {
-		int responseCode = 0;
+}
+
+class ItemThread implements Runnable {
+
+	private final String url;
+	private ICallback callback;
+
+	public ItemThread(String url, ICallback callback) {
+		this.callback = callback;
+		this.url = url;
+	}
+
+	@Override
+	public void run() {
 		try {
-			System.out.print("checking [" + url + "]");
 			URL tmp = new URL(url);
 			HttpURLConnection connection = (HttpURLConnection) tmp.openConnection();
 			connection.setRequestProperty("User-Agent", "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36");
 			connection.setRequestMethod("GET");
-			connection.setConnectTimeout(TIME_OUT);
-			responseCode = connection.getResponseCode();
+			connection.setConnectTimeout(1000);
+			int responseCode = connection.getResponseCode();
 			if (responseCode == HttpURLConnection.HTTP_OK) {
-				System.out.println("----->[OK]");
+				System.out.println("checking [" + url + "]" + "----->[OK]");
 			} else {
-				System.out.println("----->[BAD]" + "; Code--->" + responseCode);
-				map.put(url, "BAD");
+				System.out.println("checking [" + url + "]" + "----->[BAD]" + "; Code--->" + responseCode);
+				callback.finish(responseCode);
 			}
 			connection.disconnect();
 		} catch (MalformedURLException e) {
 			e.printStackTrace();
 		} catch (IOException e) {
-			System.out.println("[Time Out]");
-			map.put(url, "TIMEOUT");
+			System.out.println("checking [" + url + "]" + "[Time Out]");
+			callback.timeout();
 		}
 	}
-
 }

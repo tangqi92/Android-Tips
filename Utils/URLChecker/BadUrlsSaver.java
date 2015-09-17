@@ -5,12 +5,12 @@ import java.io.IOException;
 import java.util.Map;
 
 /**
- * Created by Troy Liu on 2015,¾ÅÔÂ,17, 23:21.
+ * Created by Troy Liu on 2015,ä¹æœˆ,17, 23:21.
  */
 public class BadUrlsSaver {
 
 	/**
-	 * ±£´æÓĞÎÊÌâµÄÍøÖ·µ½repoÄ¿Â¼ÏÂ
+	 * ä¿å­˜æœ‰é—®é¢˜çš„ç½‘å€åˆ°repoç›®å½•ä¸‹
 	 *
 	 * @param map
 	 * @param isSaveAlLMatterUrls
