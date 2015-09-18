@@ -17,7 +17,7 @@ public class BadUrlsSaver {
 	 * @throws IOException
 	 */
 	public static void save(Map<String, String> map, boolean isSaveAlLMatterUrls) throws IOException {
-		File file = new File("..\\..\\badUrls.txt");
+		File file = new File("..\\badUrls.txt");
 		if (file.exists()) {
 			System.out.println("删除先前文件: " + (file.delete() ? "成功" : "失败"));
 		}
