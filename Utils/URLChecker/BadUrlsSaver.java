@@ -18,20 +18,22 @@ public class BadUrlsSaver {
 	 */
 	public static void save(Map<String, String> map, boolean isSaveAlLMatterUrls) throws IOException {
 		File file = new File("..\\..\\badUrls.txt");
-		if (!file.exists()) {
-			file.createNewFile();
+		if (file.exists()) {
+			System.out.println("删除先前文件: " + (file.delete() ? "成功" : "失败"));
 		}
 		FileWriter writer = new FileWriter(file);
 		BufferedWriter bufferedWriter = new BufferedWriter(writer);
+		int index = 0;
 		for (Map.Entry<String, String> entry : map.entrySet()) {
 			if (isSaveAlLMatterUrls) {
-				bufferedWriter.write(entry.getValue() + "\t\t" + entry.getKey() + "\r\n");
+				bufferedWriter.write((index++) + ". " + "[" + entry.getValue() + "]+ \"(\"+ entry.getKey() + +\")\"+ \"\r\n");
 			} else {
 				if (entry.getValue().equals("TIMEOUT")) {
-					bufferedWriter.write(entry.getValue() + "\t\t" + entry.getKey() + "\r\n");
+					bufferedWriter.write((index++) + ". " + "[" + entry.getValue() + "]+ \"(\"+ entry.getKey() + +\")\"+ \"\r\n");
 				}
 			}
 		}
 		bufferedWriter.close();
 	}
+
 }

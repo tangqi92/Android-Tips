@@ -8,14 +8,18 @@ import java.util.regex.Pattern;
  */
 public class UrlMatcher {
 	public static List<String> getUrlStr(String response) {
-		Pattern pattern = Pattern.compile("(http|ftp|https):\\/\\/[\\w\\-_]+(\\.[\\w\\-_]+)+([\\w\\-\\.,@?^=%&amp;:/~\\+#]*[\\w\\-\\@?^=%&amp;/~\\+#])?");
+		Pattern pattern = Pattern.compile("[a-zA-z]+://[^\\s]*", Pattern.CASE_INSENSITIVE | Pattern.DOTALL);
 		Matcher matcher = pattern.matcher(response);
-		List<String> urlList = new ArrayList<String>();
+		List<String> urls = new ArrayList<String>();
 		while (matcher.find()) {
-			urlList.add(matcher.group());
+			String tmp = matcher.group();
+			int index = tmp.lastIndexOf(")");
+			tmp = tmp.substring(0, index);
+			urls.add(tmp);
 		}
-		return urlList;
+		return urls;
 	}
+
 
 	public static String getUrlTitle(String urlResponse) {
 		Pattern pattern = Pattern.compile("<title>.*?</title>");

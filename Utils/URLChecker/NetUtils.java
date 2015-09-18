@@ -4,6 +4,7 @@ import java.io.InputStream;
 import java.io.InputStreamReader;
 import java.net.HttpURLConnection;
 import java.net.MalformedURLException;
+import java.net.ProtocolException;
 import java.net.URL;
 import java.util.HashMap;
 import java.util.List;
@@ -27,11 +28,16 @@ public class NetUtils {
 		try {
 			URL url = new URL(urlMain);
 			HttpURLConnection connection = (HttpURLConnection) url.openConnection();
+			connection.setRequestProperty("Content-Type", "text/html");
+			connection.setRequestProperty("Accept-Charset", "utf-8");
+			connection.setRequestProperty("Content-Type", "utf-8");
+			connection.setRequestProperty("Charset", "utf-8");
+			connection.setRequestMethod("GET");
 			InputStream inputStream;
 			BufferedReader bufferedReader = null;
 			if (connection.getResponseCode() == HttpURLConnection.HTTP_OK) {
 				inputStream = connection.getInputStream();
-				bufferedReader = new BufferedReader(new InputStreamReader(inputStream));
+				bufferedReader = new BufferedReader(new InputStreamReader(inputStream, "UTF-8"));
 				String line = null;
 				while ((line = bufferedReader.readLine()) != null) {
 					stringBuilder.append(line);
@@ -58,7 +64,7 @@ public class NetUtils {
 			threadPool.execute(new ItemThread(url, new ICallback() {
 				@Override
 				public void finish(int code) {
-					matterUrls.put(url, "BAD");
+					matterUrls.put(url, "BAD" + "[Code: " + code + "]");
 				}
 
 				@Override
@@ -75,6 +81,7 @@ public class NetUtils {
 		}
 	}
 
+
 }
 
 class ItemThread implements Runnable {
@@ -89,12 +96,14 @@ class ItemThread implements Runnable {
 
 	@Override
 	public void run() {
+		HttpURLConnection connection = null;
 		try {
 			URL tmp = new URL(url);
-			HttpURLConnection connection = (HttpURLConnection) tmp.openConnection();
+			connection = (HttpURLConnection) tmp.openConnection();
 			connection.setRequestProperty("User-Agent", "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36");
 			connection.setRequestMethod("GET");
-			connection.setConnectTimeout(1000);
+			connection.setReadTimeout(10000);
+			connection.setConnectTimeout(10000);
 			int responseCode = connection.getResponseCode();
 			if (responseCode == HttpURLConnection.HTTP_OK) {
 				System.out.println("checking [" + url + "]" + "----->[OK]");
@@ -102,12 +111,17 @@ class ItemThread implements Runnable {
 				System.out.println("checking [" + url + "]" + "----->[BAD]" + "; Code--->" + responseCode);
 				callback.finish(responseCode);
 			}
-			connection.disconnect();
 		} catch (MalformedURLException e) {
 			e.printStackTrace();
+		} catch (ProtocolException e) {
+			e.printStackTrace();
 		} catch (IOException e) {
-			System.out.println("checking [" + url + "]" + "[Time Out]");
+			System.out.println("checking [" + url + "]" + e.getMessage());
 			callback.timeout();
+		} finally {
+			if (connection != null) {
+				connection.disconnect();
+			}
 		}
 	}
 }
