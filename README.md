@@ -218,8 +218,7 @@
 
 ### Immersive Full-Screen Mode
 
-1. [Using Immersive Full-Screen Mode](https://developer.android.com/training/system-ui/immersive.html)
-2. [全屏沉浸式应用](http://hukai.me/android-training-course-in-chinese/ui/system-ui/immersive.html)
+1. [Using Immersive Full-Screen Mode](https://developer.android.com/training/system-ui/immersive.html)   [**译文**](http://hukai.me/android-training-course-in-chinese/ui/system-ui/immersive.html)
 
 ### Intent
 
