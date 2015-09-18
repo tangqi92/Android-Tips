@@ -431,7 +431,6 @@
 1. [ViewPager + Fragment实现滑动标签页](http://blog.csdn.net/lizhenmingdirk/article/details/13631813)
 2. [【移动开发】Android中Fragment+ViewPager的配合使用](http://smallwoniu.blog.51cto.com/3911954/1322746)
 3. [Android 手把手教您自定义ViewGroup（一）本文出自:【张鸿洋的博客】](http://blog.csdn.net/lmj623565791/article/details/38339817)
-4.
 
 ### View
 
