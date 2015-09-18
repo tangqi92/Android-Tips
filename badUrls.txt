@@ -1,0 +1,12 @@
+TIMEOUT		https://gist.github.com/polbins/e37206fbc444207c0e92
+TIMEOUT		http://developer.android.com/guide/topics/resources/runtime-changes.html
+TIMEOUT		https://developer.android.com/training/system-ui/immersive.html
+TIMEOUT		https://www.youtube.com/watch?v=5U_BfrXV90I
+TIMEOUT		http://chenqichao.me/2014/05/13/003-Android-Studio-AIDL/
+TIMEOUT		http://foocoder.com/blog/androidzhong-de-kua-jin-cheng-tong-xin-de-shi-xian-
+TIMEOUT		http://source.android.com/source/code-style.html
+TIMEOUT		http://li2.me/android/Displaying-Lists-with-ListFragment/
+TIMEOUT		http://droidyue.com/blog/2014/09/20/interaction-between-java-and-javascript-in-android/
+TIMEOUT		http://baoyz.com/android/2014/10/21/android-palette-use/
+TIMEOUT		https://www.zybuluo.com/flyouting/note/6996
+BAD		http://snowdream86.gitbooks.io/github-cheat-sheet/content/zh/index.html
