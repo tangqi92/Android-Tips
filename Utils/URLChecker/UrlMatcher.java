@@ -4,16 +4,30 @@ import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 /**
- * Created by Troy Liu on 2015,¾ÅÔÂ,17, 22:11.
+ * Created by Troy Liu on 2015,ä¹æœˆ,17, 22:11.
  */
 public class UrlMatcher {
-	public static List getUrlStr(String response) {
-		Pattern pattern = Pattern.compile("(http|ftp|https):\\/\\/[\\w\\-_]+(\\.[\\w\\-_]+)+([\\w\\-\\.,@?^=%&amp;:/~\\+#]*[\\w\\-\\@?^=%&amp;/~\\+#])?");
+	public static List<String> getUrlStr(String response) {
+		Pattern pattern = Pattern.compile("[a-zA-z]+://[^\\s]*", Pattern.CASE_INSENSITIVE | Pattern.DOTALL);
 		Matcher matcher = pattern.matcher(response);
-		List<String> urlList = new ArrayList<String>();
+		List<String> urls = new ArrayList<String>();
 		while (matcher.find()) {
-			urlList.add(matcher.group());
+			String tmp = matcher.group();
+			int index = tmp.lastIndexOf(")");
+			tmp = tmp.substring(0, index);
+			urls.add(tmp);
 		}
-		return urlList;
+		return urls;
+	}
+
+
+	public static String getUrlTitle(String urlResponse) {
+		Pattern pattern = Pattern.compile("<title>.*?</title>");
+		Matcher matcher = pattern.matcher(urlResponse);
+		String title = null;
+		while (matcher.find()) {
+			title = matcher.group();
+		}
+		return title;
 	}
 }

@@ -2,14 +2,15 @@ import java.io.IOException;
 import java.util.Map;
 
 /**
- * Created by Troy Liu on 2015,¾ÅÔÂ,17, 22:10.
+ * Created by Troy Liu on 2015,ä¹æœˆ,17, 22:10.
  */
 public class Main {
 
-	// ÊÇ·ñ±£´æËùÓĞÓĞÁ¬½ÓÎÊÌâµÄurl
+	// æ˜¯å¦ä¿å­˜æ‰€æœ‰æœ‰è¿æ¥é—®é¢˜çš„url
 	public static final boolean saveAllMatterUrls = true;
 
 	public static void main(String[] args) {
+		long before = System.currentTimeMillis();
 		String urlBundle = "https://raw.githubusercontent.com/tangqi92/Android-Tips/master/README.md";
 		Map<String, String> matterUrls = NetUtils.getNotAvailableUrl(urlBundle);
 		for (Map.Entry<String, String> entry : matterUrls.entrySet()) {
@@ -19,6 +20,9 @@ public class Main {
 			BadUrlsSaver.save(matterUrls, saveAllMatterUrls);
 		} catch (IOException e) {
 			e.printStackTrace();
+		} finally {
+			long after = System.currentTimeMillis();
+			System.out.println("è€—æ—¶ï¼š" + (after - before) / 1000 + "s");
 		}
 	}
 }
