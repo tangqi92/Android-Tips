@@ -69,7 +69,7 @@
 1. [android进程间通信：使用AIDL](http://blog.csdn.net/saintswordsman/article/details/5130947)
 2. [Android AIDL使用详解](http://blog.csdn.net/stonecao/article/details/6425019)
 3. [android跨进程通信(IPC): 使用AIDL](http://blog.csdn.net/singwhatiwanna/article/details/17041691)
-4. [Android中的跨进程通信的实现（一）——远程调用过程和aidl](http://foocoder.com/blog/androidzhong-de-kua-jin-cheng-tong-xin-de-shi-xian-(%5B%3F%5D-)-yuan-cheng-diao-yong-guo-cheng-he-aidl.html/)
+4. [Android中的跨进程通信的实现（一）——远程调用过程和aidl](http://blog.csdn.net/notice520/article/details/8135600)
 5. [Android Studio下如何配置AIDL文件](http://chenqichao.me/2014/05/13/003-Android-Studio-AIDL/)
 
 ### Android-Async-Http
@@ -125,7 +125,7 @@
 ### Configuration Change
 
 1. [Android Configuration change引发的问题及解决方法](http://blog.csdn.net/aliaooooo/article/details/23606179?utm_source=tuicool)
-2. [Handling Runtime Changes](http://developer.android.com/guide/topics/resources/runtime-changes.html)
+2. [Handling Runtime Changes](https://github.com/troyliu0105/Android-Tips/blob/master/Utils/Content/Handing_Runtime_Changes.md)
 
 ### Context
 
@@ -309,7 +309,7 @@
 ### Palette
 
 1. [Extracting Colors to a Palette with Android Lollipop](https://www.bignerdranch.com/blog/extracting-colors-to-a-palette-with-android-lollipop/)
-2. [Android Lollipop 新特性 - Palette](http://baoyz.com/android/2014/10/21/android-palette-use/)
+2. [Android Lollipop 新特性 - Palette](https://github.com/troyliu0105/Android-Tips/blob/master/Utils/Content/Android_Lollipop_%E6%96%B0%E7%89%B9%E6%80%A7-Palette.md)
 
 ### Preference
 
@@ -338,7 +338,7 @@
 4. [Android-RecyclerView-Item点击事件设置](http://blog.csdn.net/guxiao1201/article/details/40423361)
 5. [Why doesn't RecyclerView have onItemClickListener()? And how RecyclerView is different from Listview?](http://stackoverflow.com/questions/24885223/why-doesnt-recyclerview-have-onitemclicklistener-and-how-recyclerview-is-dif)
 6. [Create RecyclerView with multiple view type](http://doublewong.com/2014/create-recyclerview-with-multiple-view-type/)
-7. [Simple RecyclerView Divider](https://gist.github.com/polbins/e37206fbc444207c0e92)
+7. [Simple RecyclerView Divider](https://github.com/troyliu0105/Android-Tips/blob/master/Utils/Content/Simple_RecyclerView_Divider.md)
 
 ### RandomAccessFile
 
@@ -431,7 +431,7 @@
 1. [ViewPager + Fragment实现滑动标签页](http://blog.csdn.net/lizhenmingdirk/article/details/13631813)
 2. [【移动开发】Android中Fragment+ViewPager的配合使用](http://smallwoniu.blog.51cto.com/3911954/1322746)
 3. [Android 手把手教您自定义ViewGroup（一）本文出自:【张鸿洋的博客】](http://blog.csdn.net/lmj623565791/article/details/38339817)
-4. 
+4.
 
 ### View
 
