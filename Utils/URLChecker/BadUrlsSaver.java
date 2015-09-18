@@ -23,13 +23,12 @@ public class BadUrlsSaver {
 		}
 		FileWriter writer = new FileWriter(file);
 		BufferedWriter bufferedWriter = new BufferedWriter(writer);
-		int index = 0;
 		for (Map.Entry<String, String> entry : map.entrySet()) {
 			if (isSaveAlLMatterUrls) {
-				bufferedWriter.write((index++) + ". " + "[" + entry.getValue() + "]+ \"(\"+ entry.getKey() + +\")\"+ \"\r\n");
+				bufferedWriter.write(entry.getValue() + "\t\t" + entry.getKey() + "\r\n");
 			} else {
 				if (entry.getValue().equals("TIMEOUT")) {
-					bufferedWriter.write((index++) + ". " + "[" + entry.getValue() + "]+ \"(\"+ entry.getKey() + +\")\"+ \"\r\n");
+					bufferedWriter.write(entry.getValue() + "\t\t" + entry.getKey() + "\r\n");
 				}
 			}
 		}
