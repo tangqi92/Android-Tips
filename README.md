@@ -10,9 +10,7 @@
 
 你可以通过 [Pull requests](https://github.com/tangqi92/Android-Tips/pulls) 的形式进行提交，当然也欢迎 `Star` 与 `Fork` ：）
 
->由于各种问题，给出的链接可能会无法正常访问。遇到这种情况欢迎大家提交[Issue](https://github.com/tangqi92/Android-Tips/issues)，Contributers也可以使用[Utils](https://github.com/tangqi92/Android-Tips/tree/master/Utils)里面的[URLChecker](https://github.com/tangqi92/Android-Tips/blob/master/Utils/UrlCheckerREADME.md)来检测这个README.md下面的链接有效性，你可以选择更改为新的有效连接，或者把需要梯子的文章以Markdown的形式保存在Utils/Content目录下，并注明原文章链接和作者。
-
->由于本项目面向的群体为初学者，所以列表的知识点以初级为主，资源大多数为中文，如遇到少数无法访问的情况，请自备梯子。
+>由于各种问题，给出的链接可能会无法正常访问。遇到这种情况欢迎大家提交 [Issue](https://github.com/tangqi92/Android-Tips/issues)，Contributers 也可以使用 [Utils](https://github.com/tangqi92/Android-Tips/tree/master/Utils) 里面的 [URLChecker](https://github.com/tangqi92/Android-Tips/blob/master/Utils/UrlCheckerREADME.md) 来检测这个README.md下面的链接有效性，你可以选择更改为新的有效连接，或者把需要**梯子**的文章以Markdown的形式保存在Utils/Content目录下，并注明原文章链接和作者。
 
 ---
 
@@ -47,6 +45,7 @@
   * [其他](#其他)
   * [设计模式](#设计模式)
   * [Others](#others)
+  * [Contributors](#contributors)
 
 ---
 
@@ -557,3 +556,14 @@
 9. [关于APK瘦身值得分享的一些经验](http://www.jianshu.com/p/bd90dee57ad0)
 10. [性能优化之数据库优化](http://www.trinea.cn/android/database-performance/)
 11. [How to check visibility of software keyboard in Android?](http://stackoverflow.com/questions/2150078/how-to-check-visibility-of-software-keyboard-in-android)
+12. [android 4.4.4侧滑退出显示app启动界面](https://github.com/ikew0ng/SwipeBackLayout/issues/45)
+
+---
+
+## Contributors
+
+- [troyliu0105](https://github.com/troyliu0105) 
+- [whiskeyfei](https://github.com/whiskeyfei)
+- [wavever](https://github.com/wavever)
+- [nitta-honoka](https://github.com/nitta-honoka)
+- [jywanghold](https://github.com/jywanghold)
