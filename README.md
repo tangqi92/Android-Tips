@@ -10,7 +10,7 @@
 
 你可以通过 [Pull requests](https://github.com/tangqi92/Android-Tips/pulls) 的形式进行提交，当然也欢迎 `Star` 与 `Fork` ：）
 
->由于各种问题，给出的链接可能会无法正常访问。遇到这种情况欢迎大家提交[Issue](https://github.com/tangqi92/Android-Tips/issues)，Contributers也可以使用[Utils](https://github.com/tangqi92/Android-Tips/tree/master/Utils)里面的[URLChecker](https://github.com/tangqi92/Android-Tips/blob/master/Utils/URLCheckerREADME.md)来检测这个README.md下面的链接有效性，你可以选择更改为新的有效连接，或者把需要梯子的文章以Markdown的形式保存在Utils/Content目录下，并注明原文章链接和作者。
+>由于各种问题，给出的链接可能会无法正常访问。遇到这种情况欢迎大家提交[Issue](https://github.com/tangqi92/Android-Tips/issues)，Contributers也可以使用[Utils](https://github.com/tangqi92/Android-Tips/tree/master/Utils)里面的[URLChecker](https://github.com/tangqi92/Android-Tips/blob/master/Utils/UrlCheckerREADME.md)来检测这个README.md下面的链接有效性，你可以选择更改为新的有效连接，或者把需要梯子的文章以Markdown的形式保存在Utils/Content目录下，并注明原文章链接和作者。
 
 >由于本项目面向的群体为初学者，所以列表的知识点以初级为主，资源大多数为中文，如遇到少数无法访问的情况，请自备梯子。
 
