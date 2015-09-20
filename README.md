@@ -16,7 +16,7 @@
 
 ## 目录
 
-  * [A](#a) 
+  * [A](#a)
   * [B](#b)
   * [C](#c)
   * [D](#d)
@@ -531,7 +531,7 @@
 ### 自定义控件
 
 1. [Android 自定义View及其在布局文件中的使用示例](http://www.cnblogs.com/crashmaker/p/3521310.html)
-2. [自定义控件进阶:declare-styleable重用attr](http://droidyue.com/blog/2014/07/16/better-in-android-include-attrs-in-declare-stylable/)
+2. [自定义控件进阶:declare-styleable重用attr](https://github.com/troyliu0105/Android-Tips/blob/master/Utils/Content/declare-styleable_reuse_attr.md)
 3. [android 自定义控件 使用declare-styleable进行配置属性（源码角度）](http://blog.csdn.net/vipzjyno1/article/details/23696537)
 4. [Android使用AttributeSet自定义控件的方法](http://www.cnblogs.com/zwl12549/archive/2011/04/13/2015366.html)
 5. [从源码中浅析Android中如何利用attrs和styles定义控件](http://michaelye1988.iteye.com/blog/1773997)
@@ -561,7 +561,7 @@
 
 ## Contributors
 
-- [troyliu0105](https://github.com/troyliu0105) 
+- [troyliu0105](https://github.com/troyliu0105)
 - [whiskeyfei](https://github.com/whiskeyfei)
 - [wavever](https://github.com/wavever)
 - [nitta-honoka](https://github.com/nitta-honoka)
@@ -571,9 +571,8 @@
 
 ## Contact Me
 
-Born in 1992, now a student of Southeast University, master of software engineerin. Loving technology, programming, reading and sports. 
+Born in 1992, now a student of Southeast University, master of software engineerin. Loving technology, programming, reading and sports.
 
 I will graduate in June 2017, expect the internship or full-time job in Android or iOS.
 
 If you have any questions or want to make friends with me, please feel free to contact me : [imtangqi#gmail.com](mailto:imtangqi@gmail.com "Welcome to contact me")  
-
