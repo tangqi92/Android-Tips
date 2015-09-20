@@ -44,6 +44,7 @@
   * [Z](#z)
   * [Others](#others)
   * [Contributors](#contributors)
+  * [Contact Me](#contact-me)
 
 ---
 
@@ -565,3 +566,14 @@
 - [wavever](https://github.com/wavever)
 - [nitta-honoka](https://github.com/nitta-honoka)
 - [jywanghold](https://github.com/jywanghold)
+
+---
+
+## Contact Me
+
+Born in 1992, now a student of Southeast University, master of software engineerin. Loving technology, programming, reading and sports. 
+
+I will graduate in June 2017, expect the internship or full-time job in Android or iOS.
+
+If you have any questions or want to make friends with me, please feel free to contact me : [imtangqi#gmail.com](mailto:imtangqi@gmail.com "Welcome to contact me")  
+
