@@ -1,22 +1,22 @@
 # Android-Tips
 
-学习 Android 至今，大大小小的坑没少踩，庆幸的是，在强大的搜索引擎与无私奉献的人们的帮助下，我遇到的坑都顺利地被填平了。
+学习 Android 至今，大大小小的坑没少踩过，庆幸的是，在强大的搜索引擎与无私奉献的人们的帮助下，那些坑都顺利地被填平了。
 
-为了便于日后在遇到同样的问题时，能免于因再次搜索所带来的麻烦，我养成了收藏书签的习惯，随着书签（Tips）的日积月累，我想，是时候该有这个项目了。
+为了日后在遇到同样的问题时，能免于再次搜索带来的麻烦，我养成了收藏书签的习惯，随着书签（Tips）的日积月累，我想，是时候该有这个项目了。
 
-**如果你是个 Android 新人，又不善于搜索或不知道从何开始，那么我希望这份列表，可以成为你踩到坑时的不完全手册。**
+**如果你是个 Android 新人，又不善于搜索或不知道从何开始，那么我相信这份列表，将会成为你的首选。**
 
-当然，这份列表一定会有遗漏，如果不幸，这里没有你所踩到的坑，或者对于某个问题你有更好的 Tips，欢迎与大家分享，让我们一起来维护这个项目！
+当然，这份列表并不完美，如果不幸，这里没有你所踩到的坑，或者对于某个问题你有更好的 Tips，欢迎与大家分享，让我们一起来维护这个项目！
 
-你可以通过 [Pull requests](https://github.com/tangqi92/Android-Tips/pulls) 的形式进行提交，当然也欢迎 `Star` 与 `Fork` ：）
+你可以通过 [Pull request](https://github.com/tangqi92/Android-Tips/pulls) 的形式进行提交，当然也欢迎 `Star` 与 `Fork` ：）
 
->由于各种问题，给出的链接可能会无法正常访问。遇到这种情况欢迎大家提交 [Issue](https://github.com/tangqi92/Android-Tips/issues)，Contributers 也可以使用 [Utils](https://github.com/tangqi92/Android-Tips/tree/master/Utils) 里面的 [URLChecker](https://github.com/tangqi92/Android-Tips/blob/master/Utils/UrlCheckerREADME.md) 来检测这个README.md下面的链接有效性，你可以选择更改为新的有效连接，或者把需要**梯子**的文章以Markdown的形式保存在Utils/Content目录下，并注明原文章链接和作者。
+>由于各种问题，给出的链接可能会无法正常访问。遇到这种情况欢迎大家提交 [Issue](https://github.com/tangqi92/Android-Tips/issues)，Contributers 也可以使用 [Utils](https://github.com/tangqi92/Android-Tips/tree/master/Utils) 里面的 [URLChecker](https://github.com/tangqi92/Android-Tips/blob/master/Utils/UrlCheckerREADME.md) 来检测列表里链接的有效性，你可以选择更改为新的有效连接，或者把需要**梯子**的文章以 Markdown 的形式保存在 Utils/Content 目录下，并注明原文章链接和作者。
 
 ---
 
 ## 目录
 
-  * [A](#a)
+  * [A](#a) 
   * [B](#b)
   * [C](#c)
   * [D](#d)
@@ -42,8 +42,6 @@
   * [X](#x)
   * [Y](#y)
   * [Z](#z)
-  * [其他](#其他)
-  * [设计模式](#设计模式)
   * [Others](#others)
   * [Contributors](#contributors)
 
@@ -472,21 +470,7 @@
 
 ---
 
-## 其他
-
-### 自定义控件
-
-1. [Android 自定义View及其在布局文件中的使用示例](http://www.cnblogs.com/crashmaker/p/3521310.html)
-2. [自定义控件进阶:declare-styleable重用attr](http://droidyue.com/blog/2014/07/16/better-in-android-include-attrs-in-declare-stylable/)
-3. [android 自定义控件 使用declare-styleable进行配置属性（源码角度）](http://blog.csdn.net/vipzjyno1/article/details/23696537)
-4. [Android使用AttributeSet自定义控件的方法](http://www.cnblogs.com/zwl12549/archive/2011/04/13/2015366.html)
-5. [从源码中浅析Android中如何利用attrs和styles定义控件](http://michaelye1988.iteye.com/blog/1773997)
-6. [Android SDK: Creating Custom Views](http://code.tutsplus.com/tutorials/android-sdk-creating-custom-views--mobile-14548)
-7. [Creating custom and compound Views in Android - Tutorial](http://www.vogella.com/tutorials/AndroidCustomViews/article.html)
-8. [Tutorial: Enhancing Android UI with Custom Views](https://newcircle.com/s/post/1663/tutorial_enhancing_android_ui_with_custom_views_dave_smith_video)
-9. [Android 自定义View (一)](http://blog.csdn.net/lmj623565791/article/details/24252901)
-
----
+## Others
 
 ### Android Studio
 
@@ -543,7 +527,21 @@
 
 ---
 
-### Others
+### 自定义控件
+
+1. [Android 自定义View及其在布局文件中的使用示例](http://www.cnblogs.com/crashmaker/p/3521310.html)
+2. [自定义控件进阶:declare-styleable重用attr](http://droidyue.com/blog/2014/07/16/better-in-android-include-attrs-in-declare-stylable/)
+3. [android 自定义控件 使用declare-styleable进行配置属性（源码角度）](http://blog.csdn.net/vipzjyno1/article/details/23696537)
+4. [Android使用AttributeSet自定义控件的方法](http://www.cnblogs.com/zwl12549/archive/2011/04/13/2015366.html)
+5. [从源码中浅析Android中如何利用attrs和styles定义控件](http://michaelye1988.iteye.com/blog/1773997)
+6. [Android SDK: Creating Custom Views](http://code.tutsplus.com/tutorials/android-sdk-creating-custom-views--mobile-14548)
+7. [Creating custom and compound Views in Android - Tutorial](http://www.vogella.com/tutorials/AndroidCustomViews/article.html)
+8. [Tutorial: Enhancing Android UI with Custom Views](https://newcircle.com/s/post/1663/tutorial_enhancing_android_ui_with_custom_views_dave_smith_video)
+9. [Android 自定义View (一)](http://blog.csdn.net/lmj623565791/article/details/24252901)
+
+---
+
+### No category
 
 1. [THE DEX 64K LIMIT IS NOT A PROBLEM ANYMORE, ALMOST](http://www.mutualmobile.com/posts/dex-64k-limit-not-problem-anymore-almost)
 2. [Android 4.4从图库选择图片,获取图片路径并裁剪](http://blog.csdn.net/tempersitu/article/details/20557383)
