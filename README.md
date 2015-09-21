@@ -1,22 +1,22 @@
 # Android-Tips
 
-学习 Android 至今，大大小小的坑没少踩，庆幸的是，在强大的搜索引擎与无私奉献的人们的帮助下，我遇到的坑都顺利地被填平了。
+学习 Android 至今，大大小小的坑没少踩过，庆幸的是，在强大的搜索引擎与无私奉献的人们的帮助下，那些坑都顺利地被填平了。
 
-为了便于日后在遇到同样的问题时，能免于因再次搜索所带来的麻烦，我养成了收藏书签的习惯，随着书签（Tips）的日积月累，我想，是时候该有这个项目了。
+为了日后在遇到同样的问题时，能免于再次搜索带来的麻烦，我养成了收藏书签的习惯，随着书签（Tips）的日积月累，我想，是时候该有这个项目了。
 
-**如果你是个 Android 新人，又不善于搜索或不知道从何开始，那么我希望这份列表，可以成为你踩到坑时的不完全手册。**
+**如果你是个 Android 新人，又不善于搜索或不知道从何开始，那么我相信这份列表，将会成为你的首选。**
 
-当然，这份列表一定会有遗漏，如果不幸，这里没有你所踩到的坑，或者对于某个问题你有更好的 Tips，欢迎与大家分享，让我们一起来维护这个项目！
+当然，这份列表并不完美，如果不幸，这里没有你所踩到的坑，或者对于某个问题你有更好的 Tips，欢迎与大家分享，让我们一起来维护这个项目！
 
-你可以通过 [Pull requests](https://github.com/tangqi92/Android-Tips/pulls) 的形式进行提交，当然也欢迎 `Star` 与 `Fork` ：）
+你可以通过 [Pull request](https://github.com/tangqi92/Android-Tips/pulls) 的形式进行提交，当然也欢迎 `Star` 与 `Fork` ：）
 
->由于本项目面向的群体为初学者，所以列表的知识点以初级为主，资源大多数为中文，如遇到少数无法访问的情况，请自备梯子。
+>由于各种问题，给出的链接可能会无法正常访问。遇到这种情况欢迎大家提交 [Issue](https://github.com/tangqi92/Android-Tips/issues)，Contributers 也可以使用 [Utils](https://github.com/tangqi92/Android-Tips/tree/master/Utils) 里面的 [URLChecker](https://github.com/tangqi92/Android-Tips/blob/master/Utils/UrlCheckerREADME.md) 来检测列表里链接的有效性，你可以选择更改为新的有效连接，或者把需要**梯子**的文章以 Markdown 的形式保存在 Utils/Content 目录下，并注明原文章链接和作者。
 
 ---
 
 ## 目录
 
-  * [A](#a)
+  * [A](#a) 
   * [B](#b)
   * [C](#c)
   * [D](#d)
@@ -42,9 +42,9 @@
   * [X](#x)
   * [Y](#y)
   * [Z](#z)
-  * [其他](#其他)
-  * [设计模式](#设计模式)
   * [Others](#others)
+  * [Contributors](#contributors)
+  * [Contact Me](#contact-me)
 
 ---
 
@@ -69,7 +69,7 @@
 1. [android进程间通信：使用AIDL](http://blog.csdn.net/saintswordsman/article/details/5130947)
 2. [Android AIDL使用详解](http://blog.csdn.net/stonecao/article/details/6425019)
 3. [android跨进程通信(IPC): 使用AIDL](http://blog.csdn.net/singwhatiwanna/article/details/17041691)
-4. [Android中的跨进程通信的实现（一）——远程调用过程和aidl](http://foocoder.com/blog/androidzhong-de-kua-jin-cheng-tong-xin-de-shi-xian-(%5B%3F%5D-)-yuan-cheng-diao-yong-guo-cheng-he-aidl.html/)
+4. [Android中的跨进程通信的实现（一）——远程调用过程和aidl](http://blog.csdn.net/notice520/article/details/8135600)
 5. [Android Studio下如何配置AIDL文件](http://chenqichao.me/2014/05/13/003-Android-Studio-AIDL/)
 
 ### Android-Async-Http
@@ -125,7 +125,7 @@
 ### Configuration Change
 
 1. [Android Configuration change引发的问题及解决方法](http://blog.csdn.net/aliaooooo/article/details/23606179?utm_source=tuicool)
-2. [Handling Runtime Changes](http://developer.android.com/guide/topics/resources/runtime-changes.html)
+2. [Handling Runtime Changes](https://github.com/troyliu0105/Android-Tips/blob/master/Utils/Content/Handing_Runtime_Changes.md)
 
 ### Context
 
@@ -218,8 +218,7 @@
 
 ### Immersive Full-Screen Mode
 
-1. [Using Immersive Full-Screen Mode](https://developer.android.com/training/system-ui/immersive.html)
-2. [全屏沉浸式应用](http://hukai.me/android-training-course-in-chinese/ui/system-ui/immersive.html)
+1. [Using Immersive Full-Screen Mode](https://developer.android.com/training/system-ui/immersive.html)   [**译文**](http://hukai.me/android-training-course-in-chinese/ui/system-ui/immersive.html)
 
 ### Intent
 
@@ -309,7 +308,7 @@
 ### Palette
 
 1. [Extracting Colors to a Palette with Android Lollipop](https://www.bignerdranch.com/blog/extracting-colors-to-a-palette-with-android-lollipop/)
-2. [Android Lollipop 新特性 - Palette](http://baoyz.com/android/2014/10/21/android-palette-use/)
+2. [Android Lollipop 新特性 - Palette](https://github.com/troyliu0105/Android-Tips/blob/master/Utils/Content/Android_Lollipop_%E6%96%B0%E7%89%B9%E6%80%A7-Palette.md)
 
 ### Preference
 
@@ -338,7 +337,7 @@
 4. [Android-RecyclerView-Item点击事件设置](http://blog.csdn.net/guxiao1201/article/details/40423361)
 5. [Why doesn't RecyclerView have onItemClickListener()? And how RecyclerView is different from Listview?](http://stackoverflow.com/questions/24885223/why-doesnt-recyclerview-have-onitemclicklistener-and-how-recyclerview-is-dif)
 6. [Create RecyclerView with multiple view type](http://doublewong.com/2014/create-recyclerview-with-multiple-view-type/)
-7. [Simple RecyclerView Divider](https://gist.github.com/polbins/e37206fbc444207c0e92)
+7. [Simple RecyclerView Divider](https://github.com/troyliu0105/Android-Tips/blob/master/Utils/Content/Simple_RecyclerView_Divider.md)
 
 ### RandomAccessFile
 
@@ -431,7 +430,6 @@
 1. [ViewPager + Fragment实现滑动标签页](http://blog.csdn.net/lizhenmingdirk/article/details/13631813)
 2. [【移动开发】Android中Fragment+ViewPager的配合使用](http://smallwoniu.blog.51cto.com/3911954/1322746)
 3. [Android 手把手教您自定义ViewGroup（一）本文出自:【张鸿洋的博客】](http://blog.csdn.net/lmj623565791/article/details/38339817)
-4. 
 
 ### View
 
@@ -473,21 +471,7 @@
 
 ---
 
-## 其他
-
-### 自定义控件
-
-1. [Android 自定义View及其在布局文件中的使用示例](http://www.cnblogs.com/crashmaker/p/3521310.html)
-2. [自定义控件进阶:declare-styleable重用attr](http://droidyue.com/blog/2014/07/16/better-in-android-include-attrs-in-declare-stylable/)
-3. [android 自定义控件 使用declare-styleable进行配置属性（源码角度）](http://blog.csdn.net/vipzjyno1/article/details/23696537)
-4. [Android使用AttributeSet自定义控件的方法](http://www.cnblogs.com/zwl12549/archive/2011/04/13/2015366.html)
-5. [从源码中浅析Android中如何利用attrs和styles定义控件](http://michaelye1988.iteye.com/blog/1773997)
-6. [Android SDK: Creating Custom Views](http://code.tutsplus.com/tutorials/android-sdk-creating-custom-views--mobile-14548)
-7. [Creating custom and compound Views in Android - Tutorial](http://www.vogella.com/tutorials/AndroidCustomViews/article.html)
-8. [Tutorial: Enhancing Android UI with Custom Views](https://newcircle.com/s/post/1663/tutorial_enhancing_android_ui_with_custom_views_dave_smith_video)
-9. [Android 自定义View (一)](http://blog.csdn.net/lmj623565791/article/details/24252901)
-
----
+## Others
 
 ### Android Studio
 
@@ -513,7 +497,9 @@
 2. [GitHub秘籍](http://snowdream86.gitbooks.io/github-cheat-sheet/content/zh/index.html)
 3. [git - 简易指南](http://www.bootcss.com/p/git-guide/)
 4. [基于Github参与开源项目指南](http://yeungeek.com/2015/07/01/%E5%9F%BA%E4%BA%8EGithub%E5%8F%82%E4%B8%8E%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%E6%8C%87%E5%8D%97/)
-5. [使用git和github进行协同开发流程](http://livoras.com/post/28)
+5. [使用git和github进行协同开发流程](http://livoras.com/post/28)  
+6. [如何高效利用GitHub](http://www.yangzhiping.com/tech/github.html#q1)  
+7. [廖雪峰的GIT入门教程](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
 
 ---
 
@@ -542,7 +528,21 @@
 
 ---
 
-### Others
+### 自定义控件
+
+1. [Android 自定义View及其在布局文件中的使用示例](http://www.cnblogs.com/crashmaker/p/3521310.html)
+2. [自定义控件进阶:declare-styleable重用attr](http://droidyue.com/blog/2014/07/16/better-in-android-include-attrs-in-declare-stylable/)
+3. [android 自定义控件 使用declare-styleable进行配置属性（源码角度）](http://blog.csdn.net/vipzjyno1/article/details/23696537)
+4. [Android使用AttributeSet自定义控件的方法](http://www.cnblogs.com/zwl12549/archive/2011/04/13/2015366.html)
+5. [从源码中浅析Android中如何利用attrs和styles定义控件](http://michaelye1988.iteye.com/blog/1773997)
+6. [Android SDK: Creating Custom Views](http://code.tutsplus.com/tutorials/android-sdk-creating-custom-views--mobile-14548)
+7. [Creating custom and compound Views in Android - Tutorial](http://www.vogella.com/tutorials/AndroidCustomViews/article.html)
+8. [Tutorial: Enhancing Android UI with Custom Views](https://newcircle.com/s/post/1663/tutorial_enhancing_android_ui_with_custom_views_dave_smith_video)
+9. [Android 自定义View (一)](http://blog.csdn.net/lmj623565791/article/details/24252901)
+
+---
+
+### No category
 
 1. [THE DEX 64K LIMIT IS NOT A PROBLEM ANYMORE, ALMOST](http://www.mutualmobile.com/posts/dex-64k-limit-not-problem-anymore-almost)
 2. [Android 4.4从图库选择图片,获取图片路径并裁剪](http://blog.csdn.net/tempersitu/article/details/20557383)
@@ -555,3 +555,25 @@
 9. [关于APK瘦身值得分享的一些经验](http://www.jianshu.com/p/bd90dee57ad0)
 10. [性能优化之数据库优化](http://www.trinea.cn/android/database-performance/)
 11. [How to check visibility of software keyboard in Android?](http://stackoverflow.com/questions/2150078/how-to-check-visibility-of-software-keyboard-in-android)
+12. [android 4.4.4侧滑退出显示app启动界面](https://github.com/ikew0ng/SwipeBackLayout/issues/45)
+
+---
+
+## Contributors
+
+- [troyliu0105](https://github.com/troyliu0105) 
+- [whiskeyfei](https://github.com/whiskeyfei)
+- [wavever](https://github.com/wavever)
+- [nitta-honoka](https://github.com/nitta-honoka)
+- [jywanghold](https://github.com/jywanghold)
+
+---
+
+## Contact Me
+
+Born in 1992, now a student of Southeast University, master of software engineerin. Loving technology, programming, reading and sports. 
+
+I will graduate in June 2017, expect the internship or full-time job in Android or iOS.
+
+If you have any questions or want to make friends with me, please feel free to contact me : [imtangqi#gmail.com](mailto:imtangqi@gmail.com "Welcome to contact me")  
+

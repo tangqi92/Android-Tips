@@ -5,21 +5,21 @@ import java.io.IOException;
 import java.util.Map;
 
 /**
- * Created by Troy Liu on 2015,¾ÅÔÂ,17, 23:21.
+ * Created by Troy Liu on 2015,ä¹æœˆ,17, 23:21.
  */
 public class BadUrlsSaver {
 
 	/**
-	 * ±£´æÓĞÎÊÌâµÄÍøÖ·µ½repoÄ¿Â¼ÏÂ
+	 * ä¿å­˜æœ‰é—®é¢˜çš„ç½‘å€åˆ°repoç›®å½•ä¸‹
 	 *
 	 * @param map
 	 * @param isSaveAlLMatterUrls
 	 * @throws IOException
 	 */
 	public static void save(Map<String, String> map, boolean isSaveAlLMatterUrls) throws IOException {
-		File file = new File("..\\..\\badUrls.txt");
-		if (!file.exists()) {
-			file.createNewFile();
+		File file = new File("..\\badUrls.txt");
+		if (file.exists()) {
+			System.out.println("åˆ é™¤å…ˆå‰æ–‡ä»¶: " + (file.delete() ? "æˆåŠŸ" : "å¤±è´¥"));
 		}
 		FileWriter writer = new FileWriter(file);
 		BufferedWriter bufferedWriter = new BufferedWriter(writer);
@@ -34,4 +34,5 @@ public class BadUrlsSaver {
 		}
 		bufferedWriter.close();
 	}
+
 }

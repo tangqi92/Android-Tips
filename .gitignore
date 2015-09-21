@@ -1,2 +1,5 @@
 Utils/URLChecker/out
 Utils/URLChecker/*.class
+Utils/.idea
+Utils/Utils.iml
+Utils/out
