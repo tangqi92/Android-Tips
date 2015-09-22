@@ -483,6 +483,13 @@
 3. [Android Studio 简介及导入 jar 包和第三方开源库方法](http://drakeet.me/android-studio)
 4. [Android Studio使用技巧系列教程（一）](http://blog.csdn.net/growth58/article/details/46729803)
 5. [Android Studio中如何使用Git和Github来管理项目](http://blog.csdn.net/wei18359100306/article/details/45645145)
+6. [Android Studio系列教程一 下载与安装](http://stormzhang.com/devtools/2014/11/25/android-studio-tutorial1/)
+7. [Android Studio系列教程二 基本设置与运行](http://stormzhang.com/devtools/2014/11/28/android-studio-tutorial2/)
+8. [Android Studio系列教程三 快捷键](http://stormzhang.com/devtools/2014/12/09/android-studio-tutorial3/)
+9. [Android Studio系列教程四 Gradle基础](http://stormzhang.com/devtools/2014/12/18/android-studio-tutorial4/)
+10. [Android Studio系列教程五 Gradle命令详解与
+导入第三方包](http://stormzhang.com/devtools/2015/01/05/android-studio-tutorial5)
+11. [Android Studio系列教程六Gradle多渠道打包](http://stormzhang.com/devtools/2015/01/15/android-studio-tutorial6)
 
 ---
 
