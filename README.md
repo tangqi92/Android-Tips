@@ -207,6 +207,7 @@
 
 1. [Android入门第八篇之GridView(九宫图)](http://blog.csdn.net/hellogv/article/details/4567095)
 2. [用Volley让GridView加载网络图片](http://www.cnblogs.com/tianzhijiexian/p/4277873.html)
+3. [Add space to top and bottom of GridView](http://stackoverflow.com/questions/23709114/add-space-to-top-and-bottom-of-gridview)
 
 ---
 
