@@ -65,7 +65,6 @@
 3. [Android 快速开发系列 打造万能的ListView GridView 适配器](http://blog.csdn.net/lmj623565791/article/details/38902805/)
 
 ###Android Studio
-###Android Studio
 
 1. [［Android Studio 权威教程］](http://blog.csdn.net/column/details/zsl-androidstudio.html)
 
