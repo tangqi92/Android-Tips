@@ -64,10 +64,6 @@
 2. [Android数据适配器(Adapter)优化：使用高效的ViewHolder](http://stackvoid.com/using-adapter-in-efficiency-way/)
 3. [Android 快速开发系列 打造万能的ListView GridView 适配器](http://blog.csdn.net/lmj623565791/article/details/38902805/)
 
-###Android Studio
-
-1. [［Android Studio 权威教程］](http://blog.csdn.net/column/details/zsl-androidstudio.html)
-
 ### AIDL
 
 1. [android进程间通信：使用AIDL](http://blog.csdn.net/saintswordsman/article/details/5130947)
@@ -485,6 +481,7 @@
 3. [Android Studio 简介及导入 jar 包和第三方开源库方法](http://drakeet.me/android-studio)
 4. [Android Studio使用技巧系列教程（一）](http://blog.csdn.net/growth58/article/details/46729803)
 5. [Android Studio中如何使用Git和Github来管理项目](http://blog.csdn.net/wei18359100306/article/details/45645145)
+6. [Android Studio 权威教程](http://blog.csdn.net/column/details/zsl-androidstudio.html) 
 
 ---
 
