@@ -52,7 +52,7 @@
 
 ### ADB
 
-1. [Android ADB常用命令](http://segmentfault.com/a/1190000000426049)
+1. [Android ADB常用命令](http://android.jobbole.com/61592/)
 2. [Android开发调试工具ADB的使用](http://www.cnblogs.com/meil/archive/2012/05/24/2516055.html)
 3. [Installing ADB on Windows 7](https://www.youtube.com/watch?v=5U_BfrXV90I)
 4. [Adb connection Error:远程主机强迫关闭了一个现有的连接](http://www.oschina.net/question/54100_33209)
