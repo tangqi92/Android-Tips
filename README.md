@@ -77,6 +77,15 @@
 1. [快速Android开发系列网络篇之Android-Async-Http](http://www.cnblogs.com/angeldevil/p/3729808.html)
 2. [android-async-http框架库使用基础](http://yanbober.github.io/2014/11/11/csdn-opensource-analysis-5/)
 
+### Android Studio
+
+1. [Android Studio导入项目](http://ask.android-studio.org/?/article/21)
+2. [Android Studio 简单设置](http://blog.gaoqixhb.com/p/54b9c293bf1ac9364284af78)
+3. [Android Studio 简介及导入 jar 包和第三方开源库方法](http://drakeet.me/android-studio)
+4. [Android Studio使用技巧系列教程（一）](http://blog.csdn.net/growth58/article/details/46729803)
+5. [Android Studio中如何使用Git和Github来管理项目](http://blog.csdn.net/wei18359100306/article/details/45645145)
+6. [Android Studio 权威教程](http://blog.csdn.net/column/details/zsl-androidstudio.html)
+
 ### AQuery
 
 1. [AQuery Image Loading](http://programmerguru.com/android-tutorial/aquery-image-loading/)
@@ -474,17 +483,6 @@
 
 ## Others
 
-### Android Studio
-
-1. [Android Studio导入项目](http://ask.android-studio.org/?/article/21)
-2. [Android Studio 简单设置](http://blog.gaoqixhb.com/p/54b9c293bf1ac9364284af78)
-3. [Android Studio 简介及导入 jar 包和第三方开源库方法](http://drakeet.me/android-studio)
-4. [Android Studio使用技巧系列教程（一）](http://blog.csdn.net/growth58/article/details/46729803)
-5. [Android Studio中如何使用Git和Github来管理项目](http://blog.csdn.net/wei18359100306/article/details/45645145)
-6. [Android Studio 权威教程](http://blog.csdn.net/column/details/zsl-androidstudio.html)
-
----
-
 ### Code Style
 
 1. [Java编程规范](http://www.stormzhang.com/java/2013/07/20/java-coding-standards/)
@@ -502,15 +500,6 @@
 5. [使用git和github进行协同开发流程](http://livoras.com/post/28)  
 6. [如何高效利用GitHub](http://www.yangzhiping.com/tech/github.html#q1)  
 7. [廖雪峰的GIT入门教程](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
-
----
-
-### Hexo
-
-1. [如何搭建一个独立博客——简明Github Pages与Hexo教程](http://www.jianshu.com/p/05289a4bc8b2)
-2. [Mac下程序员博客之 Hexo + GitHub Pages + GitCafe Pages + DNSPod](http://godera.org/2015/03/16/Mac%E4%B8%8B%E7%A8%8B%E5%BA%8F%E5%91%98%E5%8D%9A%E5%AE%A2%E4%B9%8BHexo-GitHub-Pages-GitCafe-Pages-DNSPod/)
-3. [动动手指，NexT主题与Hexo更搭哦（基础篇）](http://www.arao.me/2015/hexo-next-theme-optimize-base/)
-4. [hexo博客搭建时遇到的一些问题](http://chitanda.me/2015/06/11/tips-for-setup-hexo/)
 
 ---
 
