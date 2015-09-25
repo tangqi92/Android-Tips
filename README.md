@@ -1,5 +1,13 @@
 # Android-Tips
 
+This is an awesome list of tips for android. 
+
+If you are a novice, this list will be the first choice for you to learn and to have a difficult time.
+
+Finally, your support is my greatest affirmation.
+
+---
+
 学习 Android 至今，大大小小的坑没少踩过，庆幸的是，在强大的搜索引擎与无私奉献的人们的帮助下，那些坑都顺利地被填平了。
 
 为了日后在遇到同样的问题时，能免于再次搜索带来的麻烦，我养成了收藏书签的习惯，随着书签（Tips）的日积月累，我想，是时候该有这个项目了。
