@@ -567,6 +567,7 @@
 - [wavever](https://github.com/wavever)
 - [nitta-honoka](https://github.com/nitta-honoka)
 - [jywanghold](https://github.com/jywanghold)
+- [yy1300326388](https://github.com/yy1300326388)
 
 ---
 
