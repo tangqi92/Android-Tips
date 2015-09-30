@@ -257,6 +257,10 @@ Finally, your support is my greatest affirmation.
 3. [Android开源库--Gson谷歌官方json解析库](http://www.cnblogs.com/leestar54/p/4212318.html)
 4. [DataContract4A-简化Json解析与生成](https://github.com/jywanghold/DataContract4A)
 
+### JNI
+
+1. [Hello JNI](https://github.com/googlesamples/android-ndk/tree/master/hello-jni)
+
 ---
 
 ## L
