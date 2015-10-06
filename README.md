@@ -2,9 +2,9 @@
 
 This is an awesome list of tips for android. 
 
-If you are a novice, this list will be the first choice for you to learn and to have a difficult time.
+If you are a beginner, this list will be the first choice for you when you have a difficult time.
 
-Finally, your support is my greatest affirmation.
+Welcome `Star` and `Fork`, your support is my greatest affirmation.
 
 ---
 
@@ -528,6 +528,14 @@ Finally, your support is my greatest affirmation.
 
 1. [Java开发中的23种设计模式详解](http://zz563143188.iteye.com/blog/1847029)
 2. [MVC，MVP 和 MVVM 的图示](http://www.ruanyifeng.com/blog/2015/02/mvcmvp_mvvm.html)
+
+---
+
+### 夜间模式
+
+1. [Android Night Mode 夜间模式实现](http://echo.vars.me/android/android-night-mode/)
+2. [【	android】夜间模式简单实现](http://www.w2bc.com/Article/43471)
+3. [Android夜间模式实现](http://blog.kymjs.com/code/2015/05/26/01/)
 
 ---
 
