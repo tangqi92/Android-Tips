@@ -93,6 +93,7 @@ Welcome `Star` and `Fork`, your support is my greatest affirmation.
 4. [Android Studio使用技巧系列教程（一）](http://blog.csdn.net/growth58/article/details/46729803)
 5. [Android Studio中如何使用Git和Github来管理项目](http://blog.csdn.net/wei18359100306/article/details/45645145)
 6. [Android Studio 权威教程](http://blog.csdn.net/column/details/zsl-androidstudio.html)
+7. [倍数提高工作效率的Android Studio奇技](http://zlv.me/posts/2015/07/13/14_android-studio-tips/)
 
 ### AQuery
 
@@ -148,6 +149,7 @@ Welcome `Star` and `Fork`, your support is my greatest affirmation.
 
 1. [android学习—— context 和 getApplicationContext()](http://blog.csdn.net/janronehoo/article/details/7348566)
 2. [Android中Context详解 ---- 你所不知道的Context](http://blog.csdn.net/qinjuning/article/details/7310620)
+3. [Difference between getContext() , getApplicationContext() , getBaseContext() and “this”](http://stackoverflow.com/questions/10641144/difference-between-getcontext-getapplicationcontext-getbasecontext-and)
 
 ### CoordinatorLayout
 
