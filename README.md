@@ -49,6 +49,7 @@
 1. [Android AsyncTask完全解析，带你从源码的角度彻底理解](http://blog.csdn.net/guolin_blog/article/details/11711405)
 2. [Android中AsyncTask的简单用法](http://blog.csdn.net/cjjky/article/details/6684959)
 3. [Android开发者：你真的会用AsyncTask吗？](http://code.oneapm.com/android/2015/06/02/android1/)
+4. [深入解析AsyncTask,多例子版](http://www.cnblogs.com/anee/archive/2012/09/24/2699829.html)
 
 ## B
 
