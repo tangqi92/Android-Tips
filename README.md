@@ -493,8 +493,8 @@ Welcome `Star` and `Fork`, your support is my greatest affirmation.
 7. [Android WebView播放视频问题](http://www.stormzhang.com/android/2014/03/23/android-webview-play-video/)
 8. [理解WebKit和Chromium: Android 4.4 上的Chromium WebView](http://blog.csdn.net/milado_nju/article/details/17098399)
 9. [在WebView中如何让JS与Java安全地互相调用](http://www.pedant.cn/2014/07/04/webview-js-java-interface-research/)
-11. [Android WebView的Js对象注入漏洞解决方案](http://blog.csdn.net/leehong2005/article/details/11808557)
-12.[WebView详解](http://1.vduntest.sinaapp.com/webview/WebView%E8%AF%A6%E8%A7%A3.html)
+10. [Android WebView的Js对象注入漏洞解决方案](http://blog.csdn.net/leehong2005/article/details/11808557)
+
 
 ---
 
