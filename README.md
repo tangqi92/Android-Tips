@@ -94,7 +94,6 @@ Welcome `Star` and `Fork`, your support is my greatest affirmation.
 5. [Android Studio中如何使用Git和Github来管理项目](http://blog.csdn.net/wei18359100306/article/details/45645145)
 6. [Android Studio 权威教程](http://blog.csdn.net/column/details/zsl-androidstudio.html)
 7. [倍数提高工作效率的Android Studio奇技](http://zlv.me/posts/2015/07/13/14_android-studio-tips/)
-8. [Android Studio 快捷键（Windows）](http://blog.csdn.net/altair86/article/details/8972178)
 
 ### AQuery
 
@@ -107,10 +106,6 @@ Welcome `Star` and `Fork`, your support is my greatest affirmation.
 2. [Android中AsyncTask的简单用法](http://blog.csdn.net/cjjky/article/details/6684959)
 3. [Android开发者：你真的会用AsyncTask吗？](http://code.oneapm.com/android/2015/06/02/android1/)
 4. [深入解析AsyncTask,多例子版](http://www.cnblogs.com/anee/archive/2012/09/24/2699829.html)
-
-### AndroidAnnotations
-
-1.[AndroidAnnotations框架入门教程三之Android Studio环境配置](http://zhenhappy.github.io/2015/10/13/Android-Annotatios-3-Android-Studio.html)
 
 ---
 
