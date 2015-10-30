@@ -110,7 +110,7 @@ Welcome `Star` and `Fork`, your support is my greatest affirmation.
 
 ### AndroidAnnotations
 
-1.[AndroidAnnotations框架入门教程三之Android Studio环境配置](http://zhenhappy.github.io/2015/10/13/Android-Annotatios-3-Android-Studio.html)
+1. [AndroidAnnotations框架入门教程三之Android Studio环境配置](http://zhenhappy.github.io/2015/10/13/Android-Annotatios-3-Android-Studio.html)
 
 ---
 
@@ -577,6 +577,8 @@ Welcome `Star` and `Fork`, your support is my greatest affirmation.
 10. [性能优化之数据库优化](http://www.trinea.cn/android/database-performance/)
 11. [How to check visibility of software keyboard in Android?](http://stackoverflow.com/questions/2150078/how-to-check-visibility-of-software-keyboard-in-android)
 12. [android 4.4.4侧滑退出显示app启动界面](https://github.com/ikew0ng/SwipeBackLayout/issues/45)
+13. [Android App 性能优化实践](http://android.jobbole.com/81274/)
+14. [免费的编程中文书籍索引](http://siberiawolf.com/free_programming/index.html)
 
 ---
 
