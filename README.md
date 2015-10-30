@@ -579,6 +579,7 @@ Welcome `Star` and `Fork`, your support is my greatest affirmation.
 12. [android 4.4.4侧滑退出显示app启动界面](https://github.com/ikew0ng/SwipeBackLayout/issues/45)
 13. [Android App 性能优化实践](http://android.jobbole.com/81274/)
 14. [免费的编程中文书籍索引](http://siberiawolf.com/free_programming/index.html)
+
 ---
 
 ## Contributors
