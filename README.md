@@ -577,6 +577,7 @@ Welcome `Star` and `Fork`, your support is my greatest affirmation.
 10. [性能优化之数据库优化](http://www.trinea.cn/android/database-performance/)
 11. [How to check visibility of software keyboard in Android?](http://stackoverflow.com/questions/2150078/how-to-check-visibility-of-software-keyboard-in-android)
 12. [android 4.4.4侧滑退出显示app启动界面](https://github.com/ikew0ng/SwipeBackLayout/issues/45)
+13. [Error retrieving parent for item: No resource found that matches the given name after upgrading to AppCompat v23](http://stackoverflow.com/questions/32075498/error-retrieving-parent-for-item-no-resource-found-that-matches-the-given-name)
 
 ---
 
