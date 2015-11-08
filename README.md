@@ -509,8 +509,6 @@ Welcome `Star` and `Fork`, your support is my greatest affirmation.
 
 ## Others
 
----
-
 ### Code Style
 
 1. [Java编程规范](http://www.stormzhang.com/java/2013/07/20/java-coding-standards/)
