@@ -95,6 +95,7 @@ Welcome `Star` and `Fork`, your support is my greatest affirmation.
 6. [Android Studio 权威教程](http://blog.csdn.net/column/details/zsl-androidstudio.html)
 7. [倍数提高工作效率的Android Studio奇技](http://zlv.me/posts/2015/07/13/14_android-studio-tips/)
 8. [Android Studio 快捷键（Windows）](http://blog.csdn.net/altair86/article/details/8972178)
+9. [Android Studio系列教程:安装、基本设置、Gradle基础、打包](http://stormzhang.com)
 
 ### AQuery
 
@@ -508,14 +509,6 @@ Welcome `Star` and `Fork`, your support is my greatest affirmation.
 
 ## Others
 
-### Android Studio
-
-1. [Android Studio导入项目](http://ask.android-studio.org/?/article/21)
-2. [Android Studio 简单设置](http://blog.gaoqixhb.com/p/54b9c293bf1ac9364284af78)
-3. [Android Studio 简介及导入 jar 包和第三方开源库方法](http://drakeet.me/android-studio)
-4. [Android Studio使用技巧系列教程（一）](http://blog.csdn.net/growth58/article/details/46729803)
-5. [Android Studio中如何使用Git和Github来管理项目](http://blog.csdn.net/wei18359100306/article/details/45645145)
-6. [Android Studio系列教程一 下载与安装](http://stormzhang.com)
 ---
 
 ### Code Style
