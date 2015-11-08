@@ -1,5 +1,13 @@
 # Android-Tips
 
+This is an awesome list of tips for android. 
+
+If you are a beginner, this list will be the first choice for you when you have a difficult time.
+
+Welcome `Star` and `Fork`, your support is my greatest affirmation.
+
+---
+
 学习 Android 至今，大大小小的坑没少踩过，庆幸的是，在强大的搜索引擎与无私奉献的人们的帮助下，那些坑都顺利地被填平了。
 
 为了日后在遇到同样的问题时，能免于再次搜索带来的麻烦，我养成了收藏书签的习惯，随着书签（Tips）的日积月累，我想，是时候该有这个项目了。
@@ -16,7 +24,7 @@
 
 ## 目录
 
-  * [A](#a) 
+  * [A](#a)
   * [B](#b)
   * [C](#c)
   * [D](#d)
@@ -52,7 +60,7 @@
 
 ### ADB
 
-1. [Android ADB常用命令](http://segmentfault.com/a/1190000000426049)
+1. [Android ADB常用命令](http://android.jobbole.com/61592/)
 2. [Android开发调试工具ADB的使用](http://www.cnblogs.com/meil/archive/2012/05/24/2516055.html)
 3. [Installing ADB on Windows 7](https://www.youtube.com/watch?v=5U_BfrXV90I)
 4. [Adb connection Error:远程主机强迫关闭了一个现有的连接](http://www.oschina.net/question/54100_33209)
@@ -77,6 +85,17 @@
 1. [快速Android开发系列网络篇之Android-Async-Http](http://www.cnblogs.com/angeldevil/p/3729808.html)
 2. [android-async-http框架库使用基础](http://yanbober.github.io/2014/11/11/csdn-opensource-analysis-5/)
 
+### Android Studio
+
+1. [Android Studio导入项目](http://ask.android-studio.org/?/article/21)
+2. [Android Studio 简单设置](http://blog.gaoqixhb.com/p/54b9c293bf1ac9364284af78)
+3. [Android Studio 简介及导入 jar 包和第三方开源库方法](http://drakeet.me/android-studio)
+4. [Android Studio使用技巧系列教程（一）](http://blog.csdn.net/growth58/article/details/46729803)
+5. [Android Studio中如何使用Git和Github来管理项目](http://blog.csdn.net/wei18359100306/article/details/45645145)
+6. [Android Studio 权威教程](http://blog.csdn.net/column/details/zsl-androidstudio.html)
+7. [倍数提高工作效率的Android Studio奇技](http://zlv.me/posts/2015/07/13/14_android-studio-tips/)
+8. [Android Studio 快捷键（Windows）](http://blog.csdn.net/altair86/article/details/8972178)
+
 ### AQuery
 
 1. [AQuery Image Loading](http://programmerguru.com/android-tutorial/aquery-image-loading/)
@@ -87,6 +106,11 @@
 1. [Android AsyncTask完全解析，带你从源码的角度彻底理解](http://blog.csdn.net/guolin_blog/article/details/11711405)
 2. [Android中AsyncTask的简单用法](http://blog.csdn.net/cjjky/article/details/6684959)
 3. [Android开发者：你真的会用AsyncTask吗？](http://code.oneapm.com/android/2015/06/02/android1/)
+4. [深入解析AsyncTask,多例子版](http://www.cnblogs.com/anee/archive/2012/09/24/2699829.html)
+
+### AndroidAnnotations
+
+1.[AndroidAnnotations框架入门教程三之Android Studio环境配置](http://zhenhappy.github.io/2015/10/13/Android-Annotatios-3-Android-Studio.html)
 
 ---
 
@@ -131,6 +155,7 @@
 
 1. [android学习—— context 和 getApplicationContext()](http://blog.csdn.net/janronehoo/article/details/7348566)
 2. [Android中Context详解 ---- 你所不知道的Context](http://blog.csdn.net/qinjuning/article/details/7310620)
+3. [Difference between getContext() , getApplicationContext() , getBaseContext() and “this”](http://stackoverflow.com/questions/10641144/difference-between-getcontext-getapplicationcontext-getbasecontext-and)
 
 ### CoordinatorLayout
 
@@ -207,6 +232,7 @@
 
 1. [Android入门第八篇之GridView(九宫图)](http://blog.csdn.net/hellogv/article/details/4567095)
 2. [用Volley让GridView加载网络图片](http://www.cnblogs.com/tianzhijiexian/p/4277873.html)
+3. [Add space to top and bottom of GridView](http://stackoverflow.com/questions/23709114/add-space-to-top-and-bottom-of-gridview)
 
 ---
 
@@ -238,6 +264,10 @@
 2. [android json解析及简单例子](http://blog.csdn.net/lilu_leo/article/details/7000077)
 3. [Android开源库--Gson谷歌官方json解析库](http://www.cnblogs.com/leestar54/p/4212318.html)
 4. [DataContract4A-简化Json解析与生成](https://github.com/jywanghold/DataContract4A)
+
+### JNI
+
+1. [Hello JNI](https://github.com/googlesamples/android-ndk/tree/master/hello-jni)
 
 ---
 
@@ -462,15 +492,17 @@
 
 ### WebView
 
-1. [Java 与 JavaScript 如何进行交互](http://itangqi.me/2015/03/07/java-and-javascript-interaction-in-android/)
-2. [android与javascript交互调用](http://blog.csdn.net/chenzheng_java/article/details/6260872)
-3. [Android与js交互实例](http://blog.csdn.net/ithomer/article/details/8737999)
-4. [Android中Java和JavaScript交互](http://droidyue.com/blog/2014/09/20/interaction-between-java-and-javascript-in-android/)
-5. [顶部带进度条的Webview](http://droidyue.com/blog/2014/07/12/ding-bu-dai-jin-du-tiao-de-webview/)
-6. [Android WebView播放视频问题](http://www.stormzhang.com/android/2014/03/23/android-webview-play-video/)
-7. [理解WebKit和Chromium: Android 4.4 上的Chromium WebView](http://blog.csdn.net/milado_nju/article/details/17098399)
-8. [在WebView中如何让JS与Java安全地互相调用](http://www.pedant.cn/2014/07/04/webview-js-java-interface-research/)
-9. [Android WebView的Js对象注入漏洞解决方案](http://blog.csdn.net/leehong2005/article/details/11808557)
+1. [WebView详解](http://1.vduntest.sinaapp.com/webview/WebView%E8%AF%A6%E8%A7%A3.html)
+2. [Java 与 JavaScript 如何进行交互](http://itangqi.me/2015/03/07/java-and-javascript-interaction-in-android/)
+3. [android与javascript交互调用](http://blog.csdn.net/chenzheng_java/article/details/6260872)
+4. [Android与js交互实例](http://blog.csdn.net/ithomer/article/details/8737999)
+5. [Android中Java和JavaScript交互](http://droidyue.com/blog/2014/09/20/interaction-between-java-and-javascript-in-android/)
+6. [顶部带进度条的Webview](http://droidyue.com/blog/2014/07/12/ding-bu-dai-jin-du-tiao-de-webview/)
+7. [Android WebView播放视频问题](http://www.stormzhang.com/android/2014/03/23/android-webview-play-video/)
+8. [理解WebKit和Chromium: Android 4.4 上的Chromium WebView](http://blog.csdn.net/milado_nju/article/details/17098399)
+9. [在WebView中如何让JS与Java安全地互相调用](http://www.pedant.cn/2014/07/04/webview-js-java-interface-research/)
+10. [Android WebView的Js对象注入漏洞解决方案](http://blog.csdn.net/leehong2005/article/details/11808557)
+
 
 ---
 
@@ -513,15 +545,6 @@
 
 ---
 
-### Hexo
-
-1. [如何搭建一个独立博客——简明Github Pages与Hexo教程](http://www.jianshu.com/p/05289a4bc8b2)
-2. [Mac下程序员博客之 Hexo + GitHub Pages + GitCafe Pages + DNSPod](http://godera.org/2015/03/16/Mac%E4%B8%8B%E7%A8%8B%E5%BA%8F%E5%91%98%E5%8D%9A%E5%AE%A2%E4%B9%8BHexo-GitHub-Pages-GitCafe-Pages-DNSPod/)
-3. [动动手指，NexT主题与Hexo更搭哦（基础篇）](http://www.arao.me/2015/hexo-next-theme-optimize-base/)
-4. [hexo博客搭建时遇到的一些问题](http://chitanda.me/2015/06/11/tips-for-setup-hexo/)
-
----
-
 ### Smali
 
 1. [Smali--Dalvik虚拟机指令语言-->【android_smali语法学习一】
@@ -538,10 +561,18 @@
 
 ---
 
+### 夜间模式
+
+1. [Android Night Mode 夜间模式实现](http://echo.vars.me/android/android-night-mode/)
+2. [【	android】夜间模式简单实现](http://www.w2bc.com/Article/43471)
+3. [Android夜间模式实现](http://blog.kymjs.com/code/2015/05/26/01/)
+
+---
+
 ### 自定义控件
 
 1. [Android 自定义View及其在布局文件中的使用示例](http://www.cnblogs.com/crashmaker/p/3521310.html)
-2. [自定义控件进阶:declare-styleable重用attr](http://droidyue.com/blog/2014/07/16/better-in-android-include-attrs-in-declare-stylable/)
+2. [自定义控件进阶:declare-styleable重用attr](https://github.com/troyliu0105/Android-Tips/blob/master/Utils/Content/declare-styleable_reuse_attr.md)
 3. [android 自定义控件 使用declare-styleable进行配置属性（源码角度）](http://blog.csdn.net/vipzjyno1/article/details/23696537)
 4. [Android使用AttributeSet自定义控件的方法](http://www.cnblogs.com/zwl12549/archive/2011/04/13/2015366.html)
 5. [从源码中浅析Android中如何利用attrs和styles定义控件](http://michaelye1988.iteye.com/blog/1773997)
@@ -566,24 +597,25 @@
 10. [性能优化之数据库优化](http://www.trinea.cn/android/database-performance/)
 11. [How to check visibility of software keyboard in Android?](http://stackoverflow.com/questions/2150078/how-to-check-visibility-of-software-keyboard-in-android)
 12. [android 4.4.4侧滑退出显示app启动界面](https://github.com/ikew0ng/SwipeBackLayout/issues/45)
+13. [Error retrieving parent for item: No resource found that matches the given name after upgrading to AppCompat v23](http://stackoverflow.com/questions/32075498/error-retrieving-parent-for-item-no-resource-found-that-matches-the-given-name)
 
 ---
 
 ## Contributors
 
-- [troyliu0105](https://github.com/troyliu0105) 
+- [troyliu0105](https://github.com/troyliu0105)
 - [whiskeyfei](https://github.com/whiskeyfei)
 - [wavever](https://github.com/wavever)
 - [nitta-honoka](https://github.com/nitta-honoka)
 - [jywanghold](https://github.com/jywanghold)
+- [yy1300326388](https://github.com/yy1300326388)
 
 ---
 
 ## Contact Me
 
-Born in 1992, now a student of Southeast University, master of software engineerin. Loving technology, programming, reading and sports. 
+Born in 1992, now a student of Southeast University, master of software engineerin. Loving technology, programming, reading and sports.
 
 I will graduate in June 2017, expect the internship or full-time job in Android or iOS.
 
 If you have any questions or want to make friends with me, please feel free to contact me : [imtangqi#gmail.com](mailto:imtangqi@gmail.com "Welcome to contact me")  
-
