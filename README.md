@@ -322,6 +322,12 @@ Welcome `Star` and `Fork`, your support is my greatest affirmation.
 3. [谢谷歌大神传我动画设计30年功力](http://www.zcool.com.cn/article/ZMTU5MzAw.html#jtss-tsina)
 4. [Codelab for Android Design Support Library used in I/O Rewind Bangkok session](http://inthecheesefactory.com/blog/android-design-support-library-codelab/en)
 
+### MVP
+
+1. [浅谈 MVP in Android](http://blog.csdn.net/lmj623565791/article/details/46596109)
+2. [Android中的MVP](http://rocko.xyz/2015/02/06/Android%E4%B8%AD%E7%9A%84MVP/)
+3. [开源项目Philm的MVP架构分析](http://www.lightskystreet.com/2015/02/10/philm_mvp/)
+
 ---
 
 ## N
@@ -377,6 +383,11 @@ Welcome `Star` and `Fork`, your support is my greatest affirmation.
 ---
 
 ## R
+
+### React Native
+
+1. []()
+
 
 ### Reference
 
