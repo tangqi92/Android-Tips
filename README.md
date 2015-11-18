@@ -221,6 +221,7 @@ Welcome `Star` and `Fork`, your support is my greatest affirmation.
 5. [灵活强大的构建系统Gradle](http://tech.meituan.com/gradle-practice.html)
 6. [Gradle Android Could not find method testPackage()](http://stackoverflow.com/questions/16971740/gradle-android-could-not-find-method-testpackage)
 7. [Android Studio 1.0 Gradle Error with getConfiguration()](http://stackoverflow.com/questions/27410183/android-studio-1-0-gradle-error-with-getconfiguration)
+8. [Android打包的那些事](http://www.jayfeng.com/2015/11/07/Android%E6%89%93%E5%8C%85%E7%9A%84%E9%82%A3%E4%BA%9B%E4%BA%8B/)
 
 ### greenDao
 
@@ -235,6 +236,13 @@ Welcome `Star` and `Fork`, your support is my greatest affirmation.
 3. [Add space to top and bottom of GridView](http://stackoverflow.com/questions/23709114/add-space-to-top-and-bottom-of-gridview)
 
 ---
+
+## H
+
+### Hotfix
+
+1. [Android热更新实现原理](http://blog.csdn.net/lzyzsd/article/details/49843581#0-tsina-1-98317-397232819ff9a47a7b7e80a40613cfe1)
+2. [Nuwa](https://github.com/jasonross/Nuwa)
 
 ## I
 
@@ -368,6 +376,12 @@ Welcome `Star` and `Fork`, your support is my greatest affirmation.
 5. [Why doesn't RecyclerView have onItemClickListener()? And how RecyclerView is different from Listview?](http://stackoverflow.com/questions/24885223/why-doesnt-recyclerview-have-onitemclicklistener-and-how-recyclerview-is-dif)
 6. [Create RecyclerView with multiple view type](http://doublewong.com/2014/create-recyclerview-with-multiple-view-type/)
 7. [Simple RecyclerView Divider](https://github.com/troyliu0105/Android-Tips/blob/master/Utils/Content/Simple_RecyclerView_Divider.md)
+
+### RxJava
+
+1. [RxJava: Reactive Extensions for the JVM](https://github.com/ReactiveX/RxJava)
+2. [给 Android 开发者的 RxJava 详解](http://gank.io/post/560e15be2dca930e00da1083)
+
 
 ### RandomAccessFile
 
