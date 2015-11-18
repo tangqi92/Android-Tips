@@ -60,11 +60,11 @@ Welcome `Star` and `Fork`, your support is my greatest affirmation.
 
 ### ADB
 
-1. [Android ADB常用命令](http://android.jobbole.com/61592/)
-2. [Android开发调试工具ADB的使用](http://www.cnblogs.com/meil/archive/2012/05/24/2516055.html)
-3. [Installing ADB on Windows 7](https://www.youtube.com/watch?v=5U_BfrXV90I)
-4. [Adb connection Error:远程主机强迫关闭了一个现有的连接](http://www.oschina.net/question/54100_33209)
-5. [Android通过Wifi来调试你的应用](http://www.stormzhang.com/android/2014/08/27/adb-over-wifi/)
+1. [Installing ADB on Windows 7](https://www.youtube.com/watch?v=5U_BfrXV90I)
+2. [Android ADB常用命令](http://android.jobbole.com/61592/)
+3. [Android开发调试工具ADB的使用](http://www.cnblogs.com/meil/archive/2012/05/24/2516055.html)
+4. [Android通过Wifi来调试你的应用](http://www.stormzhang.com/android/2014/08/27/adb-over-wifi/)
+5. [Adb connection Error:远程主机强迫关闭了一个现有的连接](http://www.oschina.net/question/54100_33209)
 
 ### Adapter
 
@@ -82,8 +82,9 @@ Welcome `Star` and `Fork`, your support is my greatest affirmation.
 
 ### Android-Async-Http
 
-1. [快速Android开发系列网络篇之Android-Async-Http](http://www.cnblogs.com/angeldevil/p/3729808.html)
-2. [android-async-http框架库使用基础](http://yanbober.github.io/2014/11/11/csdn-opensource-analysis-5/)
+1. [Asynchronous Http Client for Android](https://github.com/loopj/android-async-http)
+2. [快速Android开发系列网络篇之Android-Async-Http](http://www.cnblogs.com/angeldevil/p/3729808.html)
+3. [android-async-http框架库使用基础](http://yanbober.github.io/2014/11/11/csdn-opensource-analysis-5/)
 
 ### Android Studio
 
@@ -96,6 +97,7 @@ Welcome `Star` and `Fork`, your support is my greatest affirmation.
 7. [倍数提高工作效率的Android Studio奇技](http://zlv.me/posts/2015/07/13/14_android-studio-tips/)
 8. [Android Studio 快捷键（Windows）](http://blog.csdn.net/altair86/article/details/8972178)
 9. [Android Studio系列教程:安装、基本设置、Gradle基础、打包](http://stormzhang.com)
+10. [Android Studio有什么奇技淫巧](http://www.zhihu.com/question/27482725)
 
 ### AQuery
 
@@ -277,6 +279,16 @@ Welcome `Star` and `Fork`, your support is my greatest affirmation.
 ### JNI
 
 1. [Hello JNI](https://github.com/googlesamples/android-ndk/tree/master/hello-jni)
+
+---
+
+## K
+
+### Kotlin
+
+1. [Kotlin Programming Language](https://github.com/JetBrains/kotlin)
+2. [Kotlin中文站点](http://kotlinlang.cn/)
+3. [使用Kotlin进行Android开发](http://ragnraok.github.io/using-kotlin-to-write-android-app.html)
 
 ---
 
@@ -498,8 +510,9 @@ Welcome `Star` and `Fork`, your support is my greatest affirmation.
 
 ### Volley
 
-1. [Android Volley完全解析(一)，初识Volley的基本用法](http://blog.csdn.net/guolin_blog/article/details/17482095)
-2. [Android库Volley的使用介绍](https://bxbxbai.github.io/2014/09/14/android-working-with-volley/)
+1. [Android Volley](https://github.com/mcxiaoke/android-volley)
+2. [Android Volley完全解析(一)，初识Volley的基本用法](http://blog.csdn.net/guolin_blog/article/details/17482095)
+3. [Android库Volley的使用介绍](https://bxbxbai.github.io/2014/09/14/android-working-with-volley/)
 
 ---
 
