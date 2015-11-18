@@ -95,6 +95,7 @@ Welcome `Star` and `Fork`, your support is my greatest affirmation.
 6. [Android Studio 权威教程](http://blog.csdn.net/column/details/zsl-androidstudio.html)
 7. [倍数提高工作效率的Android Studio奇技](http://zlv.me/posts/2015/07/13/14_android-studio-tips/)
 8. [Android Studio 快捷键（Windows）](http://blog.csdn.net/altair86/article/details/8972178)
+9. [Android Studio系列教程:安装、基本设置、Gradle基础、打包](http://stormzhang.com)
 
 ### AQuery
 
@@ -289,6 +290,9 @@ Welcome `Star` and `Fork`, your support is my greatest affirmation.
 ### ListView
 
 1. [在Activity中响应ListView内部按钮的点击事件](http://www.cnblogs.com/ivan-xu/p/4124967.html)
+
+### Log
+1、[Logger工具类](https://github.com/orhanobut/logger)
 
 ---
 
