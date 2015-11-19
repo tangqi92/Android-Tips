@@ -245,7 +245,8 @@ Welcome `Star` and `Fork`, your support is my greatest affirmation.
 ### Hotfix
 
 1. [Android热更新实现原理](http://blog.csdn.net/lzyzsd/article/details/49843581#0-tsina-1-98317-397232819ff9a47a7b7e80a40613cfe1)
-2. [Nuwa](https://github.com/jasonross/Nuwa)
+2. [Android App 线上热修复方案](http://lirenlong.github.io/hotfix/)
+3. [Nuwa](https://github.com/jasonross/Nuwa)
 
 ## I
 
@@ -386,7 +387,8 @@ Welcome `Star` and `Fork`, your support is my greatest affirmation.
 
 ### React Native
 
-1. []()
+1. [React Native for Android 入门老虎](http://www.race604.com/react-native-for-android-start/)
+2. [React Native For Android初体验](http://www.jianshu.com/p/847a54e0c385)
 
 
 ### Reference
