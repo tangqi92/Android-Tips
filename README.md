@@ -60,11 +60,11 @@ Welcome `Star` and `Fork`, your support is my greatest affirmation.
 
 ### ADB
 
-1. [Android ADB常用命令](http://android.jobbole.com/61592/)
-2. [Android开发调试工具ADB的使用](http://www.cnblogs.com/meil/archive/2012/05/24/2516055.html)
-3. [Installing ADB on Windows 7](https://www.youtube.com/watch?v=5U_BfrXV90I)
-4. [Adb connection Error:远程主机强迫关闭了一个现有的连接](http://www.oschina.net/question/54100_33209)
-5. [Android通过Wifi来调试你的应用](http://www.stormzhang.com/android/2014/08/27/adb-over-wifi/)
+1. [Installing ADB on Windows 7](https://www.youtube.com/watch?v=5U_BfrXV90I)
+2. [Android ADB常用命令](http://android.jobbole.com/61592/)
+3. [Android开发调试工具ADB的使用](http://www.cnblogs.com/meil/archive/2012/05/24/2516055.html)
+4. [Android通过Wifi来调试你的应用](http://www.stormzhang.com/android/2014/08/27/adb-over-wifi/)
+5. [Adb connection Error:远程主机强迫关闭了一个现有的连接](http://www.oschina.net/question/54100_33209)
 
 ### Adapter
 
@@ -82,8 +82,9 @@ Welcome `Star` and `Fork`, your support is my greatest affirmation.
 
 ### Android-Async-Http
 
-1. [快速Android开发系列网络篇之Android-Async-Http](http://www.cnblogs.com/angeldevil/p/3729808.html)
-2. [android-async-http框架库使用基础](http://yanbober.github.io/2014/11/11/csdn-opensource-analysis-5/)
+1. [Asynchronous Http Client for Android](https://github.com/loopj/android-async-http)
+2. [快速Android开发系列网络篇之Android-Async-Http](http://www.cnblogs.com/angeldevil/p/3729808.html)
+3. [android-async-http框架库使用基础](http://yanbober.github.io/2014/11/11/csdn-opensource-analysis-5/)
 
 ### Android Studio
 
@@ -96,6 +97,7 @@ Welcome `Star` and `Fork`, your support is my greatest affirmation.
 7. [倍数提高工作效率的Android Studio奇技](http://zlv.me/posts/2015/07/13/14_android-studio-tips/)
 8. [Android Studio 快捷键（Windows）](http://blog.csdn.net/altair86/article/details/8972178)
 9. [Android Studio系列教程:安装、基本设置、Gradle基础、打包](http://stormzhang.com)
+10. [Android Studio有什么奇技淫巧](http://www.zhihu.com/question/27482725)
 
 ### AQuery
 
@@ -222,6 +224,7 @@ Welcome `Star` and `Fork`, your support is my greatest affirmation.
 5. [灵活强大的构建系统Gradle](http://tech.meituan.com/gradle-practice.html)
 6. [Gradle Android Could not find method testPackage()](http://stackoverflow.com/questions/16971740/gradle-android-could-not-find-method-testpackage)
 7. [Android Studio 1.0 Gradle Error with getConfiguration()](http://stackoverflow.com/questions/27410183/android-studio-1-0-gradle-error-with-getconfiguration)
+8. [Android打包的那些事](http://www.jayfeng.com/2015/11/07/Android%E6%89%93%E5%8C%85%E7%9A%84%E9%82%A3%E4%BA%9B%E4%BA%8B/)
 
 ### greenDao
 
@@ -236,6 +239,14 @@ Welcome `Star` and `Fork`, your support is my greatest affirmation.
 3. [Add space to top and bottom of GridView](http://stackoverflow.com/questions/23709114/add-space-to-top-and-bottom-of-gridview)
 
 ---
+
+## H
+
+### Hotfix
+
+1. [Android热更新实现原理](http://blog.csdn.net/lzyzsd/article/details/49843581#0-tsina-1-98317-397232819ff9a47a7b7e80a40613cfe1)
+2. [Android App 线上热修复方案](http://lirenlong.github.io/hotfix/)
+3. [Nuwa](https://github.com/jasonross/Nuwa)
 
 ## I
 
@@ -272,6 +283,16 @@ Welcome `Star` and `Fork`, your support is my greatest affirmation.
 
 ---
 
+## K
+
+### Kotlin
+
+1. [Kotlin Programming Language](https://github.com/JetBrains/kotlin)
+2. [Kotlin中文站点](http://kotlinlang.cn/)
+3. [使用Kotlin进行Android开发](http://ragnraok.github.io/using-kotlin-to-write-android-app.html)
+
+---
+
 ## L
 
 ### ListFragment
@@ -301,6 +322,12 @@ Welcome `Star` and `Fork`, your support is my greatest affirmation.
 2. [An exploration in Material Design](https://medium.com/feedly-behind-the-curtain/an-exploration-in-material-design-by-feedly-8c1a1cbdfdcd)
 3. [谢谷歌大神传我动画设计30年功力](http://www.zcool.com.cn/article/ZMTU5MzAw.html#jtss-tsina)
 4. [Codelab for Android Design Support Library used in I/O Rewind Bangkok session](http://inthecheesefactory.com/blog/android-design-support-library-codelab/en)
+
+### MVP
+
+1. [浅谈 MVP in Android](http://blog.csdn.net/lmj623565791/article/details/46596109)
+2. [Android中的MVP](http://rocko.xyz/2015/02/06/Android%E4%B8%AD%E7%9A%84MVP/)
+3. [开源项目Philm的MVP架构分析](http://www.lightskystreet.com/2015/02/10/philm_mvp/)
 
 ---
 
@@ -358,6 +385,12 @@ Welcome `Star` and `Fork`, your support is my greatest affirmation.
 
 ## R
 
+### React Native
+
+1. [React Native for Android 入门老虎](http://www.race604.com/react-native-for-android-start/)
+2. [React Native For Android初体验](http://www.jianshu.com/p/847a54e0c385)
+
+
 ### Reference
 
 1. [Java的引用StrongReference、 SoftReference、 WeakReference 、PhantomReference](http://blog.csdn.net/mxbhxx/article/details/9111711)
@@ -372,6 +405,12 @@ Welcome `Star` and `Fork`, your support is my greatest affirmation.
 5. [Why doesn't RecyclerView have onItemClickListener()? And how RecyclerView is different from Listview?](http://stackoverflow.com/questions/24885223/why-doesnt-recyclerview-have-onitemclicklistener-and-how-recyclerview-is-dif)
 6. [Create RecyclerView with multiple view type](http://doublewong.com/2014/create-recyclerview-with-multiple-view-type/)
 7. [Simple RecyclerView Divider](https://github.com/troyliu0105/Android-Tips/blob/master/Utils/Content/Simple_RecyclerView_Divider.md)
+
+### RxJava
+
+1. [RxJava: Reactive Extensions for the JVM](https://github.com/ReactiveX/RxJava)
+2. [给 Android 开发者的 RxJava 详解](http://gank.io/post/560e15be2dca930e00da1083)
+
 
 ### RandomAccessFile
 
@@ -484,8 +523,9 @@ Welcome `Star` and `Fork`, your support is my greatest affirmation.
 
 ### Volley
 
-1. [Android Volley完全解析(一)，初识Volley的基本用法](http://blog.csdn.net/guolin_blog/article/details/17482095)
-2. [Android库Volley的使用介绍](https://bxbxbai.github.io/2014/09/14/android-working-with-volley/)
+1. [Android Volley](https://github.com/mcxiaoke/android-volley)
+2. [Android Volley完全解析(一)，初识Volley的基本用法](http://blog.csdn.net/guolin_blog/article/details/17482095)
+3. [Android库Volley的使用介绍](https://bxbxbai.github.io/2014/09/14/android-working-with-volley/)
 
 ---
 
