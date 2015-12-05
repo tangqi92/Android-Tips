@@ -249,6 +249,10 @@ Welcome `Star` and `Fork`, your support is my greatest affirmation.
 2. [Android App 线上热修复方案](http://lirenlong.github.io/hotfix/)
 3. [Nuwa](https://github.com/jasonross/Nuwa)
 
+### Handler
+
+1. [Handler和他的小伙伴们](http://www.jianshu.com/p/e04698eaba88) 轻松理解Handler、message、looper
+
 ## I
 
 ### ImageView
