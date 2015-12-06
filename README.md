@@ -18,41 +18,41 @@ Welcome `Star` and `Fork`, your support is my greatest affirmation.
 
 你可以通过 [Pull request](https://github.com/tangqi92/Android-Tips/pulls) 的形式进行提交，当然也欢迎 `Star` 与 `Fork` ：）
 
->由于各种问题，给出的链接可能会无法正常访问。遇到这种情况欢迎大家提交 [Issue](https://github.com/tangqi92/Android-Tips/issues)，Contributers 也可以使用 [Utils](https://github.com/tangqi92/Android-Tips/tree/master/Utils) 里面的 [URLChecker](https://github.com/tangqi92/Android-Tips/blob/master/Utils/UrlCheckerREADME.md) 来检测列表里链接的有效性，你可以选择更改为新的有效连接，或者把需要**梯子**的文章以 Markdown 的形式保存在 Utils/Content 目录下，并注明原文章链接和作者。
+> 由于各种问题，给出的链接可能会无法正常访问。遇到这种情况欢迎大家提交 [Issue](https://github.com/tangqi92/Android-Tips/issues)，Contributers 也可以使用 [Utils](https://github.com/tangqi92/Android-Tips/tree/master/Utils) 里面的 [URLChecker](https://github.com/tangqi92/Android-Tips/blob/master/Utils/UrlCheckerREADME.md) 来检测列表里链接的有效性，你可以选择更改为新的有效连接，或者把需要**梯子**的文章以 Markdown 的形式保存在 Utils/Content 目录下，并注明原文章链接和作者。
 
 ---
 
 ## 目录
 
-  * [A](#a)
-  * [B](#b)
-  * [C](#c)
-  * [D](#d)
-  * [E](#e)
-  * [F](#f)
-  * [G](#g)
-  * [H](#h)
-  * [I](#i)
-  * [J](#j)
-  * [K](#k)
-  * [L](#l)
-  * [M](#m)
-  * [N](#n)
-  * [O](#o)
-  * [P](#p)
-  * [Q](#q)
-  * [R](#r)
-  * [S](#s)
-  * [T](#t)
-  * [U](#u)
-  * [V](#v)
-  * [W](#w)
-  * [X](#x)
-  * [Y](#y)
-  * [Z](#z)
-  * [Others](#others)
-  * [Contributors](#contributors)
-  * [Contact Me](#contact-me)
+* [A](#a)
+* [B](#b)
+* [C](#c)
+* [D](#d)
+* [E](#e)
+* [F](#f)
+* [G](#g)
+* [H](#h)
+* [I](#i)
+* [J](#j)
+* [K](#k)
+* [L](#l)
+* [M](#m)
+* [N](#n)
+* [O](#o)
+* [P](#p)
+* [Q](#q)
+* [R](#r)
+* [S](#s)
+* [T](#t)
+* [U](#u)
+* [V](#v)
+* [W](#w)
+* [X](#x)
+* [Y](#y)
+* [Z](#z)
+* [Others](#others)
+* [Contributors](#contributors)
+* [Contact Me](#contact-me)
 
 ---
 
@@ -198,9 +198,9 @@ Welcome `Star` and `Fork`, your support is my greatest affirmation.
 3. [Android系列之Fragment（二）----Fragment的生命周期和返回栈](http://www.cnblogs.com/smyhvae/p/3983234.html)
 4. [处女男学Android（九）---Fragment进阶篇之Fragment生命周期和回退栈](http://blog.csdn.net/wlwlwlwl015/article/details/40584567)
 5. [Fragment笔记整理](http://www.lightskystreet.com/2015/02/02/fragment-note/)
-5. [Android实战技巧：Fragment的那些坑](http://toughcoder.net/blog/2015/04/30/android-fragment-the-bad-parts/)
-6. [android Fragments详解四:管理fragment](http://www.cnblogs.com/mybkn/articles/2455138.html)
-7. [Android Fragment 嵌套使用(Nested Fragments)](http://blog.csdn.net/top_code/article/details/37343075)
+6. [Android实战技巧：Fragment的那些坑](http://toughcoder.net/blog/2015/04/30/android-fragment-the-bad-parts/)
+7. [android Fragments详解四:管理fragment](http://www.cnblogs.com/mybkn/articles/2455138.html)
+8. [Android Fragment 嵌套使用(Nested Fragments)](http://blog.csdn.net/top_code/article/details/37343075)
 
 ### FlowLayout - 自定义流布局
 
@@ -225,6 +225,7 @@ Welcome `Star` and `Fork`, your support is my greatest affirmation.
 6. [Gradle Android Could not find method testPackage()](http://stackoverflow.com/questions/16971740/gradle-android-could-not-find-method-testpackage)
 7. [Android Studio 1.0 Gradle Error with getConfiguration()](http://stackoverflow.com/questions/27410183/android-studio-1-0-gradle-error-with-getconfiguration)
 8. [Android打包的那些事](http://www.jayfeng.com/2015/11/07/Android%E6%89%93%E5%8C%85%E7%9A%84%E9%82%A3%E4%BA%9B%E4%BA%8B/)
+9. [深入理解Android之Gradle](http://blog.csdn.net/innost/article/details/48228651)
 
 ### greenDao
 
@@ -274,6 +275,11 @@ Welcome `Star` and `Fork`, your support is my greatest affirmation.
 
 ## J
 
+### Java 8
+
+1. [Modern Java - A Guide to Java 8](https://github.com/winterbe/java8-tutorial)
+2. [Java8系列 - Java8简明指南](https://biezhi.me/article/java8-tutorial.html)
+
 ### Json
 
 1. [Android系列---JSON数据解析](http://www.cnblogs.com/xiaoluo501395377/p/3446605.html)
@@ -309,6 +315,7 @@ Welcome `Star` and `Fork`, your support is my greatest affirmation.
 1. [在Activity中响应ListView内部按钮的点击事件](http://www.cnblogs.com/ivan-xu/p/4124967.html)
 
 ### Log
+
 1、[Logger工具类](https://github.com/orhanobut/logger)
 
 ---
@@ -332,6 +339,8 @@ Welcome `Star` and `Fork`, your support is my greatest affirmation.
 1. [浅谈 MVP in Android](http://blog.csdn.net/lmj623565791/article/details/46596109)
 2. [Android中的MVP](http://rocko.xyz/2015/02/06/Android%E4%B8%AD%E7%9A%84MVP/)
 3. [开源项目Philm的MVP架构分析](http://www.lightskystreet.com/2015/02/10/philm_mvp/)
+4. [一种在android中实现MVP模式的新思路](https://github.com/bboyfeiyu/android-tech-frontier/tree/master/androidweekly/%E4%B8%80%E7%A7%8D%E5%9C%A8android%E4%B8%AD%E5%AE%9E%E7%8E%B0MVP%E6%A8%A1%E5%BC%8F%E7%9A%84%E6%96%B0%E6%80%9D%E8%B7%AF)
+5. ​
 
 ---
 
@@ -394,7 +403,6 @@ Welcome `Star` and `Fork`, your support is my greatest affirmation.
 1. [React Native for Android 入门老虎](http://www.race604.com/react-native-for-android-start/)
 2. [React Native For Android初体验](http://www.jianshu.com/p/847a54e0c385)
 
-
 ### Reference
 
 1. [Java的引用StrongReference、 SoftReference、 WeakReference 、PhantomReference](http://blog.csdn.net/mxbhxx/article/details/9111711)
@@ -414,7 +422,6 @@ Welcome `Star` and `Fork`, your support is my greatest affirmation.
 
 1. [RxJava: Reactive Extensions for the JVM](https://github.com/ReactiveX/RxJava)
 2. [给 Android 开发者的 RxJava 详解](http://gank.io/post/560e15be2dca930e00da1083)
-
 
 ### RandomAccessFile
 
@@ -548,7 +555,6 @@ Welcome `Star` and `Fork`, your support is my greatest affirmation.
 9. [在WebView中如何让JS与Java安全地互相调用](http://www.pedant.cn/2014/07/04/webview-js-java-interface-research/)
 10. [Android WebView的Js对象注入漏洞解决方案](http://blog.csdn.net/leehong2005/article/details/11808557)
 
-
 ---
 
 ## Others
@@ -570,14 +576,18 @@ Welcome `Star` and `Fork`, your support is my greatest affirmation.
 5. [使用git和github进行协同开发流程](http://livoras.com/post/28)  
 6. [如何高效利用GitHub](http://www.yangzhiping.com/tech/github.html#q1)  
 7. [廖雪峰的GIT入门教程](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
+8. [GitHub&Git入门基础](http://www.nowcoder.com/courses/2)
 
 ---
 
 ### Smali
 
 1. [Smali--Dalvik虚拟机指令语言-->【android_smali语法学习一】
-](http://blog.csdn.net/wdaming1986/article/details/8299996)
+   
+   ](http://blog.csdn.net/wdaming1986/article/details/8299996)
+   
 2. [apk的包名修改](http://www.cnblogs.com/tianxiaozz/archive/2012/12/26/change_apk_package_name.html)
+   
 3. [为Sublime Text安装smali代码语法高亮插件](http://liuzhichao.com/p/1476.html)
 
 ---
