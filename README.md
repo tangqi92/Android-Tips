@@ -582,12 +582,8 @@ Welcome `Star` and `Fork`, your support is my greatest affirmation.
 
 ### Smali
 
-1. [Smali--Dalvik虚拟机指令语言-->【android_smali语法学习一】
-   
-   ](http://blog.csdn.net/wdaming1986/article/details/8299996)
-   
+1. [android_smali语法学习](http://blog.csdn.net/wdaming1986/article/details/8299996)
 2. [apk的包名修改](http://www.cnblogs.com/tianxiaozz/archive/2012/12/26/change_apk_package_name.html)
-   
 3. [为Sublime Text安装smali代码语法高亮插件](http://liuzhichao.com/p/1476.html)
 
 ---
@@ -624,18 +620,30 @@ Welcome `Star` and `Fork`, your support is my greatest affirmation.
 ### No category
 
 1. [THE DEX 64K LIMIT IS NOT A PROBLEM ANYMORE, ALMOST](http://www.mutualmobile.com/posts/dex-64k-limit-not-problem-anymore-almost)
+   
 2. [Android 4.4从图库选择图片,获取图片路径并裁剪](http://blog.csdn.net/tempersitu/article/details/20557383)
+   
 3. [浅析android应用增量升级](http://blog.csdn.net/hmg25/article/details/8100896)
+   
 4. [Android四大基本组件介绍与生命周期](http://www.cnblogs.com/bravestarrhu/archive/2012/05/02/2479461.html)
+   
 5. [Android代码优化——使用Android lint工具](http://blog.csdn.net/xyz_lmn/article/details/14222939)
+   
 6. [Android 插件化 动态升级](http://www.trinea.cn/android/android-plugin/)
+   
 7. [Java String StringBuilder StringBuffer](http://www.stormzhang.com/java/2014/08/08/java-string-stringbuilder-stringbuffer/)
+   
 8. [tools:context=".MainActivity的作用](http://blog.csdn.net/caiwenfeng_for_23/article/details/8373569)
+   
 9. [关于APK瘦身值得分享的一些经验](http://www.jianshu.com/p/bd90dee57ad0)
+   
 10. [性能优化之数据库优化](http://www.trinea.cn/android/database-performance/)
+    
 11. [How to check visibility of software keyboard in Android?](http://stackoverflow.com/questions/2150078/how-to-check-visibility-of-software-keyboard-in-android)
+    
 12. [android 4.4.4侧滑退出显示app启动界面](https://github.com/ikew0ng/SwipeBackLayout/issues/45)
-13. [Error retrieving parent for item: No resource found that matches the given name after upgrading to AppCompat v23](http://stackoverflow.com/questions/32075498/error-retrieving-parent-for-item-no-resource-found-that-matches-the-given-name)
+    
+    ​
 
 ---
 
