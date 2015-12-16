@@ -113,7 +113,7 @@ Welcome `Star` and `Fork`, your support is my greatest affirmation.
 
 ### AndroidAnnotations
 
-1.[AndroidAnnotations框架入门教程三之Android Studio环境配置](http://zhenhappy.github.io/2015/10/13/Android-Annotatios-3-Android-Studio.html)
+1. [AndroidAnnotations框架入门教程三之Android Studio环境配置](http://zhenhappy.github.io/2015/10/13/Android-Annotatios-3-Android-Studio.html)
 
 ---
 
