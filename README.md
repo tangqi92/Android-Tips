@@ -111,9 +111,10 @@ Welcome `Star` and `Fork`, your support is my greatest affirmation.
 3. [Android开发者：你真的会用AsyncTask吗？](http://code.oneapm.com/android/2015/06/02/android1/)
 4. [深入解析AsyncTask,多例子版](http://www.cnblogs.com/anee/archive/2012/09/24/2699829.html)
 
-### AndroidAnnotations
+### Annotations
 
-1.[AndroidAnnotations框架入门教程三之Android Studio环境配置](http://zhenhappy.github.io/2015/10/13/Android-Annotatios-3-Android-Studio.html)
+1. [AndroidAnnotations框架入门教程一之介绍](http://zhenhappy.github.io/2015/10/11/Android-Annotations-1-Introduce.html)
+2. [How to stop an animation (cancel() does not work)](http://stackoverflow.com/questions/4112599/how-to-stop-an-animation-cancel-does-not-work)
 
 ---
 
@@ -228,6 +229,7 @@ Welcome `Star` and `Fork`, your support is my greatest affirmation.
 7. [Android Studio 1.0 Gradle Error with getConfiguration()](http://stackoverflow.com/questions/27410183/android-studio-1-0-gradle-error-with-getconfiguration)
 8. [Android打包的那些事](http://www.jayfeng.com/2015/11/07/Android%E6%89%93%E5%8C%85%E7%9A%84%E9%82%A3%E4%BA%9B%E4%BA%8B/)
 9. [深入理解Android之Gradle](http://blog.csdn.net/innost/article/details/48228651)
+10. [gradle build fails on lint task](http://stackoverflow.com/questions/20699147/gradle-build-fails-on-lint-task)
 
 ### greenDao
 
@@ -253,7 +255,7 @@ Welcome `Star` and `Fork`, your support is my greatest affirmation.
 
 ### Handler
 
-1. [Handler和他的小伙伴们](http://www.jianshu.com/p/e04698eaba88) 轻松理解Handler、message、looper
+1. [Handler和他的小伙伴们](http://www.jianshu.com/p/e04698eaba88)
 
 ## I
 
@@ -318,7 +320,8 @@ Welcome `Star` and `Fork`, your support is my greatest affirmation.
 
 ### Log
 
-1、[Logger工具类](https://github.com/orhanobut/logger)
+1. [Logger工具类](https://github.com/orhanobut/logger)
+2. [KLog](https://github.com/ZhaoKaiQiang/KLog)
 
 ---
 
@@ -365,6 +368,12 @@ Welcome `Star` and `Fork`, your support is my greatest affirmation.
 
 1. [Android 快速开发系列 ORMLite 框架最佳实践](http://blog.csdn.net/lmj623565791/article/details/39122981)
 2. [Android ORM框架之 ORMLite](https://www.zybuluo.com/flyouting/note/6996)
+
+### OkHttp
+
+1. [开源项目OkHttpPlus——支持GET、POST、UI线程回调、JSON格式解析、链式调用、文件上传下载](http://blog.csdn.net/zhaokaiqiang1992/article/details/50016815)
+2. [Android OkHttp完全解析 是时候来了解OkHttp了](http://blog.csdn.net/lmj623565791/article/details/47911083)
+
 
 ---
 
@@ -480,6 +489,10 @@ Welcome `Star` and `Fork`, your support is my greatest affirmation.
 ### Textview
 
 1. [Remove underline from links in TextView](http://stackoverflow.com/questions/4096851/remove-underline-from-links-in-textview-android)
+2. [What is the default text size on Android?](http://stackoverflow.com/questions/5611411/what-is-the-default-text-size-on-android)
+3. [Which unit of measurement does the Paint.setTextSize(float) use?](http://stackoverflow.com/questions/11720093/which-unit-of-measurement-does-the-paint-settextsizefloat-use)
+4. [How to set unit for Paint.setTextSize()](http://stackoverflow.com/questions/3061930/how-to-set-unit-for-paint-settextsize)
+5. [Android Center text on canvas](http://stackoverflow.com/questions/11120392/android-center-text-on-canvas)
 
 ### TouchEvent
 
@@ -523,6 +536,7 @@ Welcome `Star` and `Fork`, your support is my greatest affirmation.
 2. [Android中View绘制流程以及invalidate()等相关方法分析](http://blog.csdn.net/qinjuning/article/details/7110211)
 3. [Android中measure过程、WRAP_CONTENT详解以及xml布局文件解析流程浅析(上)](http://blog.csdn.net/qinjuning/article/details/8051811)
 4. [Android开发：LayoutParams的用法](http://www.cnblogs.com/shaweng/archive/2012/07/10/2585134.html)
+5. [Saving Android View state correctly](http://trickyandroid.com/saving-android-view-state-correctly/)
 
 ### ViewFlipper
 
@@ -582,6 +596,13 @@ Welcome `Star` and `Fork`, your support is my greatest affirmation.
 
 ---
 
+### JCenter
+
+1. [Android Studio发布项目到Jcenter](http://blog.saymagic.cn/2015/02/16/release-library-to-jcenter.html)
+2. [将Library上传到Jcenter](http://www.jianshu.com/p/0ba8960f80a9)
+3. [使用Gradle发布aar项目到JCenter仓库](http://www.cnblogs.com/qianxudetianxia/p/4322331.html)
+
+
 ### Smali
 
 1. [android_smali语法学习](http://blog.csdn.net/wdaming1986/article/details/8299996)
@@ -616,36 +637,27 @@ Welcome `Star` and `Fork`, your support is my greatest affirmation.
 7. [Creating custom and compound Views in Android - Tutorial](http://www.vogella.com/tutorials/AndroidCustomViews/article.html)
 8. [Tutorial: Enhancing Android UI with Custom Views](https://newcircle.com/s/post/1663/tutorial_enhancing_android_ui_with_custom_views_dave_smith_video)
 9. [Android 自定义View (一)](http://blog.csdn.net/lmj623565791/article/details/24252901)
+10. [What does postInvalidate() do?](http://stackoverflow.com/questions/5521596/what-does-postinvalidate-do)
+11. [When it's necessary to execute invalidate() on a View?](http://stackoverflow.com/questions/10647558/when-its-necessary-to-execute-invalidate-on-a-view)
+12. [Android笔记：invalidate()和postInvalidate() 的区别及使用](http://blog.csdn.net/mars2639/article/details/6650876)
 
 ---
 
 ### No category
 
-1. [THE DEX 64K LIMIT IS NOT A PROBLEM ANYMORE, ALMOST](http://www.mutualmobile.com/posts/dex-64k-limit-not-problem-anymore-almost)
-   
-2. [Android 4.4从图库选择图片,获取图片路径并裁剪](http://blog.csdn.net/tempersitu/article/details/20557383)
-   
-3. [浅析android应用增量升级](http://blog.csdn.net/hmg25/article/details/8100896)
-   
-4. [Android四大基本组件介绍与生命周期](http://www.cnblogs.com/bravestarrhu/archive/2012/05/02/2479461.html)
-   
-5. [Android代码优化——使用Android lint工具](http://blog.csdn.net/xyz_lmn/article/details/14222939)
-   
-6. [Android 插件化 动态升级](http://www.trinea.cn/android/android-plugin/)
-   
-7. [Java String StringBuilder StringBuffer](http://www.stormzhang.com/java/2014/08/08/java-string-stringbuilder-stringbuffer/)
-   
-8. [tools:context=".MainActivity的作用](http://blog.csdn.net/caiwenfeng_for_23/article/details/8373569)
-   
-9. [关于APK瘦身值得分享的一些经验](http://www.jianshu.com/p/bd90dee57ad0)
-   
-10. [性能优化之数据库优化](http://www.trinea.cn/android/database-performance/)
-    
-11. [How to check visibility of software keyboard in Android?](http://stackoverflow.com/questions/2150078/how-to-check-visibility-of-software-keyboard-in-android)
-    
-12. [android 4.4.4侧滑退出显示app启动界面](https://github.com/ikew0ng/SwipeBackLayout/issues/45)
-    
-    ​
+1. [THE DEX 64K LIMIT IS NOT A PROBLEM ANYMORE, ALMOST](http://www.mutualmobile.com/posts/dex-64k-limit-not-problem-anymore-almost)   
+2. [Android 4.4从图库选择图片,获取图片路径并裁剪](http://blog.csdn.net/tempersitu/article/details/20557383) 
+3. [浅析android应用增量升级](http://blog.csdn.net/hmg25/article/details/8100896)  
+4. [Android四大基本组件介绍与生命周期](http://www.cnblogs.com/bravestarrhu/archive/2012/05/02/2479461.html)  
+5. [Android代码优化——使用Android lint工具](http://blog.csdn.net/xyz_lmn/article/details/14222939)  
+6. [Android 插件化 动态升级](http://www.trinea.cn/android/android-plugin/) 
+7. [Java String StringBuilder StringBuffer](http://www.stormzhang.com/java/2014/08/08/java-string-stringbuilder-stringbuffer/)  
+8. [tools:context=".MainActivity的作用](http://blog.csdn.net/caiwenfeng_for_23/article/details/8373569) 
+9. [关于APK瘦身值得分享的一些经验](http://www.jianshu.com/p/bd90dee57ad0) 
+10. [性能优化之数据库优化](http://www.trinea.cn/android/database-performance/)  
+11. [How to check visibility of software keyboard in Android?](http://stackoverflow.com/questions/2150078/how-to-check-visibility-of-software-keyboard-in-android) 
+12. [android 4.4.4侧滑退出显示app启动界面](https://github.com/ikew0ng/SwipeBackLayout/issues/45) ​
+13. [How to get a Color from hexadecimal Color String](http://stackoverflow.com/questions/5248583/how-to-get-a-color-from-hexadecimal-color-string)
 
 ---
 
