@@ -318,7 +318,8 @@ Welcome `Star` and `Fork`, your support is my greatest affirmation.
 
 ### Log
 
-1、[Logger工具类](https://github.com/orhanobut/logger)
+1. [Logger工具类](https://github.com/orhanobut/logger)
+2. [KLog](https://github.com/ZhaoKaiQiang/KLog)
 
 ---
 
@@ -365,6 +366,12 @@ Welcome `Star` and `Fork`, your support is my greatest affirmation.
 
 1. [Android 快速开发系列 ORMLite 框架最佳实践](http://blog.csdn.net/lmj623565791/article/details/39122981)
 2. [Android ORM框架之 ORMLite](https://www.zybuluo.com/flyouting/note/6996)
+
+### OkHttp
+
+1. [开源项目OkHttpPlus——支持GET、POST、UI线程回调、JSON格式解析、链式调用、文件上传下载](http://blog.csdn.net/zhaokaiqiang1992/article/details/50016815)
+2. [Android OkHttp完全解析 是时候来了解OkHttp了](http://blog.csdn.net/lmj623565791/article/details/47911083)
+
 
 ---
 
@@ -527,6 +534,7 @@ Welcome `Star` and `Fork`, your support is my greatest affirmation.
 2. [Android中View绘制流程以及invalidate()等相关方法分析](http://blog.csdn.net/qinjuning/article/details/7110211)
 3. [Android中measure过程、WRAP_CONTENT详解以及xml布局文件解析流程浅析(上)](http://blog.csdn.net/qinjuning/article/details/8051811)
 4. [Android开发：LayoutParams的用法](http://www.cnblogs.com/shaweng/archive/2012/07/10/2585134.html)
+5. [Saving Android View state correctly](http://trickyandroid.com/saving-android-view-state-correctly/)
 
 ### ViewFlipper
 
