@@ -658,6 +658,7 @@ Welcome `Star` and `Fork`, your support is my greatest affirmation.
 11. [How to check visibility of software keyboard in Android?](http://stackoverflow.com/questions/2150078/how-to-check-visibility-of-software-keyboard-in-android) 
 12. [android 4.4.4侧滑退出显示app启动界面](https://github.com/ikew0ng/SwipeBackLayout/issues/45) ​
 13. [How to get a Color from hexadecimal Color String](http://stackoverflow.com/questions/5248583/how-to-get-a-color-from-hexadecimal-color-string)
+14. [【译】Android应用架构](http://www.jianshu.com/p/8ca27934c6e6)
 
 ---
 
