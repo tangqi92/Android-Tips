@@ -433,6 +433,7 @@ Welcome `Star` and `Fork`, your support is my greatest affirmation.
 
 1. [RxJava: Reactive Extensions for the JVM](https://github.com/ReactiveX/RxJava)
 2. [给 Android 开发者的 RxJava 详解](http://gank.io/post/560e15be2dca930e00da1083)
+3. [NotRxJava懒人专用指南](http://www.devtf.cn/?p=323)
 
 ### RandomAccessFile
 
