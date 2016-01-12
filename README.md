@@ -187,6 +187,8 @@ Welcome `Star` and `Fork`, your support is my greatest affirmation.
 
 1. [EventBus使用详解(一)——初步使用EventBus](http://blog.csdn.net/harvic880925/article/details/40660137)
 2. [快速Android开发系列通信篇之EventBus](http://www.cnblogs.com/angeldevil/p/3715934.html)
+3. [Android EventBus实战 没听过你就out了
+](http://blog.csdn.net/lmj623565791/article/details/40794879)
 
 ---
 
@@ -431,6 +433,7 @@ Welcome `Star` and `Fork`, your support is my greatest affirmation.
 
 1. [RxJava: Reactive Extensions for the JVM](https://github.com/ReactiveX/RxJava)
 2. [给 Android 开发者的 RxJava 详解](http://gank.io/post/560e15be2dca930e00da1083)
+3. [NotRxJava懒人专用指南](http://www.devtf.cn/?p=323)
 
 ### RandomAccessFile
 
@@ -656,6 +659,7 @@ Welcome `Star` and `Fork`, your support is my greatest affirmation.
 11. [How to check visibility of software keyboard in Android?](http://stackoverflow.com/questions/2150078/how-to-check-visibility-of-software-keyboard-in-android) 
 12. [android 4.4.4侧滑退出显示app启动界面](https://github.com/ikew0ng/SwipeBackLayout/issues/45) ​
 13. [How to get a Color from hexadecimal Color String](http://stackoverflow.com/questions/5248583/how-to-get-a-color-from-hexadecimal-color-string)
+14. [【译】Android应用架构](http://www.jianshu.com/p/8ca27934c6e6)
 
 ---
 
