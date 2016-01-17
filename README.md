@@ -127,6 +127,7 @@ Welcome `Star` and `Fork`, your support is my greatest affirmation.
 3. [Android学习笔记进阶16之BitmapShader](http://blog.csdn.net/sjf0115/article/details/7267532)
 4. [Android 优化Bitmap避免OutOfMemoryError](http://chjmars.iteye.com/blog/1157137)
 5. [Android 异步加载图片，使用LruCache和SD卡或手机缓存，效果非常的流畅](http://blog.csdn.net/xiaanming/article/details/9825113)
+6. [Android 开发绕不过的坑：你的 Bitmap 究竟占多大内存？](http://bugly.qq.com/bbs/forum.php?mod=viewthread&tid=498&fromuid=6)
 
 ### Broadcast
 
@@ -186,9 +187,12 @@ Welcome `Star` and `Fork`, your support is my greatest affirmation.
 ### EventBus
 
 1. [EventBus使用详解(一)——初步使用EventBus](http://blog.csdn.net/harvic880925/article/details/40660137)
+   
 2. [快速Android开发系列通信篇之EventBus](http://www.cnblogs.com/angeldevil/p/3715934.html)
+   
 3. [Android EventBus实战 没听过你就out了
-](http://blog.csdn.net/lmj623565791/article/details/40794879)
+   
+   ](http://blog.csdn.net/lmj623565791/article/details/40794879)
 
 ---
 
@@ -373,7 +377,6 @@ Welcome `Star` and `Fork`, your support is my greatest affirmation.
 
 1. [开源项目OkHttpPlus——支持GET、POST、UI线程回调、JSON格式解析、链式调用、文件上传下载](http://blog.csdn.net/zhaokaiqiang1992/article/details/50016815)
 2. [Android OkHttp完全解析 是时候来了解OkHttp了](http://blog.csdn.net/lmj623565791/article/details/47911083)
-
 
 ---
 
@@ -603,7 +606,6 @@ Welcome `Star` and `Fork`, your support is my greatest affirmation.
 2. [将Library上传到Jcenter](http://www.jianshu.com/p/0ba8960f80a9)
 3. [使用Gradle发布aar项目到JCenter仓库](http://www.cnblogs.com/qianxudetianxia/p/4322331.html)
 
-
 ### Smali
 
 1. [android_smali语法学习](http://blog.csdn.net/wdaming1986/article/details/8299996)
@@ -616,14 +618,15 @@ Welcome `Star` and `Fork`, your support is my greatest affirmation.
 
 1. [Java开发中的23种设计模式详解](http://zz563143188.iteye.com/blog/1847029)
 2. [MVC，MVP 和 MVVM 的图示](http://www.ruanyifeng.com/blog/2015/02/mvcmvp_mvvm.html)
+3. [如果让我重新设计一款Android App](http://blog.csdn.net/ahence/article/details/47154419)
+4. [一个人如何开发一款 App？](https://www.zhihu.com/question/29020285/answer/66095377?utm_campaign=webshare&utm_source=weibo&utm_medium=zhihu&_t=1445344015624)
 
 ---
 
 ### 夜间模式
 
 1. [Android Night Mode 夜间模式实现](http://echo.vars.me/android/android-night-mode/)
-2. [【	android】夜间模式简单实现](http://www.w2bc.com/Article/43471)
-3. [Android夜间模式实现](http://blog.kymjs.com/code/2015/05/26/01/)
+2. [Android夜间模式实现](http://blog.kymjs.com/code/2015/05/26/01/)
 
 ---
 
@@ -660,6 +663,8 @@ Welcome `Star` and `Fork`, your support is my greatest affirmation.
 12. [android 4.4.4侧滑退出显示app启动界面](https://github.com/ikew0ng/SwipeBackLayout/issues/45) ​
 13. [How to get a Color from hexadecimal Color String](http://stackoverflow.com/questions/5248583/how-to-get-a-color-from-hexadecimal-color-string)
 14. [【译】Android应用架构](http://www.jianshu.com/p/8ca27934c6e6)
+15. [Android静默安装实现方案，仿360手机助手秒装和智能安装功能](http://blog.csdn.net/guolin_blog/article/details/47803149)
+16. [How to convert a color integer to a hex String in Android?](http://stackoverflow.com/questions/6539879/how-to-convert-a-color-integer-to-a-hex-string-in-android)
 
 ---
 
