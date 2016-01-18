@@ -96,7 +96,7 @@ Welcome `Star` and `Fork`, your support is my greatest affirmation.
 6. [Android Studio 权威教程](http://blog.csdn.net/column/details/zsl-androidstudio.html)
 7. [倍数提高工作效率的Android Studio奇技](http://zlv.me/posts/2015/07/13/14_android-studio-tips/)
 8. [Android Studio 快捷键（Windows）](http://blog.csdn.net/altair86/article/details/8972178)
-9. [Android Studio系列教程:安装、基本设置、Gradle基础、打包](http://stormzhang.com)
+9. [Android Studio详细教程汇总](http://www.stormzhang.com/devtools/2015/06/17/android-studio-all/)
 10. [Android Studio有什么奇技淫巧](http://www.zhihu.com/question/27482725)
 
 ### AQuery
@@ -187,12 +187,8 @@ Welcome `Star` and `Fork`, your support is my greatest affirmation.
 ### EventBus
 
 1. [EventBus使用详解(一)——初步使用EventBus](http://blog.csdn.net/harvic880925/article/details/40660137)
-   
 2. [快速Android开发系列通信篇之EventBus](http://www.cnblogs.com/angeldevil/p/3715934.html)
-   
-3. [Android EventBus实战 没听过你就out了
-   
-   ](http://blog.csdn.net/lmj623565791/article/details/40794879)
+3. [Android EventBus实战 没听过你就out了](http://blog.csdn.net/lmj623565791/article/details/40794879)
 
 ---
 
