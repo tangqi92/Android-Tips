@@ -661,6 +661,7 @@ Welcome `Star` and `Fork`, your support is my greatest affirmation.
 14. [【译】Android应用架构](http://www.jianshu.com/p/8ca27934c6e6)
 15. [Android静默安装实现方案，仿360手机助手秒装和智能安装功能](http://blog.csdn.net/guolin_blog/article/details/47803149)
 16. [How to convert a color integer to a hex String in Android?](http://stackoverflow.com/questions/6539879/how-to-convert-a-color-integer-to-a-hex-string-in-android)
+17. [IllegalArgumentException: width and height must be > 0 while loading Bitmap from View](http://stackoverflow.com/questions/17605662/illegalargumentexception-width-and-height-must-be-0-while-loading-bitmap-from)
 
 ---
 
