@@ -180,6 +180,10 @@ Welcome `Star` and `Fork`, your support is my greatest affirmation.
 5. [Android网络编程 --断点续传下载文件](http://blog.csdn.net/wwj_748/article/details/20146869)
 6. [android 多线程断点续传下载 一](http://blog.csdn.net/shimiso/article/details/6763664)
 
+### Dagger
+
+
+
 ---
 
 ## E
@@ -428,6 +432,10 @@ Welcome `Star` and `Fork`, your support is my greatest affirmation.
 6. [Create RecyclerView with multiple view type](http://doublewong.com/2014/create-recyclerview-with-multiple-view-type/)
 7. [Simple RecyclerView Divider](https://github.com/troyliu0105/Android-Tips/blob/master/Utils/Content/Simple_RecyclerView_Divider.md)
 
+### Retrofit
+
+
+
 ### RxJava
 
 1. [RxJava: Reactive Extensions for the JVM](https://github.com/ReactiveX/RxJava)
@@ -526,9 +534,11 @@ Welcome `Star` and `Fork`, your support is my greatest affirmation.
 
 ### ViewPager
 
-1. [ViewPager + Fragment实现滑动标签页](http://blog.csdn.net/lizhenmingdirk/article/details/13631813)
-2. [【移动开发】Android中Fragment+ViewPager的配合使用](http://smallwoniu.blog.51cto.com/3911954/1322746)
-3. [Android 手把手教您自定义ViewGroup（一）本文出自:【张鸿洋的博客】](http://blog.csdn.net/lmj623565791/article/details/38339817)
+1. [Android ViewPager使用详解](http://blog.csdn.net/wangjinyu501/article/details/8169924)
+2. [ViewPager + Fragment实现滑动标签页](http://blog.csdn.net/lizhenmingdirk/article/details/13631813)
+3. [【移动开发】Android中Fragment+ViewPager的配合使用](http://smallwoniu.blog.51cto.com/3911954/1322746)
+4. [Android 手把手教您自定义ViewGroup（一）本文出自:【张鸿洋的博客】](http://blog.csdn.net/lmj623565791/article/details/38339817)
+5. [Android的坑之ScrollView嵌套ViewPager](http://hellsam.com/2015/01/29/Android%E7%9A%84%E5%9D%91%E4%B9%8BScrollView%E5%B5%8C%E5%A5%97ViewPager/)
 
 ### View
 
@@ -547,12 +557,16 @@ Welcome `Star` and `Fork`, your support is my greatest affirmation.
 
 1. [Android--使用VideoView播放视频](http://www.cnblogs.com/plokmju/p/android_videoview.html)
 2. [Playing a video in VideoView in Android](http://stackoverflow.com/questions/3263736/playing-a-video-in-videoview-in-android)
+3. [Position Video Inside a VideoView](http://stackoverflow.com/questions/4619563/position-video-inside-a-videoview/4855315#4855315)
 
 ### Volley
 
 1. [Android Volley](https://github.com/mcxiaoke/android-volley)
 2. [Android Volley完全解析(一)，初识Volley的基本用法](http://blog.csdn.net/guolin_blog/article/details/17482095)
 3. [Android库Volley的使用介绍](https://bxbxbai.github.io/2014/09/14/android-working-with-volley/)
+4. [网络请求库Volley详解](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0526/2934.html)
+5. [Volley 源码解析](http://www.codekk.com/blogs/detail/54cfab086c4761e5001b2542)
+6. [使用okHttp、Volley、Gson快速组装HttpClinet](http://oakzmm.com/2015/07/22/okHttp-Volley-Gson/)
 
 ---
 
@@ -561,15 +575,14 @@ Welcome `Star` and `Fork`, your support is my greatest affirmation.
 ### WebView
 
 1. [WebView详解](http://1.vduntest.sinaapp.com/webview/WebView%E8%AF%A6%E8%A7%A3.html)
-2. [Java 与 JavaScript 如何进行交互](http://itangqi.me/2015/03/07/java-and-javascript-interaction-in-android/)
-3. [android与javascript交互调用](http://blog.csdn.net/chenzheng_java/article/details/6260872)
-4. [Android与js交互实例](http://blog.csdn.net/ithomer/article/details/8737999)
-5. [Android中Java和JavaScript交互](http://droidyue.com/blog/2014/09/20/interaction-between-java-and-javascript-in-android/)
-6. [顶部带进度条的Webview](http://droidyue.com/blog/2014/07/12/ding-bu-dai-jin-du-tiao-de-webview/)
-7. [Android WebView播放视频问题](http://www.stormzhang.com/android/2014/03/23/android-webview-play-video/)
-8. [理解WebKit和Chromium: Android 4.4 上的Chromium WebView](http://blog.csdn.net/milado_nju/article/details/17098399)
-9. [在WebView中如何让JS与Java安全地互相调用](http://www.pedant.cn/2014/07/04/webview-js-java-interface-research/)
-10. [Android WebView的Js对象注入漏洞解决方案](http://blog.csdn.net/leehong2005/article/details/11808557)
+2. [Java 与 JavaScript 如何进行交互](http://itangqi.me/2015/03/07/java-and-javascript-interaction/)
+3. [Android与js交互实例](http://blog.csdn.net/ithomer/article/details/8737999)
+4. [Android中Java和JavaScript交互](http://droidyue.com/blog/2014/09/20/interaction-between-java-and-javascript-in-android/)
+5. [顶部带进度条的Webview](http://droidyue.com/blog/2014/07/12/ding-bu-dai-jin-du-tiao-de-webview/)
+6. [Android WebView播放视频问题](http://www.stormzhang.com/android/2014/03/23/android-webview-play-video/)
+7. [理解WebKit和Chromium: Android 4.4 上的Chromium WebView](http://blog.csdn.net/milado_nju/article/details/17098399)
+8. [在WebView中如何让JS与Java安全地互相调用](http://www.pedant.cn/2014/07/04/webview-js-java-interface-research/)
+9. [Android WebView的Js对象注入漏洞解决方案](http://blog.csdn.net/leehong2005/article/details/11808557)
 
 ---
 
