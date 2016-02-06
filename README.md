@@ -602,11 +602,15 @@ Welcome `Star` and `Fork`, your support is my greatest affirmation.
 2. [将Library上传到Jcenter](http://www.jianshu.com/p/0ba8960f80a9)
 3. [使用Gradle发布aar项目到JCenter仓库](http://www.cnblogs.com/qianxudetianxia/p/4322331.html)
 
-### Smali
+### 反编译
 
 1. [android_smali语法学习](http://blog.csdn.net/wdaming1986/article/details/8299996)
 2. [apk的包名修改](http://www.cnblogs.com/tianxiaozz/archive/2012/12/26/change_apk_package_name.html)
 3. [为Sublime Text安装smali代码语法高亮插件](http://liuzhichao.com/p/1476.html)
+4. [Android APK反编译详解（附图）](http://blog.csdn.net/ithomer/article/details/6727581)
+5. [Android开发学习总结（六）—— APK反编译](http://www.cnblogs.com/xdp-gacl/p/4677145.html)
+6. [我是如何使用Android反编译软件的？](http://www.jianshu.com/p/8c24136e0c1f)
+7. [Android程序的反编译对抗研究](http://www.freebuf.com/tools/76884.html)
 
 ---
 
@@ -616,6 +620,8 @@ Welcome `Star` and `Fork`, your support is my greatest affirmation.
 2. [MVC，MVP 和 MVVM 的图示](http://www.ruanyifeng.com/blog/2015/02/mvcmvp_mvvm.html)
 3. [如果让我重新设计一款Android App](http://blog.csdn.net/ahence/article/details/47154419)
 4. [一个人如何开发一款 App？](https://www.zhihu.com/question/29020285/answer/66095377?utm_campaign=webshare&utm_source=weibo&utm_medium=zhihu&_t=1445344015624)
+5. [Android应用架构 (Android Dev Summit 2015)](http://blog.zhaiyifan.cn/2016/01/29/android-app-architecture-2015/?from=timeline&isappinstalled=0)
+6. [Android源码设计模式分析项目](https://github.com/simple-android-framework-exchange/android_design_patterns_analysis)
 
 ---
 
@@ -623,6 +629,7 @@ Welcome `Star` and `Fork`, your support is my greatest affirmation.
 
 1. [Android Night Mode 夜间模式实现](http://echo.vars.me/android/android-night-mode/)
 2. [Android夜间模式实现](http://blog.kymjs.com/code/2015/05/26/01/)
+3. [Android 中 知乎日报和知乎设置夜间模式是怎么样做到不重启Activity的?](https://www.zhihu.com/question/31145990)
 
 ---
 
