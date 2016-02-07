@@ -464,31 +464,38 @@ Welcome `Star` and `Fork`, your support is my greatest affirmation.
 1. [Android Service完全解析，关于服务你所需知道的一切(上)](http://blog.csdn.net/guolin_blog/article/details/11952435)
 2. [ExecutorService 的理解与使用](http://blog.csdn.net/bairrfhoinn/article/details/16848785)
 3. [Android基本功：IntentService的使用](http://blog.csdn.net/p106786860/article/details/17885115)
+4. [Android基础笔记（十一）- Service基础和注意事项以及Activity与Service的通信](http://blog.csdn.net/biezhihua/article/details/44281029)
 
 ### SharedPreference
 
 1. [Android SharedPreferences使用以及原理详解](http://blog.csdn.net/wxyyxc1992/article/details/17222841)
 2. [Google为何这样设计OnSharedPreferenceChangeListener](http://droidyue.com/blog/2014/11/29/why-onsharedpreferencechangelistener-was-not-called/)
+3. [SharedPreferences在多进程中的使用及注意事项](http://zmywly8866.github.io/2015/09/09/sharedpreferences-in-multiprocess.html)
 
 ### SparseArray
 
 1. [Android应用性能优化之使用SparseArray替代HashMap](http://liuzhichao.com/p/832.html)
 2. [Android SparseArray](http://lmbj.net/blog/android-sparsearray/)
 3. [Android性能优化之使用SparseArray代替HashMap](http://stormzhang.com/android/2013/08/01/android-use-sparsearray-for-performance-optimization/)
+4. [HashMap的实现与优化](http://www.jianshu.com/p/e54047b2b563)
 
 ### SQLite
 
 1. [Android中SQLite应用详解](http://blog.csdn.net/liuhe688/article/details/6715983)
 2. [ANDROID开发之SQLite详解](http://www.cnblogs.com/Excellent/archive/2011/11/19/2254888.html)
 3. [使用嵌入式关系型SQLite数据库存储数据](http://justsee.iteye.com/blog/932591)
+4. [Android将数据库保存到SD卡的实现](http://zmywly8866.github.io/2015/03/09/android-save-database-in-sdcard.html)
 
 ### Support Library
 
-1. [Android Support兼容包详解](https://getpocket.com/a/read/881902653)
+1. [Android Support兼容包详解](http://stormzhang.com/android/2015/03/29/android-support-library/)
+2. [Android各个Support Library介绍](http://zmywly8866.github.io/2015/10/09/android-support-library.html)
+3. [Android Support Library 23.1的变化](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/1025/3622.html)
 
 ### SwipeRefreshLayout
 
 1. [Android SwipeRefreshLayout](http://www.stormzhang.com/android/2014/03/29/android-swiperefreshlayout/)
+2. [下拉刷新之 swipeRefreshLayout](http://blog.csdn.net/xinjianwuhen1991/article/details/49914343)
 
 ---
 
@@ -506,6 +513,7 @@ Welcome `Star` and `Fork`, your support is my greatest affirmation.
 
 1. [两分钟彻底让你明白Android中onInterceptTouchEvent与onTouchEvent(图文)!](http://blog.csdn.net/android_tutor/article/details/7193090)
 2. [MotionEvent事件在onInterceptTouchEvent()、onTouchEvent()中的传递顺序](http://www.cnblogs.com/rocky_yi/archive/2011/01/21/1941522.html#)
+3. [Android Deeper(00) - Touch事件分发响应机制](http://hukai.me/android-deeper-touch-event-dispatch-process/)
 
 ### Thread
 
@@ -527,6 +535,7 @@ Welcome `Star` and `Fork`, your support is my greatest affirmation.
 
 1. [Android单元测试](http://www.cnblogs.com/tianzhijiexian/p/4296055.html)
 2. [Don’t Test Blindly: The Right Methods for Unit Testing Your Java Apps](http://zeroturnaround.com/rebellabs/dont-test-blindly-the-right-methods-for-unit-testing-your-java-apps/)
+3. [在Android Studio中进行单元测试和UI测试](http://www.jianshu.com/p/03118c11c199)
 
 ---
 
