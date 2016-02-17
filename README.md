@@ -234,6 +234,7 @@ Welcome `Star` and `Fork`, your support is my greatest affirmation.
 8. [Android打包的那些事](http://www.jayfeng.com/2015/11/07/Android%E6%89%93%E5%8C%85%E7%9A%84%E9%82%A3%E4%BA%9B%E4%BA%8B/)
 9. [深入理解Android之Gradle](http://blog.csdn.net/innost/article/details/48228651)
 10. [gradle build fails on lint task](http://stackoverflow.com/questions/20699147/gradle-build-fails-on-lint-task)
+11. [“Gradle Version 2.10 is required.” Error](http://stackoverflow.com/questions/34814368/gradle-version-2-10-is-required-error)
 
 ### greenDao
 
@@ -615,6 +616,7 @@ Welcome `Star` and `Fork`, your support is my greatest affirmation.
 6. [如何高效利用GitHub](http://www.yangzhiping.com/tech/github.html#q1)  
 7. [廖雪峰的GIT入门教程](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
 8. [GitHub&Git入门基础](http://www.nowcoder.com/courses/2)
+9. [git-flow 备忘清单](http://danielkummer.github.io/git-flow-cheatsheet/index.zh_CN.html)
 
 ---
 
@@ -691,6 +693,7 @@ Welcome `Star` and `Fork`, your support is my greatest affirmation.
 15. [Android静默安装实现方案，仿360手机助手秒装和智能安装功能](http://blog.csdn.net/guolin_blog/article/details/47803149)
 16. [How to convert a color integer to a hex String in Android?](http://stackoverflow.com/questions/6539879/how-to-convert-a-color-integer-to-a-hex-string-in-android)
 17. [IllegalArgumentException: width and height must be > 0 while loading Bitmap from View](http://stackoverflow.com/questions/17605662/illegalargumentexception-width-and-height-must-be-0-while-loading-bitmap-from)
+18. [Unable to instantiate application com.android.tools.fd.runtime.BootstrapApplication ?](http://stackoverflow.com/questions/33967703/unable-to-instantiate-application-com-android-tools-fd-runtime-bootstrapapplicat)
 
 ---
 
