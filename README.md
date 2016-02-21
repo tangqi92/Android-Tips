@@ -180,6 +180,10 @@ Welcome `Star` and `Fork`, your support is my greatest affirmation.
 5. [Android网络编程 --断点续传下载文件](http://blog.csdn.net/wwj_748/article/details/20146869)
 6. [android 多线程断点续传下载 一](http://blog.csdn.net/shimiso/article/details/6763664)
 
+### Dagger
+
+
+
 ---
 
 ## E
@@ -230,6 +234,7 @@ Welcome `Star` and `Fork`, your support is my greatest affirmation.
 8. [Android打包的那些事](http://www.jayfeng.com/2015/11/07/Android%E6%89%93%E5%8C%85%E7%9A%84%E9%82%A3%E4%BA%9B%E4%BA%8B/)
 9. [深入理解Android之Gradle](http://blog.csdn.net/innost/article/details/48228651)
 10. [gradle build fails on lint task](http://stackoverflow.com/questions/20699147/gradle-build-fails-on-lint-task)
+11. [“Gradle Version 2.10 is required.” Error](http://stackoverflow.com/questions/34814368/gradle-version-2-10-is-required-error)
 
 ### greenDao
 
@@ -428,6 +433,10 @@ Welcome `Star` and `Fork`, your support is my greatest affirmation.
 6. [Create RecyclerView with multiple view type](http://doublewong.com/2014/create-recyclerview-with-multiple-view-type/)
 7. [Simple RecyclerView Divider](https://github.com/troyliu0105/Android-Tips/blob/master/Utils/Content/Simple_RecyclerView_Divider.md)
 
+### Retrofit
+
+
+
 ### RxJava
 
 1. [RxJava: Reactive Extensions for the JVM](https://github.com/ReactiveX/RxJava)
@@ -456,31 +465,38 @@ Welcome `Star` and `Fork`, your support is my greatest affirmation.
 1. [Android Service完全解析，关于服务你所需知道的一切(上)](http://blog.csdn.net/guolin_blog/article/details/11952435)
 2. [ExecutorService 的理解与使用](http://blog.csdn.net/bairrfhoinn/article/details/16848785)
 3. [Android基本功：IntentService的使用](http://blog.csdn.net/p106786860/article/details/17885115)
+4. [Android基础笔记（十一）- Service基础和注意事项以及Activity与Service的通信](http://blog.csdn.net/biezhihua/article/details/44281029)
 
 ### SharedPreference
 
 1. [Android SharedPreferences使用以及原理详解](http://blog.csdn.net/wxyyxc1992/article/details/17222841)
 2. [Google为何这样设计OnSharedPreferenceChangeListener](http://droidyue.com/blog/2014/11/29/why-onsharedpreferencechangelistener-was-not-called/)
+3. [SharedPreferences在多进程中的使用及注意事项](http://zmywly8866.github.io/2015/09/09/sharedpreferences-in-multiprocess.html)
 
 ### SparseArray
 
 1. [Android应用性能优化之使用SparseArray替代HashMap](http://liuzhichao.com/p/832.html)
 2. [Android SparseArray](http://lmbj.net/blog/android-sparsearray/)
 3. [Android性能优化之使用SparseArray代替HashMap](http://stormzhang.com/android/2013/08/01/android-use-sparsearray-for-performance-optimization/)
+4. [HashMap的实现与优化](http://www.jianshu.com/p/e54047b2b563)
 
 ### SQLite
 
 1. [Android中SQLite应用详解](http://blog.csdn.net/liuhe688/article/details/6715983)
 2. [ANDROID开发之SQLite详解](http://www.cnblogs.com/Excellent/archive/2011/11/19/2254888.html)
 3. [使用嵌入式关系型SQLite数据库存储数据](http://justsee.iteye.com/blog/932591)
+4. [Android将数据库保存到SD卡的实现](http://zmywly8866.github.io/2015/03/09/android-save-database-in-sdcard.html)
 
 ### Support Library
 
-1. [Android Support兼容包详解](https://getpocket.com/a/read/881902653)
+1. [Android Support兼容包详解](http://stormzhang.com/android/2015/03/29/android-support-library/)
+2. [Android各个Support Library介绍](http://zmywly8866.github.io/2015/10/09/android-support-library.html)
+3. [Android Support Library 23.1的变化](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/1025/3622.html)
 
 ### SwipeRefreshLayout
 
 1. [Android SwipeRefreshLayout](http://www.stormzhang.com/android/2014/03/29/android-swiperefreshlayout/)
+2. [下拉刷新之 swipeRefreshLayout](http://blog.csdn.net/xinjianwuhen1991/article/details/49914343)
 
 ---
 
@@ -498,6 +514,7 @@ Welcome `Star` and `Fork`, your support is my greatest affirmation.
 
 1. [两分钟彻底让你明白Android中onInterceptTouchEvent与onTouchEvent(图文)!](http://blog.csdn.net/android_tutor/article/details/7193090)
 2. [MotionEvent事件在onInterceptTouchEvent()、onTouchEvent()中的传递顺序](http://www.cnblogs.com/rocky_yi/archive/2011/01/21/1941522.html#)
+3. [Android Deeper(00) - Touch事件分发响应机制](http://hukai.me/android-deeper-touch-event-dispatch-process/)
 
 ### Thread
 
@@ -519,6 +536,7 @@ Welcome `Star` and `Fork`, your support is my greatest affirmation.
 
 1. [Android单元测试](http://www.cnblogs.com/tianzhijiexian/p/4296055.html)
 2. [Don’t Test Blindly: The Right Methods for Unit Testing Your Java Apps](http://zeroturnaround.com/rebellabs/dont-test-blindly-the-right-methods-for-unit-testing-your-java-apps/)
+3. [在Android Studio中进行单元测试和UI测试](http://www.jianshu.com/p/03118c11c199)
 
 ---
 
@@ -526,9 +544,11 @@ Welcome `Star` and `Fork`, your support is my greatest affirmation.
 
 ### ViewPager
 
-1. [ViewPager + Fragment实现滑动标签页](http://blog.csdn.net/lizhenmingdirk/article/details/13631813)
-2. [【移动开发】Android中Fragment+ViewPager的配合使用](http://smallwoniu.blog.51cto.com/3911954/1322746)
-3. [Android 手把手教您自定义ViewGroup（一）本文出自:【张鸿洋的博客】](http://blog.csdn.net/lmj623565791/article/details/38339817)
+1. [Android ViewPager使用详解](http://blog.csdn.net/wangjinyu501/article/details/8169924)
+2. [ViewPager + Fragment实现滑动标签页](http://blog.csdn.net/lizhenmingdirk/article/details/13631813)
+3. [【移动开发】Android中Fragment+ViewPager的配合使用](http://smallwoniu.blog.51cto.com/3911954/1322746)
+4. [Android 手把手教您自定义ViewGroup（一）本文出自:【张鸿洋的博客】](http://blog.csdn.net/lmj623565791/article/details/38339817)
+5. [Android的坑之ScrollView嵌套ViewPager](http://hellsam.com/2015/01/29/Android%E7%9A%84%E5%9D%91%E4%B9%8BScrollView%E5%B5%8C%E5%A5%97ViewPager/)
 
 ### View
 
@@ -547,12 +567,16 @@ Welcome `Star` and `Fork`, your support is my greatest affirmation.
 
 1. [Android--使用VideoView播放视频](http://www.cnblogs.com/plokmju/p/android_videoview.html)
 2. [Playing a video in VideoView in Android](http://stackoverflow.com/questions/3263736/playing-a-video-in-videoview-in-android)
+3. [Position Video Inside a VideoView](http://stackoverflow.com/questions/4619563/position-video-inside-a-videoview/4855315#4855315)
 
 ### Volley
 
 1. [Android Volley](https://github.com/mcxiaoke/android-volley)
 2. [Android Volley完全解析(一)，初识Volley的基本用法](http://blog.csdn.net/guolin_blog/article/details/17482095)
 3. [Android库Volley的使用介绍](https://bxbxbai.github.io/2014/09/14/android-working-with-volley/)
+4. [网络请求库Volley详解](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0526/2934.html)
+5. [Volley 源码解析](http://www.codekk.com/blogs/detail/54cfab086c4761e5001b2542)
+6. [使用okHttp、Volley、Gson快速组装HttpClinet](http://oakzmm.com/2015/07/22/okHttp-Volley-Gson/)
 
 ---
 
@@ -561,15 +585,14 @@ Welcome `Star` and `Fork`, your support is my greatest affirmation.
 ### WebView
 
 1. [WebView详解](http://1.vduntest.sinaapp.com/webview/WebView%E8%AF%A6%E8%A7%A3.html)
-2. [Java 与 JavaScript 如何进行交互](http://itangqi.me/2015/03/07/java-and-javascript-interaction-in-android/)
-3. [android与javascript交互调用](http://blog.csdn.net/chenzheng_java/article/details/6260872)
-4. [Android与js交互实例](http://blog.csdn.net/ithomer/article/details/8737999)
-5. [Android中Java和JavaScript交互](http://droidyue.com/blog/2014/09/20/interaction-between-java-and-javascript-in-android/)
-6. [顶部带进度条的Webview](http://droidyue.com/blog/2014/07/12/ding-bu-dai-jin-du-tiao-de-webview/)
-7. [Android WebView播放视频问题](http://www.stormzhang.com/android/2014/03/23/android-webview-play-video/)
-8. [理解WebKit和Chromium: Android 4.4 上的Chromium WebView](http://blog.csdn.net/milado_nju/article/details/17098399)
-9. [在WebView中如何让JS与Java安全地互相调用](http://www.pedant.cn/2014/07/04/webview-js-java-interface-research/)
-10. [Android WebView的Js对象注入漏洞解决方案](http://blog.csdn.net/leehong2005/article/details/11808557)
+2. [Java 与 JavaScript 如何进行交互](http://itangqi.me/2015/03/07/java-and-javascript-interaction/)
+3. [Android与js交互实例](http://blog.csdn.net/ithomer/article/details/8737999)
+4. [Android中Java和JavaScript交互](http://droidyue.com/blog/2014/09/20/interaction-between-java-and-javascript-in-android/)
+5. [顶部带进度条的Webview](http://droidyue.com/blog/2014/07/12/ding-bu-dai-jin-du-tiao-de-webview/)
+6. [Android WebView播放视频问题](http://www.stormzhang.com/android/2014/03/23/android-webview-play-video/)
+7. [理解WebKit和Chromium: Android 4.4 上的Chromium WebView](http://blog.csdn.net/milado_nju/article/details/17098399)
+8. [在WebView中如何让JS与Java安全地互相调用](http://www.pedant.cn/2014/07/04/webview-js-java-interface-research/)
+9. [Android WebView的Js对象注入漏洞解决方案](http://blog.csdn.net/leehong2005/article/details/11808557)
 
 ---
 
@@ -593,6 +616,7 @@ Welcome `Star` and `Fork`, your support is my greatest affirmation.
 6. [如何高效利用GitHub](http://www.yangzhiping.com/tech/github.html#q1)  
 7. [廖雪峰的GIT入门教程](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
 8. [GitHub&Git入门基础](http://www.nowcoder.com/courses/2)
+9. [git-flow 备忘清单](http://danielkummer.github.io/git-flow-cheatsheet/index.zh_CN.html)
 
 ---
 
@@ -602,11 +626,15 @@ Welcome `Star` and `Fork`, your support is my greatest affirmation.
 2. [将Library上传到Jcenter](http://www.jianshu.com/p/0ba8960f80a9)
 3. [使用Gradle发布aar项目到JCenter仓库](http://www.cnblogs.com/qianxudetianxia/p/4322331.html)
 
-### Smali
+### 反编译
 
 1. [android_smali语法学习](http://blog.csdn.net/wdaming1986/article/details/8299996)
 2. [apk的包名修改](http://www.cnblogs.com/tianxiaozz/archive/2012/12/26/change_apk_package_name.html)
 3. [为Sublime Text安装smali代码语法高亮插件](http://liuzhichao.com/p/1476.html)
+4. [Android APK反编译详解（附图）](http://blog.csdn.net/ithomer/article/details/6727581)
+5. [Android开发学习总结（六）—— APK反编译](http://www.cnblogs.com/xdp-gacl/p/4677145.html)
+6. [我是如何使用Android反编译软件的？](http://www.jianshu.com/p/8c24136e0c1f)
+7. [Android程序的反编译对抗研究](http://www.freebuf.com/tools/76884.html)
 
 ---
 
@@ -616,6 +644,8 @@ Welcome `Star` and `Fork`, your support is my greatest affirmation.
 2. [MVC，MVP 和 MVVM 的图示](http://www.ruanyifeng.com/blog/2015/02/mvcmvp_mvvm.html)
 3. [如果让我重新设计一款Android App](http://blog.csdn.net/ahence/article/details/47154419)
 4. [一个人如何开发一款 App？](https://www.zhihu.com/question/29020285/answer/66095377?utm_campaign=webshare&utm_source=weibo&utm_medium=zhihu&_t=1445344015624)
+5. [Android应用架构 (Android Dev Summit 2015)](http://blog.zhaiyifan.cn/2016/01/29/android-app-architecture-2015/?from=timeline&isappinstalled=0)
+6. [Android源码设计模式分析项目](https://github.com/simple-android-framework-exchange/android_design_patterns_analysis)
 
 ---
 
@@ -623,6 +653,7 @@ Welcome `Star` and `Fork`, your support is my greatest affirmation.
 
 1. [Android Night Mode 夜间模式实现](http://echo.vars.me/android/android-night-mode/)
 2. [Android夜间模式实现](http://blog.kymjs.com/code/2015/05/26/01/)
+3. [Android 中 知乎日报和知乎设置夜间模式是怎么样做到不重启Activity的?](https://www.zhihu.com/question/31145990)
 
 ---
 
@@ -661,6 +692,8 @@ Welcome `Star` and `Fork`, your support is my greatest affirmation.
 14. [【译】Android应用架构](http://www.jianshu.com/p/8ca27934c6e6)
 15. [Android静默安装实现方案，仿360手机助手秒装和智能安装功能](http://blog.csdn.net/guolin_blog/article/details/47803149)
 16. [How to convert a color integer to a hex String in Android?](http://stackoverflow.com/questions/6539879/how-to-convert-a-color-integer-to-a-hex-string-in-android)
+17. [IllegalArgumentException: width and height must be > 0 while loading Bitmap from View](http://stackoverflow.com/questions/17605662/illegalargumentexception-width-and-height-must-be-0-while-loading-bitmap-from)
+18. [Unable to instantiate application com.android.tools.fd.runtime.BootstrapApplication ?](http://stackoverflow.com/questions/33967703/unable-to-instantiate-application-com-android-tools-fd-runtime-bootstrapapplicat)
 
 ---
 
