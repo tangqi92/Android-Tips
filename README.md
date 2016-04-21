@@ -182,6 +182,8 @@ Welcome `Star` and `Fork`, your support is my greatest affirmation.
 
 ### Dagger
 
+1. [Dagger on Android－Dagger2详解](http://blog.fidroid.com/post/android/dagger-on-android-dagger2xiang-jie)
+2. [使用Dagger 2进行依赖注入](http://codethink.me/2015/08/06/dependency-injection-with-dagger-2/)
 
 
 ---
@@ -257,6 +259,8 @@ Welcome `Star` and `Fork`, your support is my greatest affirmation.
 1. [Android热更新实现原理](http://blog.csdn.net/lzyzsd/article/details/49843581#0-tsina-1-98317-397232819ff9a47a7b7e80a40613cfe1)
 2. [Android App 线上热修复方案](http://lirenlong.github.io/hotfix/)
 3. [Nuwa](https://github.com/jasonross/Nuwa)
+4. [Android 热补丁动态修复框架小结](http://blog.csdn.net/lmj623565791/article/details/49883661)
+5. [安卓App热补丁动态修复技术介绍](https://mp.weixin.qq.com/s?__biz=MzI1MTA1MzM2Nw==&mid=400118620&idx=1&sn=b4fdd5055731290eef12ad0d17f39d4a&scene=1&srcid=1106Imu9ZgwybID13e7y2nEi#wechat_redirect)
 
 ### Handler
 
@@ -289,7 +293,7 @@ Welcome `Star` and `Fork`, your support is my greatest affirmation.
 1. [Modern Java - A Guide to Java 8](https://github.com/winterbe/java8-tutorial)
 2. [Java8系列 - Java8简明指南](https://biezhi.me/article/java8-tutorial.html)
 
-### Json
+### JSON
 
 1. [Android系列---JSON数据解析](http://www.cnblogs.com/xiaoluo501395377/p/3446605.html)
 2. [android json解析及简单例子](http://blog.csdn.net/lilu_leo/article/details/7000077)
@@ -417,6 +421,8 @@ Welcome `Star` and `Fork`, your support is my greatest affirmation.
 
 1. [React Native for Android 入门老虎](http://www.race604.com/react-native-for-android-start/)
 2. [React Native For Android初体验](http://www.jianshu.com/p/847a54e0c385)
+3. [React Native for Android 实践 -- 实现知乎日报客户端](http://www.race604.com/react-native-android-practice/)
+4. [React Native Android 踩坑之旅](http://www.alloyteam.com/2015/10/react-native-android-steps-on-tour/)
 
 ### Reference
 
@@ -442,6 +448,7 @@ Welcome `Star` and `Fork`, your support is my greatest affirmation.
 1. [RxJava: Reactive Extensions for the JVM](https://github.com/ReactiveX/RxJava)
 2. [给 Android 开发者的 RxJava 详解](http://gank.io/post/560e15be2dca930e00da1083)
 3. [NotRxJava懒人专用指南](http://www.devtf.cn/?p=323)
+4. [小试RxJava](http://kescoode.com/try-rxjava/)
 
 ### RandomAccessFile
 
@@ -715,3 +722,4 @@ Born in 1992, now a student of Southeast University, master of software engineer
 I will graduate in June 2017, expect the internship or full-time job in Android or iOS.
 
 If you have any questions or want to make friends with me, please feel free to contact me : [imtangqi#gmail.com](mailto:imtangqi@gmail.com "Welcome to contact me")  
+
