@@ -69,8 +69,7 @@ Welcome `Star` and `Fork`, your support is my greatest affirmation.
 ### Adapter
 
 1. [Android简便通用的SimpleBaseAdapter](http://www.stormzhang.com/androidtips/2014/08/31/android-common-simplebaseadapter/)
-2. [Android数据适配器(Adapter)优化：使用高效的ViewHolder](http://stackvoid.com/using-adapter-in-efficiency-way/)
-3. [Android 快速开发系列 打造万能的ListView GridView 适配器](http://blog.csdn.net/lmj623565791/article/details/38902805/)
+2. [Android 快速开发系列 打造万能的ListView GridView 适配器](http://blog.csdn.net/lmj623565791/article/details/38902805/)
 
 ### AIDL
 
