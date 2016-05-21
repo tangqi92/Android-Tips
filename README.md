@@ -138,6 +138,10 @@ Welcome `Star` and `Fork`, your support is my greatest affirmation.
 
 ## C
 
+### Canvas
+
+1. [Android利用canvas画各种图形(点、直线、弧、圆、椭圆、文字、矩形、多边形、曲线、圆角矩形)](http://blog.csdn.net/rhljiayou/article/details/7212620)
+
 ### Callback
 
 1. [How to Define Callbacks in Android?](http://stackoverflow.com/questions/3398363/how-to-define-callbacks-in-android)
