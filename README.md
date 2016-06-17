@@ -58,6 +58,11 @@ Welcome `Star` and `Fork`, your support is my greatest affirmation.
 
 ### A
 
+### Activity
+
+1. [Android Activity为什么要细化出onCreate、onStart、onResume、onPause、onStop、onDesdroy这么多方法让应用去重载？](http://blog.csdn.net/zhao_3546/article/details/12843477)
+
+
 ### ADB
 
 1. [Installing ADB on Windows 7](https://www.youtube.com/watch?v=5U_BfrXV90I)
