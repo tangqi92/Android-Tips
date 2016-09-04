@@ -79,6 +79,10 @@ Welcome `Star` and `Fork`, your support is my greatest affirmation.
 4. [Android中的跨进程通信的实现（一）——远程调用过程和aidl](http://blog.csdn.net/notice520/article/details/8135600)
 5. [Android Studio下如何配置AIDL文件](http://chenqichao.me/2014/05/13/003-Android-Studio-AIDL/)
 
+### AlarmManager
+
+1. [Android AlarmManager实现不间断轮询服务](http://blog.csdn.net/ryantang03/article/details/9317499)
+
 ### Android-Async-Http
 
 1. [Asynchronous Http Client for Android](https://github.com/loopj/android-async-http)
@@ -114,6 +118,11 @@ Welcome `Star` and `Fork`, your support is my greatest affirmation.
 
 1. [AndroidAnnotations框架入门教程一之介绍](http://zhenhappy.github.io/2015/10/11/Android-Annotations-1-Introduce.html)
 2. [How to stop an animation (cancel() does not work)](http://stackoverflow.com/questions/4112599/how-to-stop-an-animation-cancel-does-not-work)
+
+### Android 6.0 
+
+1. [Android6.0运行时权限简介](http://unclechen.github.io/2016/03/05/Android6.0%E8%BF%90%E8%A1%8C%E6%97%B6%E6%9D%83%E9%99%90%E7%AE%80%E4%BB%8B/)
+2. [Android 6.0 - 动态权限管理的解决方案](http://www.jianshu.com/p/dbe4d37731e6)
 
 ---
 
@@ -153,6 +162,7 @@ Welcome `Star` and `Fork`, your support is my greatest affirmation.
 1. [Android5.0新控件CardView的介绍和使用](http://www.cnblogs.com/tianzhijiexian/p/4067308.html)
 2. [Android CardView Example](http://www.truiton.com/2015/03/android-cardview-example/)
 3. [Android CardView Widget – Add Cards to a List using RecyclerView](http://techlovejump.com/android-cardview-widget-example-add-to-list-using-recyclerview/)
+4. [CardView在API 21以下的圆角效果处理](http://www.jianshu.com/p/07097b562acb)
 
 ### Configuration Change
 
@@ -182,6 +192,11 @@ Welcome `Star` and `Fork`, your support is my greatest affirmation.
 4. [Android 后台Service下载 （一）](http://blog.csdn.net/qingye_love/article/details/14163511)
 5. [Android网络编程 --断点续传下载文件](http://blog.csdn.net/wwj_748/article/details/20146869)
 6. [android 多线程断点续传下载 一](http://blog.csdn.net/shimiso/article/details/6763664)
+
+### DownloadManager
+
+1. [Android DownloadManager 的使用](http://www.jianshu.com/p/5b1ad56b9cef)
+
 
 ### Dagger
 
@@ -213,6 +228,14 @@ Welcome `Star` and `Fork`, your support is my greatest affirmation.
 6. [Android实战技巧：Fragment的那些坑](http://toughcoder.net/blog/2015/04/30/android-fragment-the-bad-parts/)
 7. [android Fragments详解四:管理fragment](http://www.cnblogs.com/mybkn/articles/2455138.html)
 8. [Android Fragment 嵌套使用(Nested Fragments)](http://blog.csdn.net/top_code/article/details/37343075)
+9. [Fragment MyFragment not attached to Activity](http://stackoverflow.com/questions/10919240/fragment-myfragment-not-attached-to-activity)
+10. [Fragment全解析系列（一）：那些年踩过的坑](http://www.jianshu.com/p/d9143a92ad94)
+
+### Fresco
+
+1. [Fresco学习笔记](http://blog.happyhls.me/2015/08/03/fresco%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/)
+2. [why use fresco datasource to get bitmap is empty](http://stackoverflow.com/questions/30477827/why-use-fresco-datasource-to-get-bitmap-is-empty)
+
 
 ### FlowLayout - 自定义流布局
 
@@ -321,6 +344,10 @@ Welcome `Star` and `Fork`, your support is my greatest affirmation.
 
 ## L
 
+### largeHeap
+
+1. [探究android:largeHeap](http://droidyue.com/blog/2015/08/01/dive-into-android-large-heap/index.html)
+
 ### ListFragment
 
 1. [Android App组件之ListFragment -- 说明和示例](http://www.cnblogs.com/skywang12345/p/3160260.html)
@@ -406,6 +433,10 @@ Welcome `Star` and `Fork`, your support is my greatest affirmation.
 1. [Extracting Colors to a Palette with Android Lollipop](https://www.bignerdranch.com/blog/extracting-colors-to-a-palette-with-android-lollipop/)
 2. [Android Lollipop 新特性 - Palette](https://github.com/troyliu0105/Android-Tips/blob/master/Utils/Content/Android_Lollipop_%E6%96%B0%E7%89%B9%E6%80%A7-Palette.md)
 
+### PopupWindow
+
+1. [http://wuxiaolong.me/2015/09/02/SharePopupWindow/](http://wuxiaolong.me/2015/09/02/SharePopupWindow/)
+
 ### Preference
 
 1. [PreferenceActivity（首选项设置页）](http://blog.csdn.net/plussoft/article/details/9993759)
@@ -444,6 +475,7 @@ Welcome `Star` and `Fork`, your support is my greatest affirmation.
 
 ### Retrofit
 
+1. [我对Retrofit的认识](http://blog.fangjie.info/2016/07/14/%E6%88%91%E5%AF%B9Retrofit%E7%9A%84%E8%AE%A4%E8%AF%86/)
 
 
 ### RxJava
@@ -482,6 +514,7 @@ Welcome `Star` and `Fork`, your support is my greatest affirmation.
 1. [Android SharedPreferences使用以及原理详解](http://blog.csdn.net/wxyyxc1992/article/details/17222841)
 2. [Google为何这样设计OnSharedPreferenceChangeListener](http://droidyue.com/blog/2014/11/29/why-onsharedpreferencechangelistener-was-not-called/)
 3. [SharedPreferences在多进程中的使用及注意事项](http://zmywly8866.github.io/2015/09/09/sharedpreferences-in-multiprocess.html)
+4. [What's the difference between commit() and apply() in Shared Preference](http://stackoverflow.com/questions/5960678/whats-the-difference-between-commit-and-apply-in-shared-preference)
 
 ### SparseArray
 
@@ -548,6 +581,13 @@ Welcome `Star` and `Fork`, your support is my greatest affirmation.
 2. [Don’t Test Blindly: The Right Methods for Unit Testing Your Java Apps](http://zeroturnaround.com/rebellabs/dont-test-blindly-the-right-methods-for-unit-testing-your-java-apps/)
 3. [在Android Studio中进行单元测试和UI测试](http://www.jianshu.com/p/03118c11c199)
 
+### URL Routing - 路由协议
+
+1. [Android路由框架设计与实现](http://www.sixwolf.net/blog/2016/03/23/Android%E8%B7%AF%E7%94%B1%E6%A1%86%E6%9E%B6%E8%AE%BE%E8%AE%A1/)
+2. [UrlRouter路由框架的设计](http://zhengxiaoyong.me/2016/04/24/UrlRouter%E8%B7%AF%E7%94%B1%E6%A1%86%E6%9E%B6%E7%9A%84%E8%AE%BE%E8%AE%A1/)
+3. [需要给activity跳转增加路由么？](https://github.com/android-cn/android-discuss/issues/383)
+4. [通过 URL 打开 Activity](http://caodongping.me/2016/04/11/%E9%80%9A%E8%BF%87URL%E6%89%93%E5%BC%80Activity/#more)
+
 ---
 
 ## V
@@ -603,6 +643,7 @@ Welcome `Star` and `Fork`, your support is my greatest affirmation.
 7. [理解WebKit和Chromium: Android 4.4 上的Chromium WebView](http://blog.csdn.net/milado_nju/article/details/17098399)
 8. [在WebView中如何让JS与Java安全地互相调用](http://www.pedant.cn/2014/07/04/webview-js-java-interface-research/)
 9. [Android WebView的Js对象注入漏洞解决方案](http://blog.csdn.net/leehong2005/article/details/11808557)
+10. [Android WebView播放视频问题](http://www.jianshu.com/p/d6d379e3f41d)
 
 ---
 
@@ -635,6 +676,10 @@ Welcome `Star` and `Fork`, your support is my greatest affirmation.
 1. [Android Studio发布项目到Jcenter](http://blog.saymagic.cn/2015/02/16/release-library-to-jcenter.html)
 2. [将Library上传到Jcenter](http://www.jianshu.com/p/0ba8960f80a9)
 3. [使用Gradle发布aar项目到JCenter仓库](http://www.cnblogs.com/qianxudetianxia/p/4322331.html)
+
+### JitPack
+
+1. [优雅的发布Android开源库(论JitPack的优越性)](https://github.com/GcsSloop/AndroidNote/blob/master/Course/ReleaseLibraryByJitPack.md)
 
 ### 反编译
 
@@ -704,6 +749,7 @@ Welcome `Star` and `Fork`, your support is my greatest affirmation.
 16. [How to convert a color integer to a hex String in Android?](http://stackoverflow.com/questions/6539879/how-to-convert-a-color-integer-to-a-hex-string-in-android)
 17. [IllegalArgumentException: width and height must be > 0 while loading Bitmap from View](http://stackoverflow.com/questions/17605662/illegalargumentexception-width-and-height-must-be-0-while-loading-bitmap-from)
 18. [Unable to instantiate application com.android.tools.fd.runtime.BootstrapApplication ?](http://stackoverflow.com/questions/33967703/unable-to-instantiate-application-com-android-tools-fd-runtime-bootstrapapplicat)
+19. [Unknown URL content://downloads/my_downloads](http://blog.csdn.net/mackkill/article/details/52003858)
 
 ---
 
