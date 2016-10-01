@@ -123,6 +123,7 @@ Welcome `Star` and `Fork`, your support is my greatest affirmation.
 
 1. [Android6.0运行时权限简介](http://unclechen.github.io/2016/03/05/Android6.0%E8%BF%90%E8%A1%8C%E6%97%B6%E6%9D%83%E9%99%90%E7%AE%80%E4%BB%8B/)
 2. [Android 6.0 - 动态权限管理的解决方案](http://www.jianshu.com/p/dbe4d37731e6)
+3. [聊一聊Android 6.0的运行时权限](http://droidyue.com/blog/2016/01/17/understanding-marshmallow-runtime-permission/)
 
 ---
 
@@ -230,6 +231,8 @@ Welcome `Star` and `Fork`, your support is my greatest affirmation.
 8. [Android Fragment 嵌套使用(Nested Fragments)](http://blog.csdn.net/top_code/article/details/37343075)
 9. [Fragment MyFragment not attached to Activity](http://stackoverflow.com/questions/10919240/fragment-myfragment-not-attached-to-activity)
 10. [Fragment全解析系列（一）：那些年踩过的坑](http://www.jianshu.com/p/d9143a92ad94)
+11. [onActivityResult is not being called in Fragment](http://stackoverflow.com/questions/6147884/onactivityresult-is-not-being-called-in-fragment)
+12. []()
 
 ### Fresco
 
@@ -485,6 +488,10 @@ Welcome `Star` and `Fork`, your support is my greatest affirmation.
 3. [NotRxJava懒人专用指南](http://www.devtf.cn/?p=323)
 4. [小试RxJava](http://kescoode.com/try-rxjava/)
 
+### RxAndroid
+
+1. [IllegalStateException onError](https://github.com/ReactiveX/RxAndroid/issues/79)
+
 ### RandomAccessFile
 
 1. [Java RandomAccessFile用法](http://blog.csdn.net/akon_vm/article/details/7429245)
@@ -599,6 +606,7 @@ Welcome `Star` and `Fork`, your support is my greatest affirmation.
 3. [【移动开发】Android中Fragment+ViewPager的配合使用](http://smallwoniu.blog.51cto.com/3911954/1322746)
 4. [Android 手把手教您自定义ViewGroup（一）本文出自:【张鸿洋的博客】](http://blog.csdn.net/lmj623565791/article/details/38339817)
 5. [Android的坑之ScrollView嵌套ViewPager](http://hellsam.com/2015/01/29/Android%E7%9A%84%E5%9D%91%E4%B9%8BScrollView%E5%B5%8C%E5%A5%97ViewPager/)
+6. [IllegalStateException: The application's PagerAdapter changed the adapter's content without calling PagerAdapter#notifyDataSetChanged](http://stackoverflow.com/questions/22943658/illegalstateexception-the-applications-pageradapter-changed-the-adapters-cont)
 
 ### View
 
@@ -750,6 +758,10 @@ Welcome `Star` and `Fork`, your support is my greatest affirmation.
 17. [IllegalArgumentException: width and height must be > 0 while loading Bitmap from View](http://stackoverflow.com/questions/17605662/illegalargumentexception-width-and-height-must-be-0-while-loading-bitmap-from)
 18. [Unable to instantiate application com.android.tools.fd.runtime.BootstrapApplication ?](http://stackoverflow.com/questions/33967703/unable-to-instantiate-application-com-android-tools-fd-runtime-bootstrapapplicat)
 19. [Unknown URL content://downloads/my_downloads](http://blog.csdn.net/mackkill/article/details/52003858)
+20. [Android开发之实现多次点击事件](http://blog.csdn.net/fengshizty/article/details/41675923)
+21. [Android完美解决输入框EditText隐藏密码打勾显示密码问题](http://blog.csdn.net/a2bgeek/article/details/9705305)
+22. [Android获取手机型号,系统版本,App版本号等信息](http://blog.csdn.net/lfdfhl/article/details/9070183)
+23. [你需要知道的Android拍照适配方案](http://www.jianshu.com/p/f269bcda335f)
 
 ---
 
