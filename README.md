@@ -237,7 +237,6 @@ Welcome `Star` and `Fork`, your support is my greatest affirmation.
 
 1. [Fresco学习笔记](http://blog.happyhls.me/2015/08/03/fresco%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/)
 2. [why use fresco datasource to get bitmap is empty](http://stackoverflow.com/questions/30477827/why-use-fresco-datasource-to-get-bitmap-is-empty)
-3. [Fresco-Facebook的图片加载框架的使用](http://www.voidcn.com/blog/chwnpp2/article/p-5761715.html)
 
 
 ### FlowLayout - 自定义流布局
