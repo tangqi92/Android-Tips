@@ -232,12 +232,12 @@ Welcome `Star` and `Fork`, your support is my greatest affirmation.
 9. [Fragment MyFragment not attached to Activity](http://stackoverflow.com/questions/10919240/fragment-myfragment-not-attached-to-activity)
 10. [Fragment全解析系列（一）：那些年踩过的坑](http://www.jianshu.com/p/d9143a92ad94)
 11. [onActivityResult is not being called in Fragment](http://stackoverflow.com/questions/6147884/onactivityresult-is-not-being-called-in-fragment)
-12. []()
 
 ### Fresco
 
 1. [Fresco学习笔记](http://blog.happyhls.me/2015/08/03/fresco%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/)
 2. [why use fresco datasource to get bitmap is empty](http://stackoverflow.com/questions/30477827/why-use-fresco-datasource-to-get-bitmap-is-empty)
+3. [Fresco-Facebook的图片加载框架的使用](http://www.voidcn.com/blog/chwnpp2/article/p-5761715.html)
 
 
 ### FlowLayout - 自定义流布局
