@@ -124,6 +124,7 @@ Welcome `Star` and `Fork`, your support is my greatest affirmation.
 1. [Android6.0运行时权限简介](http://unclechen.github.io/2016/03/05/Android6.0%E8%BF%90%E8%A1%8C%E6%97%B6%E6%9D%83%E9%99%90%E7%AE%80%E4%BB%8B/)
 2. [Android 6.0 - 动态权限管理的解决方案](http://www.jianshu.com/p/dbe4d37731e6)
 3. [聊一聊Android 6.0的运行时权限](http://droidyue.com/blog/2016/01/17/understanding-marshmallow-runtime-permission/)
+4. [Android6.0权限系统](https://github.com/CharonChui/AndroidNote/blob/master/Android%E5%8A%A0%E5%BC%BA/Android6.0%E6%9D%83%E9%99%90%E7%B3%BB%E7%BB%9F.md)
 
 ---
 
@@ -237,6 +238,10 @@ Welcome `Star` and `Fork`, your support is my greatest affirmation.
 
 1. [Fresco学习笔记](http://blog.happyhls.me/2015/08/03/fresco%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/)
 2. [why use fresco datasource to get bitmap is empty](http://stackoverflow.com/questions/30477827/why-use-fresco-datasource-to-get-bitmap-is-empty)
+3. [Always cannot show the images when loading lots of bitmaps on screen](https://github.com/facebook/fresco/issues/256)
+4. [SimpleDraweeView did not recycled in RecyclerView](https://github.com/facebook/fresco/issues/414)
+5. [Fresco-Facebook的图片加载框架的使用](http://www.voidcn.com/blog/chwnpp2/article/p-5761715.html)
+6. [Resizing and Rotating](http://frescolib.org/docs/resizing-rotating.html#_)
 
 
 ### FlowLayout - 自定义流布局
