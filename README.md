@@ -766,6 +766,7 @@ Welcome `Star` and `Fork`, your support is my greatest affirmation.
 21. [Android完美解决输入框EditText隐藏密码打勾显示密码问题](http://blog.csdn.net/a2bgeek/article/details/9705305)
 22. [Android获取手机型号,系统版本,App版本号等信息](http://blog.csdn.net/lfdfhl/article/details/9070183)
 23. [你需要知道的Android拍照适配方案](http://www.jianshu.com/p/f269bcda335f)
+24. [Can't create handler inside thread that has not called Looper.prepare()](http://stackoverflow.com/questions/3875184/cant-create-handler-inside-thread-that-has-not-called-looper-prepare)
 
 ---
 
