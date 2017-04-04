@@ -343,9 +343,15 @@ Welcome `Star` and `Fork`, your support is my greatest affirmation.
 
 ### Kotlin
 
-1. [Kotlin Programming Language](https://github.com/JetBrains/kotlin)
-2. [Kotlin中文站点](http://kotlinlang.cn/)
-3. [使用Kotlin进行Android开发](http://ragnraok.github.io/using-kotlin-to-write-android-app.html)
+1. [Using Kotlin for Android Development](http://itangqi.me/2017/03/28/using-kotlin-for-android-development/)
+2. [Kotlin: Java 6 废土中的一线希望](https://realm.io/cn/news/droidcon-michael-pardo-kotlin/)
+3. [Kotlin 语言高级安卓开发入门](https://realm.io/cn/news/oredev-jake-wharton-kotlin-advancing-android-dev/)
+4. [Kotlin的黑魔法](http://blog.inico.me/2016/10/26/Kotlin-Magic-Java-Swift#.WONK-nR972R)
+5. [Learn Kotlin with Keddit](https://medium.com/@juanchosaravia/learn-kotlin-while-developing-an-android-app-introduction-567e21ff9664)
+6. [Coding Android Apps in Kotlin](https://code.tutsplus.com/series/coding-android-apps-in-kotlin--cms-1119)
+7. [Kotlin 一门强大的语言](https://kymjs.com/column/kotlin.html)
+8. [kotlin 学习](https://www.feel88.cn/2016/09/21/kotlin%E5%AD%A6%E4%B9%A0/)
+9. [Kotlin从入门到『放弃』系列 视频教程](https://github.com/enbandari/Kotlin-Tutorials)
 
 ---
 
