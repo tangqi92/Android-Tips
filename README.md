@@ -390,6 +390,9 @@ Welcome `Star` and `Fork`, your support is my greatest affirmation.
 2. [An exploration in Material Design](https://medium.com/feedly-behind-the-curtain/an-exploration-in-material-design-by-feedly-8c1a1cbdfdcd)
 3. [谢谷歌大神传我动画设计30年功力](http://www.zcool.com.cn/article/ZMTU5MzAw.html#jtss-tsina)
 4. [Codelab for Android Design Support Library used in I/O Rewind Bangkok session](http://inthecheesefactory.com/blog/android-design-support-library-codelab/en)
+5. [Material Design,Daily - MaterialUp](http://www.materialup.com/)
+6. [Material Design Color Palette Generator - Material Palette](http://www.materialpalette.com/)
+7. [在你的Android应用中使用Material Design](http://blog.csdn.net/ijust/article/details/41291315)
 
 ### MVP
 
