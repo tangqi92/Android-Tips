@@ -71,6 +71,22 @@ Welcome `Star` and `Fork`, your support is my greatest affirmation.
 1. [Android简便通用的SimpleBaseAdapter](http://www.stormzhang.com/androidtips/2014/08/31/android-common-simplebaseadapter/)
 2. [Android 快速开发系列 打造万能的ListView GridView 适配器](http://blog.csdn.net/lmj623565791/article/details/38902805/)
 
+###Android Studio
+
+1. [［Android Studio 权威教程］Mac下安装Android Studio](http://blog.csdn.net/yy1300326388/article/details/46324747)
+2. [［Android Studio 权威教程］Windows下安装Android Studio](http://blog.csdn.net/yy1300326388/article/details/46335991)
+3. [［Android Studio 权威教程］Linux下安装Android Studio](http://blog.csdn.net/yy1300326388/article/details/46351669)
+4. [［Android Studio 权威教程］离线配置SDK，创建第一个AS项目](http://blog.csdn.net/yy1300326388/article/details/46365053)
+5. [［Android Studio 权威教程］配置出“NB”的Android Studio](http://blog.csdn.net/yy1300326388/article/details/46374229)
+6. [［Android Studio 权威教程］Android Studio 三种添加插件的方式](http://blog.csdn.net/yy1300326388/article/details/46409637)
+7. [［Android Studio 权威教程］最实用的快捷键](http://blog.csdn.net/yy1300326388/article/details/46411775)
+8. [［Android Studio 权威教程］AS添加第三方库的6种方式（Jar,module,so等）](http://blog.csdn.net/yy1300326388/article/details/46422939)
+9. [［Android Studio 权威教程］断点调试和高级调试](http://blog.csdn.net/yy1300326388/article/details/46501871)
+10. [［Android Studio 权威教程］AS构建系统－Gradle](http://blog.csdn.net/yy1300326388/article/details/46560347)
+11. [［Android Studio 权威教程］AS 中配置强大的版本管理系统(Git、SVN、等)](http://blog.csdn.net/yy1300326388/article/details/46603833)
+12. [［Android Studio 权威教程］多渠道打包和一键完成（全部产品）打包并签名 ](http://blog.csdn.net/yy1300326388/article/details/48296221)
+13. [［Android Studio 权威教程］打包、生成jks密钥、签名Apk、多渠道打包 ](http://blog.csdn.net/yy1300326388/article/details/48344411)
+
 ### AIDL
 
 1. [android进程间通信：使用AIDL](http://blog.csdn.net/saintswordsman/article/details/5130947)
