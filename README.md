@@ -63,7 +63,7 @@ Welcome `Star` and `Fork`, your support is my greatest affirmation.
 1. [Installing ADB on Windows 7](https://www.youtube.com/watch?v=5U_BfrXV90I)
 2. [Android ADB常用命令](http://android.jobbole.com/61592/)
 3. [Android开发调试工具ADB的使用](http://www.cnblogs.com/meil/archive/2012/05/24/2516055.html)
-4. [Android通过Wifi来调试你的应用](http://www.stormzhang.com/android/2014/08/27/adb-over-wifi/)
+4. [Android通过Wifi来调试你的应用](http://stormzhang.com/android/2014/08/27/adb-over-wifi/)
 5. [Adb connection Error:远程主机强迫关闭了一个现有的连接](http://www.oschina.net/question/54100_33209)
 
 ### Adapter
