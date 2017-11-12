@@ -273,7 +273,7 @@ Welcome `Star` and `Fork`, your support is my greatest affirmation.
 
 ### greenDao
 
-1. [ORM 框架之 greenDAO 使用心得](http://itangqi.me/2015/07/26/orm-greendao-summary/)
+1. [ORM 框架之 greenDAO 使用心得](http://imtangqi.com/2015/07/26/orm-greendao-summary/)
 2. [SQLite数据库框架ORMLite与GreenDao的简单比较](http://blog.csdn.net/xushuaic/article/details/24434881)
 3. [在AndoridStudio中引入GreenDAO](http://blog.csdn.net/h3c4lenovo/article/details/43566169)
 
@@ -343,7 +343,7 @@ Welcome `Star` and `Fork`, your support is my greatest affirmation.
 
 ### Kotlin
 
-1. [Using Kotlin for Android Development](http://itangqi.me/2017/03/28/using-kotlin-for-android-development/)
+1. [Using Kotlin for Android Development](http://imtangqi.com/2017/03/28/using-kotlin-for-android-development/)
 2. [Kotlin: Java 6 废土中的一线希望](https://realm.io/cn/news/droidcon-michael-pardo-kotlin/)
 3. [Kotlin 语言高级安卓开发入门](https://realm.io/cn/news/oredev-jake-wharton-kotlin-advancing-android-dev/)
 4. [Kotlin的黑魔法](http://blog.inico.me/2016/10/26/Kotlin-Magic-Java-Swift#.WONK-nR972R)
@@ -652,7 +652,7 @@ Welcome `Star` and `Fork`, your support is my greatest affirmation.
 
 ### WebView
 
-1. [Java 与 JavaScript 如何进行交互](http://itangqi.me/2015/03/07/java-and-javascript-interaction/)
+1. [Java 与 JavaScript 如何进行交互](http://imtangqi.com/2015/03/07/java-and-javascript-interaction/)
 2. [Android与js交互实例](http://blog.csdn.net/ithomer/article/details/8737999)
 3. [Android中Java和JavaScript交互](http://droidyue.com/blog/2014/09/20/interaction-between-java-and-javascript-in-android/)
 4. [顶部带进度条的Webview](http://droidyue.com/blog/2014/07/12/ding-bu-dai-jin-du-tiao-de-webview/)
@@ -779,18 +779,19 @@ Welcome `Star` and `Fork`, your support is my greatest affirmation.
 
 - [troyliu0105](https://github.com/troyliu0105)
 - [whiskeyfei](https://github.com/whiskeyfei)
-- [wavever](https://github.com/wavever)
-- [nitta-honoka](https://github.com/nitta-honoka)
-- [jywanghold](https://github.com/jywanghold)
+- [pingfanganwei](https://github.com/pingfanganwei)
+- [whilu](https://github.com/whilu)
 - [yy1300326388](https://github.com/yy1300326388)
+- [ichenkaihua](https://github.com/ichenkaihua) 
+- [wavever](https://github.com/wavever)
+- [windog](https://github.com/windog)
+- [Henryzhugithub](https://github.com/Henryzhugithub)
+- [Dimon94](https://github.com/Dimon94)
+- [nitta-honoka](https://github.com/nitta-honoka)
 
 ---
 
 ## Contact Me
-
-Born in 1992, now a student of Southeast University, master of software engineerin. Loving technology, programming, reading and sports.
-
-I will graduate in June 2017, expect the internship or full-time job in Android or iOS.
 
 If you have any questions or want to make friends with me, please feel free to contact me : [imtangqi#gmail.com](mailto:imtangqi@gmail.com "Welcome to contact me")  
 
