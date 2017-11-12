@@ -58,6 +58,11 @@ Welcome `Star` and `Fork`, your support is my greatest affirmation.
 
 ### A
 
+### Activity
+
+1. [Android Activity为什么要细化出onCreate、onStart、onResume、onPause、onStop、onDesdroy这么多方法让应用去重载？](http://blog.csdn.net/zhao_3546/article/details/12843477)
+
+
 ### ADB
 
 1. [Installing ADB on Windows 7](https://www.youtube.com/watch?v=5U_BfrXV90I)
@@ -276,6 +281,7 @@ Welcome `Star` and `Fork`, your support is my greatest affirmation.
 1. [ORM 框架之 greenDAO 使用心得](http://imtangqi.com/2015/07/26/orm-greendao-summary/)
 2. [SQLite数据库框架ORMLite与GreenDao的简单比较](http://blog.csdn.net/xushuaic/article/details/24434881)
 3. [在AndoridStudio中引入GreenDAO](http://blog.csdn.net/h3c4lenovo/article/details/43566169)
+4. [gradle脚本集成greendao-generator生成android端greendao](http://www.chenkaihua.com/2016/01/05/gradle-integration-greendao_generator-generate-greendao)
 
 ### GridView
 
