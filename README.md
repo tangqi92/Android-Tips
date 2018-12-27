@@ -275,6 +275,7 @@ Welcome `Star` and `Fork`, your support is my greatest affirmation.
 9. [深入理解Android之Gradle](http://blog.csdn.net/innost/article/details/48228651)
 10. [gradle build fails on lint task](http://stackoverflow.com/questions/20699147/gradle-build-fails-on-lint-task)
 11. [“Gradle Version 2.10 is required.” Error](http://stackoverflow.com/questions/34814368/gradle-version-2-10-is-required-error)
+12: [Gradle buildSrcVersions](https://github.com/jmfayard/buildSrcVersions) - Painless Dependencies Management
 
 ### greenDao
 
